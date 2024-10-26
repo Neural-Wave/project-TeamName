@@ -1,0 +1,13 @@
+tqdm
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-openai
+langchain-text-splitters
+langdetect
+numpy
+pandas
+dotenv
+lingua-language-detector

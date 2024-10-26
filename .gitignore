@@ -1,6 +1,12 @@
 data*
-dataset
+dataset/
 .idea
 .vscode/
 .bash_history
 .lightning_studio/
+.vscode-server/*
+.env
+__pycache__
+*.pyc
+assets/*
+notebooks/*
