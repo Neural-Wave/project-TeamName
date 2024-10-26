@@ -11,3 +11,4 @@ numpy
 pandas
 dotenv
 lingua-language-detector
+fastapi[standard]

@@ -7,4 +7,5 @@
 
 ## Swisscom Project teamName
 
-### Folder structure# project-TeamName
+### Folder structure
+# project-TeamName

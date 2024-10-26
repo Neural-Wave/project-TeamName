@@ -6,7 +6,14 @@ from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from lingua import Language, LanguageDetectorBuilder
 from langchain_core.vectorstores import VectorStore
-from utils import PERSON
+from copy import deepcopy
+
+PERSON = {
+  'EN' : 'You',
+  'FR' : 'Vous',
+  'IT' : 'Tu',
+  'DE' : 'Du'
+}
 
 import textwrap
 
@@ -54,9 +61,6 @@ class SwisscomRAGChat:
         # Initialize the chain using the llm and prompt
         self.chain = create_stuff_documents_chain(self.main_llm, prompt)
 
-        print('Sam:', self.invoke({'input':f'Default interaction language will be {language}. \
-          Introduce yourself in this language. The default language may change if the user changes languages.', 'context':None}, lang=False)[0])
-
     def detect_lang(self, question):
         languages = [Language.ENGLISH, Language.FRENCH, Language.GERMAN, Language.ITALIAN]
         detector = LanguageDetectorBuilder.from_languages(*languages).build()
@@ -75,8 +79,7 @@ class SwisscomRAGChat:
         Swisscom customer support and clarify that your role is to assist only with Swisscom-related inquiries. 
         If the user requests customer support, provide contact information: 0800 555 155, available Monday to Saturday 
         from 8:00 to 20:00. Subtly suggest other relevant Swisscom products or services when possible. Respond in the 
-        same language as the user and, for irrelevant inquiries, avoid sharing additional information. Offer responses 
-        of around 30 words for clarity.
+        same language as the user and, for irrelevant inquiries, avoid sharing additional information.
 
         {context}
         """
@@ -109,9 +112,9 @@ class SwisscomRAGChat:
         documents = retriever.invoke(question)
            
         # Pass the filtered documents to the question-answer chain
-        result = self.chain.invoke({"input": question, "context": documents})
+        response = self.chain.invoke({"input": question, "context": documents})
         
-        return result, documents
+        return response, documents
       
 
     def restart_chat_history(self):
@@ -150,6 +153,37 @@ class SwisscomRAGChat:
         return response, documents
 
       
+    def invoke_batch(self, messages):
+
+        last_message = messages['messages'][-1]
+        assert last_message['role']=='user', 'User is not last message'
+        question = last_message['content']
+        print(question)
+        
+        # Detect the language of the question
+        detected_language = self.detect_lang(question)
+        self.check_default_language(detected_language)
+
+        # Do a search on the vector store
+        retriever = self.vector_store.as_retriever(
+          search_type=self.search_type, 
+          search_kwargs=self.search_kwargs
+        )
+
+        # Retrieve relevant documents and generate answer
+        documents = retriever.invoke(question)
+        response = self.chain.invoke({"input": question, "context": documents})
+        
+        # Update messages
+        updated_messages = deepcopy(messages)
+        response_parsed = {
+          'user' : 'assistant',
+          'content' : response
+        }
+        updated_messages['messages'].append(response_parsed)
+        return updated_messages
+
+
     def update_summary(self, input_text, response):
         # Append new user and assistant message to the history
         self.chat_history.append(f"User: {input_text}\nAssistant: {response}")
@@ -167,6 +201,9 @@ class SwisscomRAGChat:
       if self.language != 'EN':
         instructions = self.invoke({'input':f'Translate {instructions} to {self.language}', 'context':None}, lang=False)[0]
         # info_msg = self.invoke({'input':f'Translate {info_msg} to {self.language}', 'context':None}, lang=False)[0]
+
+      print('Sam:', self.invoke({'input':f'Default interaction language will be {self.language}. \
+          Introduce yourself in this language. The default language may change if the user changes languages.', 'context':None}, lang=False)[0])
 
       while True:
         # Get question from the user
