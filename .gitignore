@@ -8,6 +8,6 @@ dataset/
 __pycache__
 *.pyc
 assets/*
-notebooks/*
+notebooks_local/*
 chroma/*
 backup.zip
