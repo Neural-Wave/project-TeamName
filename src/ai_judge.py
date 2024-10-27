@@ -13,17 +13,11 @@ class Decision(BaseModel):
     short_reason: str
 
 class AIJudge():
-    def __init__(self, input_file, input_base='all', output_file = "", folder = "data"):
+    def __init__(self, input_file, input_base, output_file):
 
         self.input_file = pd.read_json(input_file)
-        self.input_base = pd.read_json(input_base)
-
-        name = input_file.split('/')[-1]
-        
-        self.output_file = f'{folder}/eval-{self.save_filename(name)}.json'
-
-        if(output_file):
-          self.output_file = f'{folder}/{output_file}'
+        self.input_base = pd.read_json(input_base)        
+        self.output_file = output_file
           
         self.client = OpenAI()
 
@@ -93,12 +87,12 @@ class AIJudge():
             })
             
             # Output results every time
-            with open(self.output_file_name, 'w') as f:
+            with open(self.output_file, 'w') as f:
                 json.dump(results, f, indent=1)
 
-        print("Evaluation complete. Results saved to ", self.output_file_name)
+        print("Evaluation complete. Results saved to ", self.output_file)
 
     def compute_overall_score(self):
-        results = pd.read_json(self.output_file_name)
+        results = pd.read_json(self.output_file)
         return results.score.mean()
 
