@@ -41,6 +41,9 @@ how?
 
 
 
+- mi sono stufato voglio parlare con una persona 
+
+
 - Gimme only the price 
 
 

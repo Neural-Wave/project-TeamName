@@ -13,3 +13,4 @@ python-dotenv
 lingua-language-detector
 fastapi[standard]
 rank_bm25
+flask

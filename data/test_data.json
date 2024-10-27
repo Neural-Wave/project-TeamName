@@ -1,31 +1,31 @@
 [
     {
         "input": "Guten Morgen, ich will keine Monatsrechnung sondern zwei MOnatig oder mehr",
-        "prediction": "Es ist nicht möglich, wieder auf eine zweimonatliche Verrechnung umzustellen. Swisscom hat die Abrechnungssysteme vereinheitlicht und sendet nun monatliche Rechnungen. https://www.swisscom.ch/de/privatkunden/hilfe/daten-und-rechnungen/rechnung-bezahlen.html?campId=FAQ_RETRIEVAL.5cecfaa0516484776c2a5b2044a5b7b1DE",
+        "prediction": "Es ist nicht möglich, wieder auf eine zweimonatliche Verrechnung umzustellen. Swisscom hat die Abrechnungssysteme vereinheitlicht und sendet nun monatliche Rechnungen. https://www.swisscom.ch/de/privatkunden/hilfe/daten-und-rechnungen/rechnung-bezahlen.html?campId=FAQ_RETRIEVAL.5cecfaa0516484776c2a5b2044a5b7b1DE Darf ich sonst noch etwas für Sie tun?",
         "language": "de",
         "id": "fc4ab7f4-0dd1-4982-a1e8-af12eb85f697"
     },
     {
         "input": "Guten Tag Ich w\u00fcrde gerne Eink\u00e4ufe f\u00fcr Drittanbieter aktivieren.",
-        "prediction": "Bitte loggen Sie sich auf dieser Seite mit Ihrem Swisscom Login ein: https://login.scl.swisscom.ch/login?",
+        "prediction": "Bitte loggen Sie sich auf dieser Seite mit Ihrem Swisscom Login ein: https://login.scl.swisscom.ch/login? Darf ich sonst noch etwas für Sie tun?",
         "language": "de",
         "id": "61a339c1-5cdc-4ab3-996d-572c2908d86f"
     },
     {
         "input": "Hallo! Wir haben in Alpnach Dorf in Obwalden keinen Zugang mehr zum Internet Telefonie und TV. Ich bitte um Info wann der Fehler wieder behoben ist",
-        "prediction": "Lösen Sie Ihr Internet-Anliegen mit unserem intelligenten Service in My Swisscom. Dieser prüft Ihre Internet-Verbindung und schlägt passende Lösungen vor, die Sie schnell und einfach durchführen können. https://login.scl.swisscom.ch/login?",
+        "prediction": "Lösen Sie Ihr Internet-Anliegen mit unserem intelligenten Service in My Swisscom. Dieser prüft Ihre Internet-Verbindung und schlägt passende Lösungen vor, die Sie schnell und einfach durchführen können. https://login.scl.swisscom.ch/login? Darf ich sonst noch etwas für Sie tun?",
         "language": "de",
         "id": "a85a891c-3040-4d4b-aa72-d211bfe6d7ed"
     },
     {
         "input": "\u00c9crire en francais merci",
-        "prediction": "Je suis désolé, mais je ne peux répondre qu'en allemand. Pourriez-vous reformuler votre question en allemand, s'il vous plaît? https://www.swisscom.ch/de/privatkunden/hilfe/netz-und-servicestatus.html",
+        "prediction": "Je suis désolé, mais je ne peux répondre qu'en allemand. Pourriez-vous reformuler votre question en allemand, s'il vous plaît? https://www.swisscom.ch/de/privatkunden/hilfe/netz-und-servicestatus.html Darf ich sonst noch etwas für Sie tun?",
         "language": "de",
         "id": "b2297a90-735b-48f8-84d9-91d6279a930c"
     },
     {
         "input": "Guten Tag Ich muss mein altes Ger\u00e4t innert 7 Tagen zusenden. Gilt dies sobald ich mein neues habe oder als ich den Vertrag abgeschlossen hatte. M\u00f6chte gerne noch die Daten \u00fcbertragen. Mit besten Gr\u00fcssen",
-        "prediction": "Sie können Ihr altes Gerät bis spätestens sieben Tage nach Erhalt Ihres neuen Smartphones einsenden. Es ist wichtig, dass Sie alle persönlichen Daten löschen und alle Codes deaktivieren, bevor Sie Ihr altes Gerät einsenden. Vergessen Sie nicht, Ihre SIM-Karte zu entfernen. https://www.swisscom.ch/de/privatkunden/mobile-handy-abo/handyverkaufen/faq.html",
+        "prediction": "Sie können Ihr altes Gerät bis spätestens sieben Tage nach Erhalt Ihres neuen Smartphones einsenden. Es ist wichtig, dass Sie alle persönlichen Daten löschen und alle Codes deaktivieren, bevor Sie Ihr altes Gerät einsenden. Vergessen Sie nicht, Ihre SIM-Karte zu entfernen. https://www.swisscom.ch/de/privatkunden/mobile-handy-abo/handyverkaufen/faq.html Darf ich sonst noch etwas für Sie tun?",
         "language": "de",
         "id": "837b7907-6aa0-4b37-9146-2ef7b523eb7b"
     },
@@ -217,7 +217,7 @@
     },
     {
         "input": "Come posso entrare i mycloud da pi\u00f9 di un PC?",
-        "prediction": "",
+        "prediction": "Per accedere a myCloud da un PC, può utilizzare il suo Swisscom Login. Se non ne ha uno, può crearne uno nuovo. https://www.mycloud.swisscom.ch/login/?type=register&lang=it&campId=FAQ_RETRIEVAL.00a4e015204f6276ffb9a2f9507c9ef2IT",
         "language": "it",
         "id": "7a27b58e-74a6-42a6-b8f2-2d56dff2f52d"
     },
@@ -229,235 +229,235 @@
     },
     {
         "input": "Buongiorno, possiedo una prepaid swisscome (numero 0791234567). Quando sto effettuando una chiamata non ricevo nessun avviso se un altro utente prova a chiamarmi in quel momento. Al termine della chiamata non ricevo un sms che mi indica che qualcuno ha provato a chiamarmi (come succede quando ho il telefono spento). Come mai? Come posso fare in modo che ricevo l'avviso di chiamata in entrata (come succede per esempio se sto effettuando una chiamata whatsapp e mi arriva una chiamata normale). Grazie e buona giornata",
-        "prediction": "",
+        "prediction": "Se durante lavori o incidenti è stato danneggiato un cavo di telecomunicazione o un altro elemento della rete via cavo di Swisscom, è necessario informare Swisscom Fixnet dell'accaduto. Per risolvere il problema al più presto, Swisscom avrà bisogno delle seguenti informazioni: luogo del danneggiamento, tipo di danneggiamento (ad esempio, cavo tagliato), chi ha causato il danneggiamento (se noto) e chi contattare per ulteriori informazioni. Può segnalare il guasto direttamente alla hotline gratuita: 0800 800 800. https://www.swisscom.ch/it/about/rete/allacciamento/guasto.html",
         "language": "it",
         "id": "197f297e-5cc1-4135-8aca-455eddd9c84a"
     },
     {
         "input": "Boa tarde, poderiam me mandar a palavra passe do WiFi, ou \u00e9 a mesma de antes?",
-        "prediction": "",
+        "prediction": "Mi dispiace, ma non posso mostrare o visualizzare la sua password Wi-Fi. Tuttavia, può gestire le password e le impostazioni del suo WLAN e del suo router nel seguente link. https://www.swisscom.ch/myswisscom/d?useCase=manageWlanRouter&campId=FAQ_RETRIEVAL.2e1207bd5663db89337aca1e9775deefIT  C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "51164d57-42ef-4ef2-bf27-045091425b65"
     },
     {
         "input": "Ciao Non eiesco a collegare il telecomando al tv box",
-        "prediction": "",
+        "prediction": "Risolvete i vostri problemi TV utilizzando il nostro servizio intelligente in My Swisscom, il quale verificherà il vostro collegamento TV e vi proporrà delle soluzioni adatte che potrete applicare senza difficoltà. https://www.swisscom.ch/myswisscom/support C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "4d345338-d3e3-4bd3-8fb2-845df6cd330f"
     },
     {
         "input": "Buongiorno, se ordinassi il TV Box 5 in offerta ci sono poi costi di ricezione aggiuntivi?",
-        "prediction": "",
+        "prediction": "No, non ci sono costi di ricezione aggiuntivi menzionati per l'ordine del TV-Box 5. https://www.swisscom.ch/it/clienti-privati/abbonamento-tv.html C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "cdfeaff3-bef9-43fe-83b3-3d7e381c7c7e"
     },
     {
         "input": "salve come faccio a configurare il mio galaxy watch6 classic con opzione multi device",
-        "prediction": "",
+        "prediction": "Per configurare il suo Galaxy Watch6 Classic con l'opzione Multi Device, può seguire le istruzioni disponibili sul sito di Swisscom. Se riscontra problemi con la SIM Multi Device su dispositivi aggiuntivi, ci sono soluzioni per risolvere i problemi di attivazione e connessione della scheda SIM Multi Device. https://www.swisscom.ch/it/clienti-privati/aiuto/mobile/multi-device.html?campId=FAQ_RETRIEVAL.e630928a1744c0068408c643fdf39adcIT C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "b7d924c0-d19b-40e1-a4aa-c6b1b97d9e74"
     },
     {
         "input": "Cosa si intende per abbonamento multi device?",
-        "prediction": "",
+        "prediction": "L'abbonamento Multi Device di Swisscom permette di utilizzare lo stesso numero di telefono su più dispositivi, come tablet, smartwatch e altri accessori. Può essere utilizzato su un massimo di 10 apparecchi supplementari. Questa opzione è disponibile con vari abbonamenti Mobile, tra cui blue Mobile e inOne mobile premium. Ricordate che Multi Device è destinato all'uso personale da parte di una sola persona. https://www.swisscom.ch/it/clienti-privati/mobile/optionen/multi-device.html?campId=FAQ_RETRIEVAL.d113b942aa4863ce285fed583f9683abIT C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "cbda05e5-e9fd-4fea-a026-92c3b8125e0a"
     },
     {
         "input": "Voglio sapere se sono ancora abbonato a bluetv sport mensile.",
-        "prediction": "",
+        "prediction": "Può verificare il suo abbonamento a blue Sport in qualsiasi momento accedendo a My Swisscom. https://www.swisscom.ch/myswisscom/d?useCase=viewTvHub&campId=FAQ_RETRIEVAL.cba2d407729c247caefaade09a60d8f8IT C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "eab830ec-bd56-442f-ad70-71e8b3917725"
     },
     {
         "input": "Vorrei riascoltare un messaggio nel mio combox gi\u00e0 ascoltato",
-        "prediction": "",
+        "prediction": "Può riascoltare un messaggio nel suo COMBOX® selezionando il comando 4 sulla tastiera del suo telefono. Questo comando le permette di ripetere il messaggio. https://www.swisscom.ch/it/clienti-privati/aiuto/mobile/combox/tastenfunktion.html C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "cdd60a72-7dff-4e35-84ee-dae47468651e"
     },
     {
         "input": "Buongiorno volevo sapere a che punto \u00e8 lo stato di riparazione del mio dispositivo",
-        "prediction": "",
+        "prediction": "Può controllare lo stato della sua riparazione sul seguente sito web: https://repair.swisscom.ch/repairmanager_customer/#login?campId=FAQ_RETRIEVAL.a20a13be72b7450baf911b37d04b5f8cIT. https://repair.swisscom.ch/repairmanager_customer/#login?campId=FAQ_RETRIEVAL.a20a13be72b7450baf911b37d04b5f8cIT C'è qualcos'altro che posso fare per lei?",
         "language": "it",
         "id": "be7efb06-373d-467c-8e90-f2a3cc761e50"
     },
     {
         "input": "J\u2019ai r\u00e9silier avec l\u2019op\u00e9rateur salt pour venir chez vous avec un nouvel abo et Swisscom m\u2019a dit qu\u2019ils prenaient en charge les frais de r\u00e9siliation de mon ancien op\u00e9rateur mobil salt",
-        "prediction": "",
-        "language": "fr",
+        "prediction": "Dès que l'offre de changement est activée sur votre raccordement, les frais de résiliation de votre ancien fournisseur seront crédités sur vos 12 prochaines factures. Vous recevrez un crédit au prorata sur la première et la douzième facture à compter de la date d'activation. https://www.swisscom.ch/fr/clients-prives/mobile/changez-pour-swisscom.html?campId=FAQ_RETRIEVAL.3c47fcc257bb7aa68a8b03a97033db4fFR Avez-vous d'autres requêtes? Avez-vous d'autres requêtes?",
+        "language": "fr Avez-vous d'autres requêtes?",
         "id": "fe01463e-6160-48d4-b374-aefb6383fd92"
     },
     {
         "input": "je n'arrive pas \u00e0 d\u00e9vier les appels entrant sur la messagerie vocale lorsque je suis en ligne",
-        "prediction": "",
+        "prediction": "Pour dévier les appels entrants sur la messagerie vocale lorsque vous êtes en ligne, vous pouvez activer le service supplémentaire 'Déviation en cas d'interruption' dans My Swisscom. Vous pourrez y définir un numéro vers lequel seront transférés les appels dans ce type de situations. https://www.swisscom.ch/fr/clients-prives/aide/reseau-fixe/telefonie-ip.html Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "5a34902f-4235-42a0-89e2-67e197a51e75"
     },
     {
         "input": "J'aimerais SVP resilier toutes les options actives Canal+, blue premium, blue supermax, pack Bosna, pack Russia.",
-        "prediction": "",
+        "prediction": "Vous pouvez résilier vos options TV, y compris Canal+, blue Premium, blue SuperMax, pack Bosna et pack Russia, à tout moment dans My Swisscom. https://login.scl.swisscom.ch/login? Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "6037bcc4-3f4c-49cc-a3b3-cad9c81cad68"
     },
     {
         "input": "Comment souscrire \u00e0 un package de donn\u00e9e pour la Colombie",
-        "prediction": "",
+        "prediction": "Pour souscrire à un package de données pour la Colombie, vous pouvez le faire via My Swisscom. La Colombie se trouve dans la catégorie 'Monde 1'. Assurez-vous de choisir le bon package en fonction de vos besoins. https://www.swisscom.ch/fr/clients-prives/abonnement-mobile/blue-mobile-s.html Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "a0fb4bec-d05a-4793-abf5-4492616c1d5e"
     },
     {
         "input": "Bonjour, ce matin, je r\u00e9ceptionnne un mail de votre part concernant l'adaptation de nos services swisscom, de quoi s'agit-il? Nous n'avons fait aucune demande dans ce sens.",
-        "prediction": "",
+        "prediction": "Il est possible que ce soit une erreur. Vous pouvez vérifier l'état des modifications de contrat ou de changement d'abonnement dans My Swisscom. Si vous n'avez pas demandé de changements, il ne devrait y avoir aucune modification en cours. https://login.scl.swisscom.ch/login Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "955135aa-b638-4d15-9df5-51d7843bbba4"
     },
     {
         "input": "est il possible de revendre un ipod apple",
-        "prediction": "",
+        "prediction": "Une personne de l’Assistance Swisscom vous aidera à résoudre ce problème. Puis-je essayer de vous mettre en relation avec une personne de l’Assistance Swisscom?",
         "language": "fr",
         "id": "fa5d61a6-3233-4c51-86a9-9018af17080e"
     },
     {
         "input": "Voici ma preuve de paiement pour la derni\u00e8re facture ouverte, pouvez-vous proc\u00e9der au d\u00e9blocage s\u2019il vous pla\u00eet merci",
-        "prediction": "",
+        "prediction": "Prière de vous connecter sur cette page: https://login.scl.swisscom.ch/login",
         "language": "fr",
         "id": "5756a796-0c61-441c-9a66-aa09d106e54d"
     },
     {
         "input": "je re\u00e7ois depuis hier des appels qui n aboutissent \u00e0 rien lorsque je r\u00e9ponds",
-        "prediction": "",
+        "prediction": "Solutionnez vos problèmes mobiles grâce à notre service intelligent accessible sur My Swisscom. Celui-ci vérifiera votre connexion mobile et vous proposera des solutions adéquates que vous pourrez exécuter rapidement et simplement.. https://login.scl.swisscom.ch/login Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "8c18a527-3547-4b3f-9803-3dcaf5a21390"
     },
     {
         "input": "Commo je peut \u00e9cout\u00e9 mon conbox",
-        "prediction": "",
+        "prediction": "Le COMBOX® enregistre pour vous les appels auxquels vous ne pouvez pas répondre personnellement. Pour écouter vos messages, vous devez accéder à votre COMBOX®. https://www.swisscom.ch/fr/clients-prives/abonnement-mobile/options.html Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "a76ca31b-027c-424c-a702-0aa821678f37"
     },
     {
         "input": "Bonjour, Mon compte myCloud a \u00e9t\u00e9 suspendu et je souhaite r\u00e9cup\u00e9rer les donn\u00e9es et photos, comment faire pour le r\u00e9activer ?",
-        "prediction": "",
+        "prediction": "Je suis désolé, mais une fois que le compte myCloud est supprimé, l'accès aux données est désactivé et la suppression ne peut pas être annulée. https://www.swisscom.ch/fr/clients-prives/abonnement-internet/mycloud.html Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "c4c348a1-8867-431a-84ec-48c833f89e47"
     },
     {
         "input": "Bonjour, j\u2019ai une petite question, j\u2019ai eu un soucis avec mon iPhone 14 pro Max et mon assurance me demande la facture d\u2019achat est-ce que c\u2019est possible de l\u2019avoir?",
-        "prediction": "",
+        "prediction": "Bien sûr, vous pouvez trouver les bons de livraison et de garantie pour les commandes dans My Swisscom. https://login.scl.swisscom.ch/login Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "7ff40540-8143-4ee7-972a-36ea90994719"
     },
     {
         "input": "Une facture a \u00e9t\u00e9 d\u00e9bit\u00e9 de mon compte ce matin par erreur pouvez vous refuser le montant",
-        "prediction": "",
+        "prediction": "Une personne de l'Assistance Swisscom vous aidera à résoudre ce problème. Puis-je essayer de vous mettre en relation avec une personne de l'Assistance Swisscom? ",
         "language": "fr",
         "id": "b18b585c-4883-4d8b-81e3-8c760833dc0a"
     },
     {
         "input": "Bonjour, J\u2019ai re\u00e7u sans le demander une Apple box tv chez moi, avec l\u2019offre suivante:",
-        "prediction": "",
+        "prediction": "Une personne de l'Assistance Swisscom vous aidera à résoudre ce problème. Puis-je essayer de vous mettre en relation avec une personne de l'Assistance Swisscom? ",
         "language": "fr",
         "id": "0b40e8da-5d0f-40ae-a077-9df61c2d5df9"
     },
     {
         "input": "Je dois retourner sous-garantie un Panneau solaire Xtorm 21 W. Comment dois-je proc\u00e9der ?",
-        "prediction": "",
+        "prediction": "Vous pouvez retourner gratuitement l'article commandé dans un délai de 14 jours dans l'emballage d'origine scellé et non ouvert. Vous trouverez les bons de livraison et de garantie pour les commandes dans My Swisscom.  https://login.scl.swisscom.ch/login Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "7e0bb5f9-16f1-4c65-8f3d-5de80e816eff"
     },
     {
         "input": "Comment \u00e9couter un message Combox \u00c0 l\u2019\u00e9tranger",
-        "prediction": "",
+        "prediction": "Pour écouter un message sur votre COMBOX® depuis l'étranger, composez le +41 840 266 269 et suivez les instructions. Votre COMBOX® vous indique le nombre de nouveaux messages et les lit l'un après l'autre. https://www.swisscom.ch/fr/clients-prives/aide/mobile/combox.html Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "cf52e16e-2996-4aef-92a7-b05753b287c7"
     },
     {
         "input": "Mon c\u00e2ble HDMI est cass\u00e9",
-        "prediction": "",
+        "prediction": "Vous pouvez vous procurer un câble HDMI de remplacement dans l'Online Shop de Swisscom. Utilisez le filtre pour choisir le type d'appareil pour lequel vous recherchez un câble. https://www.swisscom.ch/fr/clients-prives/produits/accessoires-reseau.html?filterQuery=subcategories%3AKabel%3Bbrand%3ASwisscom&campId=FAQ_RETRIEVAL.c52e3855970b3d35cfa160460c4ff693FR Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "9a1d271f-f2f5-44af-94b4-de8fe6c91ad5"
     },
     {
         "input": "Bonsoir, je viens de prolonger mon abonnement avec l\u2019achat d\u2019un iphone 15. Au shop la dame m\u2019a expliqu\u00e9 que j\u2019allais aussi recevoir 3 mois Disney+ mais je ne sais pas o\u00f9 trouver cette offre. Vous pouvez m\u2019aider svp?",
-        "prediction": "",
+        "prediction": "L'offre Disney+ est disponible pour les clients qui souscrivent à blue Mobile et blue Internet. Cependant, vous ne pouvez bénéficier de l'offre qu'une seule fois pendant les 6 mois offerts. Si vous avez déjà un abonnement Disney+ existant, vous devrez gérer votre compte directement avec le fournisseur pour bénéficier de la promotion Swisscom. Pour plus d'informations, veuillez consulter les documents fournis. https://www.swisscom.ch/fr/clients-prives/abonnement-internet/blue-internet-m.html Avez-vous d'autres requêtes?",
         "language": "fr",
         "id": "59c4f52b-e490-4da9-9e63-3d1683f06375"
     },
     {
         "input": "Bonjour, je voudrais si l'offre de 3 mois gratuit sur Disney plus est aussi pour les clients existants.",
-        "prediction": "",
+        "prediction": "Vous pouvez annuler votre abonnement Blue TV S directement sur votre box TV ou en ligne dans My Swisscom sous 'Adapter le produit'. https://www.swisscom.ch/fr/clients-prives/abonnement-mobile/promotion.html Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "a7cd1226-f023-426f-8d93-a318ba4e89ff"
     },
     {
         "input": "Puis-je rendre un appareil acheter en magasin?",
-        "prediction": "",
+        "prediction": "Oui, vous pouvez retourner l'article acheté dans un délai de 14 jours dans l'emballage d'origine scellé et non ouvert. https://www.swisscom.ch/fr/clients-prives/aide/donnees-et-factures/commande-retour.html?campId=FAQ_RETRIEVAL.85c95d43f600fe96dd5edf65f3d8da7dFR Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "2bf4ae7a-2d8c-4781-a44f-fd45df5b6d65"
     },
     {
         "input": "Je d\u00e9sire imprimer ma derni\u00e8re facture",
-        "prediction": "",
+        "prediction": "Vous pouvez imprimer votre dernière facture en vous connectant à votre espace My Swisscom. Vous y trouverez tous les détails concernant vos factures payées et impayées. https://www.swisscom.ch/myswisscom/d?useCase=billingOverview&campId=FAQ_RETRIEVAL.9177c49e1dd55a2eb78b6dffe198574aFR Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "8bc36e3f-57df-4bf0-b656-92d6373d7a7e"
     },
     {
         "input": "Bonjour, est ce que j\u2019ai une garantie pour mes AirPods",
-        "prediction": "",
+        "prediction": "Leider ist es aufgrund der Vereinheitlichung der Abrechnungssysteme bei Swisscom nicht mehr möglich, auf eine zweimonatliche Rechnungsstellung umzustellen. Die Rechnungen werden nun monatlich versendet. https://www.swisscom.ch/fr/clients-prives/precisions-juridiques.html?campId=FAQ_RETRIEVAL.6149611776d064bef2c068c0b57454caFR Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "0389281a-bd69-443e-b3c4-8e01434dd584"
     },
     {
         "input": "Bonsoir Depuis 2 jours je re\u00e7ois des appels de num\u00e9ros que je ne connais pas me demandant d arr\u00eater de les appeler les interlocuteurs parlent suisse allemand Est-il possible qu un m\u00eame num\u00e9ro soit attribu\u00e9 \u00e0 deux personnes ? Merci d essayer de comprendre car c est tr\u00e8s d\u00e9rangeant.",
-        "prediction": "",
+        "prediction": "Il semble qu'il y ait une confusion avec votre numéro. Cependant, il est peu probable qu'un même numéro soit attribué à deux personnes. Vous pouvez essayer de bloquer les appels entrants et sortants dans My Swisscom pour éviter ces appels indésirables. https://www.swisscom.ch/myswisscom/d?useCase=voipCommercialBlock&origin=&campId=FAQ_RETRIEVAL.34a758da53e8f7d4f2ac4cfdb2aee69cFR Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "fd317109-1833-48cd-9db9-989c7c99f443"
     },
     {
         "input": "Bonjour, j\u2019ai un abonnement pour mon t\u00e9l\u00e9phone mobile. Est ce que je peux le partager avec une apple watch ?",
-        "prediction": "",
+        "prediction": "Oui, vous pouvez partager votre abonnement mobile avec votre Apple Watch en utilisant l'option Multi Device de Swisscom. Cela vous permet de surfer et de téléphoner avec votre Apple Watch via votre abonnement mobile. https://www.swisscom.ch/fr/clients-prives/mobile/optionen/multi-device.html?campId=FAQ_RETRIEVAL.58ea09d3d91615e03c7f268618398a37FR Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "fc5aa079-e742-49c3-8c04-482a266fea64"
     },
     {
         "input": "Je souhaite annul\u00e9 l abonnement Disney plus",
-        "prediction": "",
+        "prediction": "Vous pouvez annuler votre abonnement Disney+ vous-même. Si vous avez souscrit directement auprès de Disney+ avec une autre adresse e-mail que celle de votre compte Swisscom, vous pouvez le faire dans les paramètres de votre compte Disney+. Si vous avez souscrit Disney+ par le biais d’un fournisseur d’applications, vous recevrez un e-mail avec toutes les informations nécessaires pour gérer votre abonnement existant. https://www.swisscom.ch/fr/clients-prives/abonnement-tv/bouquets-supplementaires/disneyplus.html Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "ff69f1af-e653-434a-ace6-639f78541daf"
     },
     {
         "input": "Bonjour, peut on deposer des anciens tel portables chez Swisscom et si oui, sont ils \u00ab&nbsp; vid\u00e9s&nbsp;\u00bb avant d\u2019etre recycl\u00e9s? Merci",
-        "prediction": "",
+        "prediction": "Oui, vous pouvez déposer vos anciens téléphones portables dans un Swisscom Shop ou les renvoyer par la Poste. Avant de les déposer, il est recommandé d'effacer toutes les données personnelles de votre appareil. Pour ce faire, vous pouvez suivre les instructions fournies pour les iPhones et les appareils Android. De plus, vous pouvez bénéficier du programme Swisscom Buyback pour vendre votre ancien appareil et déduire sa valeur du prix d'un nouvel appareil. https://www.swisscom.ch/fr/clients-prives/aide/donnees-et-factures/commande-retour.html Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "0ab4d7fa-1f0a-46d0-9206-e7ab8e87fec9"
     },
     {
         "input": "Bonjour pouvez vous me dire si les donn\u00e9e \u00e0 l\u2019\u00e9tranger sont gratuites je suis en France",
-        "prediction": "",
+        "prediction": "Capisco, se ha bisogno di ulteriori informazioni o assistenza, non esiti a chiedere. https://cockpit.swisscom.ch/?campId=FAQ_RETRIEVAL.af2095ca1a4e613bd338bd9758f43357FR Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "0346da60-8273-4545-af16-89568d9273fb"
     },
     {
         "input": "J'ai r\u00e9sili\u00e9 mon abonnement blue home pour le 31.08.2024 et j'ai re\u00e7u le message que j'allais perdre mes adresse e-mail et que j'avais 90 jours apr\u00e8s la r\u00e9siliation. Si j'ai bien compris, c'est apr\u00e8s le 31.08.2024 que je peux faire la d\u00e9marche, pas avant ?",
-        "prediction": "",
+        "prediction": "Oui, vous avez bien compris. Après la résiliation de votre abonnement, vous pouvez transférer votre adresse e-mail Bluewin vers un nouveau compte dans My Swisscom pour continuer à l'utiliser. Vous avez 90 jours après la résiliation pour effectuer cette démarche. https://www.swisscom.ch/fr/clients-prives/aide/e-mail/bluewin-e-mail/conserver-adresse-resiliation.html Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "d2d0f777-08fd-4fa8-a682-0e6c00f4a5b3"
     },
     {
         "input": "Bonjour, j\u2019aurais souhait\u00e9 conna\u00eetre le dernier num\u00e9ro de t\u00e9l\u00e9phone fixe qui a \u00e9t\u00e9 attribu\u00e9 \u00e0 la Avenue Eiffel. Merci beaucoup.",
-        "prediction": "",
+        "prediction": "Il n'y a momentanément personne dans le service chat qui puisse chatter avec vous. Les horaires d’ouverture habituels sont du lundi au samedi de 8h à 20h. Je vais maintenant mettre fin à notre chat. Si vous avez des questions techniques, vous pouvez nous joindre gratuitement au 0800 800 800. Sinon, n’hésitez pas à revenir vers nous si nécessaire. 🙂",
         "language": "fr",
         "id": "1c858b3e-b537-4303-947d-089fe5d7cd65"
     },
     {
         "input": "Ecrivez-moi en fran\u00e7ais !",
-        "prediction": "",
+        "prediction": "Bien sûr, je suis là pour vous aider en français. Comment puis-je vous aider aujourd'hui ? https://www.swisscom.ch/fr/clients-prives/aide/statut-reseau-services.html Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "d47ff5e4-f8f3-444b-b148-c08f29377136"
     },
     {
         "input": "je ne veux pas changer d'abonnement",
-        "prediction": "",
+        "prediction": "D'accord, vous n'avez pas besoin de changer votre abonnement si vous ne le souhaitez pas. Si vous avez d'autres questions ou besoin d'aide, n'hésitez pas à demander. https://www.swisscom.ch/fr/clients-prives/aide/statut-reseau-services.html Avez-vous d’autres requêtes?",
         "language": "fr",
         "id": "b35598af-d01c-46ee-8138-2865bf0689c7"
     }
