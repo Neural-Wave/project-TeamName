@@ -1,597 +1,464 @@
 [
  {
-  "input":"How can businesses benefit from Swisscom\u2019s solutions?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Swisscom offers a range of solutions tailored specifically for businesses, helping them thrive in today\u2019s digital landscape. Businesses can benefit from Swisscom's reliable and secure connectivity services, including high-speed internet and comprehensive mobile solutions. Additionally, Swisscom provides cloud services, enabling businesses to store and manage data efficiently. Their cybersecurity solutions ensure that business data remains protected from potential threats. Moreover, Swisscom's digital workplace solutions enhance collaboration and productivity within teams.\n\nFor more information on how Swisscom can support your business, you can explore their business solutions page. Are there specific services you're interested in learning more about?\n\nhttps:\/\/www.swisscom.ch\/en\/business.html",
-  "source_file":"promts.json"
+  "input":"Guten Morgen, ich will keine Monatsrechnung sondern zwei MOnatig oder mehr",
+  "prediction":"Guten Morgen! Bei Swisscom ist es m\u00f6glich, die Rechnungsintervalle anzupassen, jedoch sind die Standardintervalle monatlich. F\u00fcr spezifische Anpassungen wie zweimonatliche Rechnungen empfehle ich, direkt mit unserem Kundenservice zu sprechen, um eine individuelle L\u00f6sung zu finden. Sie k\u00f6nnen den Kundenservice unter der Nummer 0800 555 155 von Montag bis Samstag zwischen 8:00 und 20:00 Uhr erreichen. Haben Sie noch weitere Fragen zu unseren Dienstleistungen?",
+  "language":"de",
+  "id":"fc4ab7f4-0dd1-4982-a1e8-af12eb85f697"
  },
  {
-  "input":"What are the current promotions available on the Swisscom website?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Swisscom frequently offers a variety of promotions to cater to different customer needs. Currently, you can enjoy a 50% discount for two years when switching from a prepaid plan to a mobile subscription. Additionally, there are Combi and Family discounts available, which offer savings on mobile subscriptions when combined with an Internet subscription. These promotions are designed to provide excellent value, especially for families or households with multiple subscriptions. \n\nFor more detailed information and to explore all current offers, please visit the Swisscom promotions page. Is there a specific service or product you are interested in? I can provide more details or help you navigate the options.\n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":"promts.json"
+  "input":"Guten Tag Ich w\u00fcrde gerne Eink\u00e4ufe f\u00fcr Drittanbieter aktivieren.",
+  "prediction":"Guten Tag! Um Eink\u00e4ufe f\u00fcr Drittanbieter zu aktivieren, k\u00f6nnen Sie dies ganz einfach \u00fcber Ihr My Swisscom-Konto tun. Loggen Sie sich in My Swisscom ein und navigieren Sie zu den Einstellungen f\u00fcr Drittanbieterdienste. Dort k\u00f6nnen Sie die gew\u00fcnschten Dienste aktivieren oder deaktivieren. \n\nFalls Sie noch kein My Swisscom-Konto haben, k\u00f6nnen Sie sich auf der Swisscom-Website registrieren. Sollten Sie weitere Unterst\u00fctzung ben\u00f6tigen, stehe ich Ihnen gerne zur Verf\u00fcgung oder Sie k\u00f6nnen den Swisscom Kundendienst unter 0800 555 155 kontaktieren.\n\nHier ist der Link zu My Swisscom, wo Sie die Einstellungen vornehmen k\u00f6nnen:\n[My Swisscom](https:\/\/www.swisscom.ch\/de\/privatkunden\/kundencenter.html)",
+  "language":"de",
+  "id":"61a339c1-5cdc-4ab3-996d-572c2908d86f"
  },
  {
-  "input":"How can users learn about Swisscom\u2019s latest products?",
-  "language":"EN",
-  "id":"",
-  "prediction":"To stay updated on Swisscom\u2019s latest products, you can subscribe to the Swisscom Newsletter. This newsletter provides weekly updates on new products, smartphone highlights, innovative gadgets, and more. Additionally, you can explore the Swisscom Online Shop for the latest promotions and special offers on a wide range of products, including mobile phones and accessories. \n\nWould you like to know more about a specific product category or perhaps explore our current promotions? You can subscribe to the newsletter here:\n\n[Subscribe to Swisscom Newsletter](https:\/\/www.swisscom.ch\/en\/residential.html)",
-  "source_file":"promts.json"
+  "input":"Hallo! Wir haben in Alpnach Dorf in Obwalden keinen Zugang mehr zum Internet Telefonie und TV. Ich bitte um Info wann der Fehler wieder behoben ist",
+  "prediction":"Hallo! Es tut mir leid zu h\u00f6ren, dass Sie in Alpnach Dorf Probleme mit Ihrem Internet, Telefonie und TV haben. Um aktuelle Informationen \u00fcber St\u00f6rungen und Wartungsarbeiten in Ihrer Region zu erhalten, empfehle ich Ihnen, die Swisscom Statusseite zu besuchen. Dort finden Sie die neuesten Updates zu Netzunterbrechungen: [Swisscom Statusseite](https:\/\/www.swisscom.ch\/status).\n\nFalls das Problem weiterhin besteht, k\u00f6nnen Sie auch unseren Kundenservice unter 0800 555 155 kontaktieren. Sie sind von Montag bis Samstag von 8:00 bis 20:00 Uhr erreichbar. Gibt es noch etwas, bei dem ich Ihnen helfen kann?",
+  "language":"de",
+  "id":"a85a891c-3040-4d4b-aa72-d211bfe6d7ed"
  },
  {
-  "input":"Can users customize their experience on the Swisscom site?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Yes, users can customize their experience on the Swisscom site, particularly through the My Swisscom platform. With My Swisscom, you can adjust your subscriptions, manage your bills, and personalize settings like your Wi-Fi passwords or TV channel list. The platform also offers features like simple login using fingerprint or facial recognition, and it keeps you informed about the latest updates, faults, and special offers. \n\nFor more details on how to make the most of My Swisscom, you can visit the My Swisscom page here:\nhttps:\/\/www.swisscom.ch\/en\/residential\/my-swisscom.html\n\nIs there a specific feature you are interested in customizing?",
-  "source_file":"promts.json"
+  "input":"\u00c9crire en francais merci",
+  "prediction":"Bien s\u00fbr, je suis l\u00e0 pour vous aider en fran\u00e7ais ! Comment puis-je vous assister aujourd'hui ? Si vous avez des questions sur les services Swisscom, les produits, ou si vous avez besoin d'aide avec quelque chose en particulier, n'h\u00e9sitez pas \u00e0 me le faire savoir. Je suis l\u00e0 pour vous guider et vous fournir toutes les informations n\u00e9cessaires.",
+  "language":"de",
+  "id":"b2297a90-735b-48f8-84d9-91d6279a930c"
  },
  {
-  "input":"Is there a search bar to help users find specific information?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Yes, the Swisscom website features a search bar that can help you quickly find specific information or services. This tool is particularly useful for navigating through various offerings such as mobile plans, internet services, or TV subscriptions. Simply type in your query, and it will guide you to the most relevant pages. If you need further assistance, feel free to ask here, or you can explore the Swisscom Community for additional support. Is there something specific you are looking for today? \n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":"promts.json"
+  "input":"Guten Tag Ich muss mein altes Ger\u00e4t innert 7 Tagen zusenden. Gilt dies sobald ich mein neues habe oder als ich den Vertrag abgeschlossen hatte. M\u00f6chte gerne noch die Daten \u00fcbertragen. Mit besten Gr\u00fcssen",
+  "prediction":"Guten Tag! Die Frist von 7 Tagen beginnt in der Regel, sobald Sie Ihr neues Ger\u00e4t erhalten haben. Das gibt Ihnen Zeit, Ihre Daten auf das neue Ger\u00e4t zu \u00fcbertragen. Ich empfehle, die Daten\u00fcbertragung so schnell wie m\u00f6glich durchzuf\u00fchren, um sicherzustellen, dass alles reibungslos verl\u00e4uft. Falls Sie Unterst\u00fctzung bei der Daten\u00fcbertragung ben\u00f6tigen, k\u00f6nnen Sie gerne die Anleitungen auf unserer Website nutzen.\n\nHaben Sie schon dar\u00fcber nachgedacht, wie Sie Ihr altes Ger\u00e4t zur\u00fccksenden m\u00f6chten? Sie k\u00f6nnen es an einem der \u00fcber 800 P\u00e4ckli Punkt Standorte in der Schweiz abgeben. Weitere Informationen finden Sie hier:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/geraete-zuruecksenden.html\n\nWenn Sie weitere Fragen haben, lassen Sie es mich bitte wissen!",
+  "language":"de",
+  "id":"837b7907-6aa0-4b37-9146-2ef7b523eb7b"
  },
  {
-  "input":"How can users create a Swisscom account on the website?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Creating a Swisscom account online is a straightforward process. To begin, visit the Swisscom website and navigate to the registration page. You'll need to provide some personal information such as your name, email address, and a secure password. Once you've filled out the necessary details, follow the prompts to verify your email address. After verification, your account will be ready to use, allowing you to manage your services and access exclusive features. \n\nFor more detailed guidance, you can visit the Swisscom Login page here:\nhttps:\/\/www.swisscom.ch\/en\/residential\/help\/login.html\n\nIs there anything else you would like to know about Swisscom services?",
-  "source_file":"promts.json"
+  "input":"Guten Tag, ich habe heute leider meine Lieferung von der Post verpasst. Jedoch nur um ca. eine Stunde, k\u00f6nnten Sie mir allenfalls die Sendungsnummer mitteilen, dass ich nachforschen kann ob der Lieferdienst noch unterwegs ist?",
+  "prediction":"Guten Tag! Es tut mir leid zu h\u00f6ren, dass Sie Ihre Lieferung verpasst haben. Leider habe ich keinen Zugriff auf individuelle Sendungsnummern. Normalerweise hinterl\u00e4sst die Post eine Abholeinladung, die Sie nutzen k\u00f6nnen, um Ihr Paket abzuholen oder eine alternative Zustellung zu vereinbaren. \n\nSie k\u00f6nnen den Status Ihrer Lieferung auch in My Swisscom \u00fcberpr\u00fcfen, falls die Sendungsnummer dort hinterlegt ist. Sollten Sie weitere Unterst\u00fctzung ben\u00f6tigen, empfehle ich, direkt mit der Post oder unserem Kundenservice unter 0800 555 155 Kontakt aufzunehmen. \n\nHier finden Sie weitere Informationen zur Lieferung: \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/bestellung-lieferung.html\n\nGibt es noch etwas, bei dem ich Ihnen helfen kann?",
+  "language":"de",
+  "id":"8d0342a6-8002-4ee9-9f84-fbed5de74d09"
  },
  {
-  "input":"What payment options are accepted for Swisscom services?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Swisscom offers a variety of convenient payment options for its services. You can pay your bills using credit cards, TWINT, or through direct debit from your bank account. Additionally, you can manage and pay your bills via the My Swisscom app or website, which provides flexibility and ease of access. If you prefer not to receive paper bills, you can opt for electronic billing through My Swisscom as well. \n\nWould you like to know more about setting up any of these payment methods or other Swisscom services? \n\nFor more details, visit: \nhttps:\/\/www.swisscom.ch\/en\/residential\/help\/bills-and-costs\/payment-options.html",
-  "source_file":"promts.json"
+  "input":"Hallo Ich m\u00f6chte anonyme anrufe blockieren",
+  "prediction":"Hallo! Um anonyme Anrufe zu blockieren, k\u00f6nnen Sie den kostenlosen Callfilter von Swisscom aktivieren. Dieser sch\u00fctzt Sie vor Anrufen von unseri\u00f6sen Callcentern und erm\u00f6glicht es, anonyme Anrufe zu blockieren. Gehen Sie dazu in Ihr My Swisscom Kundenkonto und w\u00e4hlen Sie die Option, um anonyme Anrufe zu sperren. Sie k\u00f6nnen auch manuell Nummern hinzuf\u00fcgen, die Sie blockieren m\u00f6chten.\n\nFalls Sie weitere Unterst\u00fctzung ben\u00f6tigen, stehe ich Ihnen gerne zur Verf\u00fcgung. Hier finden Sie mehr Informationen zum Callfilter: \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/mobile\/callfilter.html\n\nHaben Sie noch andere Fragen oder ben\u00f6tigen Sie Hilfe bei einem anderen Thema?",
+  "language":"de",
+  "id":"dba206cf-a420-4c64-9843-189c138d5eaf"
  },
  {
-  "input":"Welche Dienstleistungen bietet Swisscom f\u00fcr Privatkunden an?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Swisscom bietet Privatkunden eine breite Palette an Dienstleistungen, darunter Festnetztelefonie, Breitband-Internet, TV und Mobilfunk. Mit den flexiblen blue Abos k\u00f6nnen Kunden ihre Angebote individuell anpassen. Diese Abos sind klimaneutral und bieten hohe Geschwindigkeiten mit 5G und Glasfaser, europaweite Flatrates und Optionen f\u00fcr mehrere Ger\u00e4te. Zudem gibt es Sicherheits- und Serviceangebote zum Schutz pers\u00f6nlicher Daten und Ger\u00e4te. M\u00f6chten Sie mehr \u00fcber ein bestimmtes Produkt erfahren oder ben\u00f6tigen Sie Hilfe bei der Auswahl eines passenden Abos?\n\nWeitere Informationen finden Sie hier:\n[Swisscom Privatkundenangebote](https:\/\/www.swisscom.ch\/de\/privatkunden.html)",
-  "source_file":"promts.json"
+  "input":"hallo swisscom kundenservice mein vater ist bei euch kunde und hat seine logindaten f\u00fcr myswisscom vergessen. ich weiss wegen datenschutz d\u00fcrft ihr mir keine auskunft geben, aber k\u00f6nnt ihr bitte mit ihm in kontakt treten? seine mobilnummer ist 0791234567 wir sind an der gleichen adresse gleicher haushalt",
+  "prediction":"Hallo! Es tut mir leid zu h\u00f6ren, dass Ihr Vater seine Login-Daten vergessen hat. Aus Datenschutzgr\u00fcnden k\u00f6nnen wir leider nicht direkt mit ihm Kontakt aufnehmen oder Informationen \u00fcber sein Konto an Sie weitergeben. Ihr Vater kann jedoch die Funktion \"Passwort vergessen\" auf der My Swisscom Login-Seite nutzen, um seine Zugangsdaten zur\u00fcckzusetzen. Alternativ kann er uns direkt unter 0800 555 155 kontaktieren, um Unterst\u00fctzung zu erhalten. Wir sind von Montag bis Samstag von 8:00 bis 20:00 Uhr erreichbar. \n\nHier ist der Link zur My Swisscom Login-Seite, wo er die Passwort-Wiederherstellung starten kann:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/loesung\/login.html\n\nKann ich Ihnen sonst noch irgendwie behilflich sein?",
+  "language":"de",
+  "id":"d30b57b4-4439-4da0-8906-103897dc8042"
  },
  {
-  "input":"Wie k\u00f6nnen Unternehmen von Swisscom-L\u00f6sungen profitieren?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Unternehmen k\u00f6nnen erheblich von Swisscom-L\u00f6sungen profitieren, indem sie ihre digitale Transformation vorantreiben und ihre Effizienz steigern. Swisscom bietet umfassende Dienstleistungen, die von Cloud-L\u00f6sungen \u00fcber IoT-Implementierungen bis hin zu Cybersecurity reichen. Diese L\u00f6sungen helfen Unternehmen, ihre IT-Infrastruktur zu modernisieren, Kosten zu senken und neue Gesch\u00e4ftsmodelle zu entwickeln. Zudem unterst\u00fctzt Swisscom bei der Entwicklung einer ma\u00dfgeschneiderten Digitalstrategie, um den spezifischen Anforderungen eines Unternehmens gerecht zu werden.\n\nM\u00f6chten Sie mehr \u00fcber spezifische L\u00f6sungen erfahren oder haben Sie ein bestimmtes Projekt im Kopf? Weitere Informationen finden Sie hier:\nhttps:\/\/www.swisscom.ch\/de\/business\/enterprise\/angebot.html",
-  "source_file":"promts.json"
+  "input":"Hallo, der Vorbesitzer hat das Internetabo per 30.4.2024 gek\u00fcndigt. John Doe, Einestrasse 1. Kann ich den alten Router abgeben oder vernichten?",
+  "prediction":"Hallo! Wenn der Vorbesitzer das Internetabo gek\u00fcndigt hat, k\u00f6nnen Sie den alten Router entweder an Swisscom zur\u00fccksenden oder fachgerecht entsorgen. Swisscom nimmt alte Ger\u00e4te gerne zur\u00fcck, um sie aufzufrischen oder umweltgerecht zu entsorgen. Dies ist eine nachhaltige Option, die wir sehr empfehlen. \n\nWenn Sie sich entscheiden, den Router zur\u00fcckzusenden, finden Sie alle notwendigen Informationen und R\u00fccksendeoptionen auf unserer Website. \n\nHaben Sie noch weitere Fragen zu Ihrem Internetanschluss oder anderen Swisscom-Diensten?\n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/geraete\/retouren.html",
+  "language":"de",
+  "id":"67e26f19-c8dd-4ccf-b553-ed57bb234f0b"
  },
  {
-  "input":"Bietet Swisscom Dienstleistungen f\u00fcr Startups oder kleine Unternehmen an?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Ja, Swisscom bietet spezielle Dienstleistungen f\u00fcr Startups und kleine Unternehmen an. Mit Swisscom StartUp erhalten Gr\u00fcnder wertvolle Unterst\u00fctzung durch Know-how, Marktzug\u00e4nge und Insights. Diese Dienstleistungen helfen Ihnen, Ihr Unternehmen effizient zu starten und zu wachsen. Swisscom bietet auch ma\u00dfgeschneiderte L\u00f6sungen im Bereich Kommunikation, IT und Sicherheit, um den spezifischen Bed\u00fcrfnissen kleiner Unternehmen gerecht zu werden. \n\nInteressieren Sie sich f\u00fcr eine bestimmte Dienstleistung oder ben\u00f6tigen Sie Unterst\u00fctzung bei einem bestimmten Thema? Weitere Informationen finden Sie auf unserer Webseite:\n\nhttps:\/\/www.swisscom.ch\/de\/business\/start-up.html",
-  "source_file":"promts.json"
+  "input":"Hallo. Ich kann im Swisscom-Shop den 5G-Internet-Booster nicht finden.",
+  "prediction":"Hallo! Der 5G-Internet-Booster von Swisscom ist eine gro\u00dfartige M\u00f6glichkeit, Ihre Internetverbindung zu verbessern, insbesondere in Gebieten mit schw\u00e4cherem Empfang. Es kann sein, dass der Booster derzeit nicht im Online-Shop verf\u00fcgbar ist oder dass er in einem bestimmten Bereich des Shops versteckt ist. Ich empfehle Ihnen, direkt im Swisscom-Shop nachzufragen oder unseren Kundenservice unter 0800 555 155 zu kontaktieren, um aktuelle Informationen zu Verf\u00fcgbarkeit und Bestellm\u00f6glichkeiten zu erhalten. \n\nHaben Sie Interesse an anderen Swisscom-Produkten oder -Dienstleistungen, die ich Ihnen vorstellen kann? \n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden.html",
+  "language":"de",
+  "id":"723b7c5a-edf8-495b-bcdf-25b1d5abcfcc"
  },
  {
-  "input":"Welche aktuellen Angebote sind auf der Swisscom-Website verf\u00fcgbar?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Swisscom bietet regelm\u00e4\u00dfig spannende Angebote und Aktionen an. Derzeit k\u00f6nnen Sie von attraktiven Rabatten auf Mobile-Abos profitieren, wie zum Beispiel 50 % Rabatt f\u00fcr zwei Jahre bei einem Wechsel. Zudem gibt es Kombi-Abos, bei denen Sie Internet, Mobile und TV flexibel kombinieren und sparen k\u00f6nnen. Auch im Bereich der Smartphones und Zubeh\u00f6r gibt es immer wieder interessante Deals. Ich empfehle Ihnen, die Swisscom-Website zu besuchen, um die aktuellsten Angebote zu entdecken.\n\nHier finden Sie mehr Informationen: \n[Swisscom Angebote](https:\/\/www.swisscom.ch\/de\/privatkunden\/angebote.html)\n\nGibt es ein bestimmtes Produkt oder eine Dienstleistung, f\u00fcr die Sie sich besonders interessieren?",
-  "source_file":"promts.json"
+  "input":"Ich m\u00f6chte wissen, was f\u00fcr abos ich bei swisscom habe",
+  "prediction":"Um herauszufinden, welche Abos Sie bei Swisscom haben, k\u00f6nnen Sie sich in Ihr My Swisscom Kundencenter einloggen. Dort erhalten Sie eine \u00dcbersicht \u00fcber alle Ihre aktuellen Abonnements, Rechnungen und k\u00f6nnen Ihre Vertragsdetails einsehen. Falls Sie noch kein Konto haben, k\u00f6nnen Sie sich einfach registrieren. \n\nFalls Sie Unterst\u00fctzung ben\u00f6tigen, k\u00f6nnen Sie auch den Swisscom Kundenservice unter 0800 555 155 kontaktieren, verf\u00fcgbar von Montag bis Samstag von 8:00 bis 20:00 Uhr. Haben Sie weitere Fragen oder ben\u00f6tigen Sie Hilfe bei der Verwaltung Ihrer Abos?\n\nHier ist der Link zum My Swisscom Kundencenter:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/my-swisscom.html",
+  "language":"de",
+  "id":"ca9f9dc3-4297-444f-8410-c31ca7b2cb9f"
  },
  {
-  "input":"Wie k\u00f6nnen Nutzer Informationen \u00fcber die neuesten Produkte von Swisscom erhalten?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Um stets \u00fcber die neuesten Produkte und Angebote von Swisscom informiert zu bleiben, empfehle ich Ihnen, unseren Newsletter zu abonnieren. Dieser bietet Ihnen w\u00f6chentliche Updates zu Smartphone-Highlights, innovativen Gadgets, sowie Tipps und Tricks f\u00fcr Apps und Cybersicherheit. Au\u00dferdem erhalten Sie Informationen \u00fcber aktuelle Top-Angebote und haben die Chance, an Gewinnspielen teilzunehmen. \n\nHier k\u00f6nnen Sie sich kostenlos f\u00fcr den Newsletter anmelden und profitieren von den zahlreichen Vorteilen: [Swisscom Newsletter abonnieren](https:\/\/www.swisscom.ch\/de\/privatkunden\/newsletter.html).\n\nGibt es ein bestimmtes Produkt, \u00fcber das Sie mehr erfahren m\u00f6chten?",
-  "source_file":"promts.json"
+  "input":"Ist der Kauf eine Prepaid Karte f\u00fcr Deutsche Urlauber m\u00f6glich?",
+  "prediction":"Ja, deutsche Urlauber k\u00f6nnen problemlos eine Swisscom Prepaid-Karte erwerben. Diese Karten sind in vielen Verkaufsstellen in der Schweiz erh\u00e4ltlich, wie z.B. in Coop-, Migros- und Denner-Filialen, sowie an Tankstellen und Kiosken. Die Prepaid-Karte bietet flexible Optionen f\u00fcr Telefonie und Daten, ohne langfristige Verpflichtungen. Sie k\u00f6nnen die Karte einfach aufladen und nutzen, w\u00e4hrend Sie in der Schweiz sind. M\u00f6chten Sie mehr \u00fcber die Tarife oder Aufladem\u00f6glichkeiten erfahren? \n\nWeitere Informationen finden Sie hier:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/mobilabos-tarife\/prepaid.html",
+  "language":"de",
+  "id":"2b52f604-fbf4-41d7-aab6-3705911f2ce6"
  },
  {
-  "input":"Gibt es auf der Swisscom-Website eine Sitemap?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Ja, die Swisscom-Website bietet eine Sitemap, die Ihnen helfen kann, sich besser auf der Seite zu orientieren und die gew\u00fcnschten Informationen schnell zu finden. Eine Sitemap ist besonders n\u00fctzlich, um einen \u00dcberblick \u00fcber die Struktur der Website zu erhalten und direkt zu den gew\u00fcnschten Bereichen zu navigieren. Sie k\u00f6nnen die Sitemap normalerweise im Footer der Website finden. \n\nGibt es etwas Spezielles, wonach Sie suchen, oder kann ich Ihnen bei einem bestimmten Thema weiterhelfen? Hier ist der Link zur Swisscom-Website, wo Sie die Sitemap finden k\u00f6nnen: \n\n[Swisscom Website](https:\/\/www.swisscom.ch)",
-  "source_file":"promts.json"
+  "input":"Kann ich die bluewin.ch adresse nach der k\u00fcndigung weiter verwenden\/betreiben?",
+  "prediction":"Nach der K\u00fcndigung Ihres Swisscom-Abonnements k\u00f6nnen Sie Ihre Bluewin-E-Mail-Adresse weiterhin nutzen, jedoch nur im Rahmen des Bluewin E-Mail light Angebots. Dieses Angebot ist kostenlos und beinhaltet grundlegende Funktionen wie Schutz vor Spam und Phishing sowie Webmail-Zugriff per Browser. Beachten Sie, dass dieses Angebot Werbung in Ihrem Webmail-Posteingang enth\u00e4lt. Wenn Sie weitere Funktionen w\u00fcnschen, k\u00f6nnten Sie ein kostenpflichtiges Bluewin E-Mail-Abo in Betracht ziehen. \n\nM\u00f6chten Sie mehr \u00fcber die verschiedenen Bluewin E-Mail-Angebote erfahren? Besuchen Sie gerne unsere Webseite f\u00fcr weitere Informationen: \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/internet-fernsehen-festnetz\/e-mail.html",
+  "language":"de",
+  "id":"41c3ea68-8127-49b0-9053-61bf536d4b40"
  },
  {
-  "input":"Wie einfach ist es, zwischen den verschiedenen Bereichen der Website zu navigieren?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Die Navigation auf der Swisscom-Website ist benutzerfreundlich und intuitiv gestaltet. Sie k\u00f6nnen schnell zwischen den Hauptbereichen wie E-Mail, Kalender, Adressbuch und Aufgaben wechseln. Die Hauptnavigation erm\u00f6glicht es Ihnen, direkt zu den gew\u00fcnschten Inhalten zu springen, sei es zum Inhalt, zur Suche oder zum Footer. Zudem gibt es hilfreiche Links und Anleitungen, die Ihnen bei der Nutzung der verschiedenen Funktionen helfen. Falls Sie spezifische Informationen suchen, kann ich Ihnen gerne weiterhelfen oder Sie k\u00f6nnen die Suchfunktion auf der Website nutzen.\n\nMehr Informationen finden Sie auf der Swisscom-Website: \nhttps:\/\/www.swisscom.ch\/de\/home.html\n\nGibt es einen bestimmten Bereich, den Sie n\u00e4her erkunden m\u00f6chten?",
-  "source_file":"promts.json"
+  "input":"Kann ich die IMEI Nummer haben von meinem Iphone 14 pro max deep purpel?",
+  "prediction":"Die IMEI-Nummer Ihres iPhone 14 Pro Max finden Sie direkt auf dem Ger\u00e4t oder in den Einstellungen. Gehen Sie zu \"Einstellungen\" > \"Allgemein\" > \"Info\", und scrollen Sie nach unten, um die IMEI-Nummer zu sehen. Alternativ k\u00f6nnen Sie die IMEI auch auf der R\u00fcckseite der Originalverpackung oder auf dem SIM-Kartenfach finden. \n\nFalls Sie weitere Unterst\u00fctzung ben\u00f6tigen, k\u00f6nnen Sie sich gerne an unseren Kundensupport unter 0800 555 155 wenden, verf\u00fcgbar von Montag bis Samstag zwischen 8:00 und 20:00 Uhr. \n\nM\u00f6chten Sie mehr \u00fcber unsere iPhone-Angebote erfahren? Hier finden Sie weitere Informationen:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/produkte\/handys\/apple.html",
+  "language":"de",
+  "id":"5dcdf2f4-c6ca-4f05-81a4-8105cd94ac60"
  },
  {
-  "input":"K\u00f6nnen Nutzer ihr Erlebnis auf der Swisscom-Website anpassen?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Ja, Nutzer k\u00f6nnen ihr Erlebnis auf der Swisscom-Website in gewissem Ma\u00dfe anpassen. Zum Beispiel k\u00f6nnen Sie zwischen dem Privatkunden- und dem Gesch\u00e4ftskundenbereich wechseln, um die f\u00fcr Sie relevanten Informationen und Angebote zu sehen. Dar\u00fcber hinaus k\u00f6nnen Sie sich f\u00fcr personalisierte Empfehlungen und Angebote anmelden, indem Sie ein Swisscom-Konto erstellen. Dies erm\u00f6glicht es Ihnen, auf Ihre Bed\u00fcrfnisse zugeschnittene Inhalte und Services zu erhalten. \n\nHaben Sie spezielle Interessen oder Bed\u00fcrfnisse, die Sie auf der Website erkunden m\u00f6chten? Ich kann Ihnen helfen, die passenden Informationen oder Produkte zu finden. \n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden.html",
-  "source_file":"promts.json"
+  "input":"Kann man mein alte Handy zum neu wechseln?",
+  "prediction":"Ja, bei Swisscom haben Sie die M\u00f6glichkeit, Ihr altes Handy gegen ein neues einzutauschen. Mit dem Swisscom Buyback-Programm k\u00f6nnen Sie Ihr altes Ger\u00e4t kostenlos einsenden und erhalten daf\u00fcr einen Geldbetrag, den Sie f\u00fcr den Kauf eines neuen Handys verwenden k\u00f6nnen. Zudem sorgt Swisscom f\u00fcr eine sichere Datenl\u00f6schung Ihres alten Ger\u00e4ts, was sowohl f\u00fcr Ihre Sicherheit als auch f\u00fcr die Umwelt von Vorteil ist. M\u00f6chten Sie mehr \u00fcber das Buyback-Programm erfahren oder Unterst\u00fctzung beim Wechselprozess erhalten?\n\nHier finden Sie weitere Informationen: \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/mobile\/devices\/buyback.html",
+  "language":"de",
+  "id":"5d9c91b9-e864-42b3-bb2d-a789addc0db2"
  },
  {
-  "input":"Gibt es eine Suchleiste, um spezifische Informationen zu finden?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Ja, auf der Swisscom-Website gibt es eine Suchleiste, die Ihnen hilft, spezifische Informationen schnell zu finden. Sie k\u00f6nnen diese nutzen, um gezielt nach Produkten, Dienstleistungen oder Informationen zu suchen, die Sie interessieren. Falls Sie Unterst\u00fctzung bei der Navigation oder bei der Suche nach bestimmten Themen ben\u00f6tigen, stehe ich Ihnen gerne zur Verf\u00fcgung. Gibt es etwas Bestimmtes, wonach Sie suchen? \n\nF\u00fcr weitere Informationen k\u00f6nnen Sie die Swisscom-Website besuchen:\nhttps:\/\/www.swisscom.ch",
-  "source_file":"promts.json"
+  "input":"mit welcher Nummer erreiche ich meine combox",
+  "prediction":"Um Ihre COMBOX\u00ae abzuh\u00f6ren, k\u00f6nnen Sie je nach Ihrem Standort folgende Nummern verwenden:\n\n1. **In der Schweiz**: Dr\u00fccken Sie die Taste 1 auf Ihrem Handy lange, um direkt zur COMBOX\u00ae zu gelangen.\n2. **In Liechtenstein**: Verwenden Sie die Nummer +423 779 88 88.\n3. **Im Ausland**: Rufen Sie die Nummer +41 79 499 79 79 an. Sie werden aufgefordert, Ihre Handynummer einzugeben, gefolgt von Ihrem PIN.\n\nBen\u00f6tigen Sie weitere Informationen zur COMBOX\u00ae oder zu anderen Swisscom-Diensten? Besuchen Sie unsere Website f\u00fcr mehr Details:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/loesung\/combox.html",
+  "language":"de",
+  "id":"95ddb1bc-213d-4502-bc18-56154f2d158a"
  },
  {
-  "input":"Wie k\u00f6nnen Nutzer ein Swisscom-Konto auf der Website erstellen?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Um ein Swisscom-Konto zu erstellen, besuchen Sie die Swisscom-Website und navigieren Sie zum Swisscom Login-Bereich. Dort finden Sie die Option, ein neues Konto zu registrieren. Sie m\u00fcssen einige pers\u00f6nliche Informationen eingeben, wie Ihre E-Mail-Adresse und ein sicheres Passwort. Nach der Registrierung erhalten Sie eine Best\u00e4tigungs-E-Mail, um Ihr Konto zu aktivieren. Sobald Ihr Konto aktiviert ist, k\u00f6nnen Sie auf alle Swisscom-Dienste zugreifen. \n\nFalls Sie Unterst\u00fctzung ben\u00f6tigen, besuchen Sie bitte die Swisscom Hilfeseite: \n[Swisscom Login erstellen](https:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/loesung\/login-erstellen.html)\n\nHaben Sie Fragen zu bestimmten Swisscom-Diensten, die Sie interessieren?",
-  "source_file":"promts.json"
+  "input":"Tv box 5 mit fernbedinung verbinden?",
+  "prediction":"Um Ihre TV-Box 5 mit der Fernbedienung zu verbinden, folgen Sie diesen einfachen Schritten:\n\n1. Schalten Sie die TV-Box ein und stellen Sie sicher, dass sie mit dem Fernseher verbunden ist.\n2. Halten Sie die \"Pairing\"-Taste auf der R\u00fcckseite der TV-Box gedr\u00fcckt, bis die LED blinkt.\n3. Dr\u00fccken Sie gleichzeitig die \"Home\"- und \"OK\"-Tasten auf der Fernbedienung, bis die LED auf der Fernbedienung blinkt.\n4. Die Verbindung sollte innerhalb weniger Sekunden hergestellt sein.\n\nFalls Sie weitere Hilfe ben\u00f6tigen, k\u00f6nnen Sie die detaillierte Anleitung auf unserer Website finden oder unseren Kundenservice kontaktieren. Haben Sie noch weitere Fragen zur TV-Box 5 oder anderen Swisscom-Produkten?\n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/produkte\/tv\/blue-tv.html",
+  "language":"de",
+  "id":"17226ce4-caa1-40c2-b918-964410a62add"
  },
  {
-  "input":"Welche Zahlungsmethoden werden f\u00fcr Swisscom-Dienstleistungen akzeptiert?",
-  "language":"DE",
-  "id":"",
-  "prediction":"F\u00fcr Swisscom-Dienstleistungen stehen Ihnen verschiedene Zahlungsmethoden zur Verf\u00fcgung. Sie k\u00f6nnen mit Kreditkarten wie Mastercard, Visa und American Express bezahlen. Auch die Nutzung der TWINT-App ist m\u00f6glich, um Betr\u00e4ge direkt von Ihrem Konto zu \u00fcberweisen. Zudem k\u00f6nnen Sie Ihr PostFinance E-Finance Konto verwenden. Wenn Sie ein blue Mobile oder blue Internet Abo besitzen, k\u00f6nnen Sie Ihr Guthaben auch \u00fcber Ihre Swisscom-Rechnung aufladen. Welche Zahlungsmethode bevorzugen Sie? \n\nWeitere Informationen finden Sie auf unserer Website:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/mobile-handy-abo\/basic-mobile-s.html",
-  "source_file":"promts.json"
+  "input":"Vor einiger Zeit konnte ich die Rechnung alle zwei Monate bezahlen, weshalb hat sich das ge\u00e4ndert?",
+  "prediction":"Die \u00c4nderung der Rechnungsstellung von einem zweimonatlichen auf einen monatlichen Rhythmus kann verschiedene Gr\u00fcnde haben. Swisscom hat m\u00f6glicherweise die Abrechnungsintervalle angepasst, um den Kunden eine bessere \u00dcbersicht \u00fcber ihre Ausgaben zu bieten und um die Verwaltung der Rechnungen zu vereinfachen. \n\nFalls Sie spezifische Informationen zu Ihrem Konto ben\u00f6tigen oder eine individuelle Anpassung w\u00fcnschen, empfehle ich Ihnen, sich direkt an den Swisscom Kundendienst unter 0800 555 155 zu wenden. Sie k\u00f6nnen auch die My Swisscom App nutzen, um Ihre Rechnungsoptionen zu \u00fcberpr\u00fcfen und anzupassen.\n\nHier finden Sie weitere Informationen zu Rechnungen und Zahlungen:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/rechnung.html\n\nGibt es noch etwas, bei dem ich Ihnen helfen kann?",
+  "language":"de",
+  "id":"5637edbb-32dd-414f-9f21-8343f74a0cb6"
  },
  {
-  "input":"Quels services Swisscom propose-t-il aux consommateurs individuels?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Swisscom propose une gamme vari\u00e9e de services pour les consommateurs individuels, incluant des solutions de t\u00e9l\u00e9communication fixe et mobile. Cela comprend la t\u00e9l\u00e9phonie fixe, l'Internet haut d\u00e9bit, la t\u00e9l\u00e9vision, et la communication mobile. Avec les offres Swisscom blue, vous pouvez b\u00e9n\u00e9ficier d'abonnements modulables et climatiquement neutres, int\u00e9grant des options comme Giga Speed avec la 5G ou la fibre optique. De plus, Swisscom offre des services de s\u00e9curit\u00e9 pour prot\u00e9ger vos donn\u00e9es personnelles et vos appareils. \n\nPour en savoir plus, vous pouvez visiter notre page d\u00e9di\u00e9e aux offres pour clients priv\u00e9s :\n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html\n\nAvez-vous des questions sp\u00e9cifiques sur l'un de ces services?",
-  "source_file":"promts.json"
+  "input":"Was f\u00fcr ein abo habe ich M oder L?",
+  "prediction":"Um herauszufinden, welches Abo Sie bei Swisscom haben, k\u00f6nnen Sie sich in Ihr My Swisscom Kundencenter einloggen. Dort finden Sie alle Details zu Ihrem aktuellen Abo, einschlie\u00dflich des Typs (M oder L) und der monatlichen Kosten. Falls Sie noch keinen Zugang haben, k\u00f6nnen Sie sich einfach registrieren. \n\nFalls Sie weitere Unterst\u00fctzung ben\u00f6tigen, k\u00f6nnen Sie auch den Swisscom Kundenservice unter 0800 555 155 kontaktieren, der von Montag bis Samstag von 8:00 bis 20:00 Uhr erreichbar ist. M\u00f6chten Sie mehr \u00fcber die verschiedenen Abo-Optionen erfahren? \n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/my-swisscom.html",
+  "language":"de",
+  "id":"8ee42b5c-1344-436f-8a2d-c7ef4f63c2ec"
  },
  {
-  "input":"Comment les entreprises peuvent-elles b\u00e9n\u00e9ficier des solutions Swisscom?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Swisscom propose une gamme compl\u00e8te de solutions pour les entreprises, allant des services de t\u00e9l\u00e9communication \u00e0 la cybers\u00e9curit\u00e9, en passant par le cloud et l'Internet des objets (IoT). Les entreprises peuvent b\u00e9n\u00e9ficier d'une connectivit\u00e9 fiable gr\u00e2ce au r\u00e9seau mobile et \u00e0 fibre optique de Swisscom, ainsi que de solutions de communication unifi\u00e9es pour am\u00e9liorer la collaboration. De plus, Swisscom offre des services de conseil et d'int\u00e9gration pour aider les entreprises \u00e0 tirer parti des technologies num\u00e9riques. \n\nPour en savoir plus sur les solutions adapt\u00e9es \u00e0 votre entreprise, vous pouvez visiter le site Swisscom d\u00e9di\u00e9 aux entreprises :\n\n[Swisscom pour les entreprises](https:\/\/www.swisscom.ch\/fr\/business.html)\n\nQuels besoins sp\u00e9cifiques votre entreprise cherche-t-elle \u00e0 satisfaire avec Swisscom?",
-  "source_file":"promts.json"
+  "input":"wenn ich internet abo k\u00fcnde, wieviel benefit verliere ich?",
+  "prediction":"Wenn Sie Ihr Internet-Abo bei Swisscom k\u00fcndigen, verlieren Sie den Zugang zu den damit verbundenen Dienstleistungen, wie schnelles Internet, Swisscom TV, und m\u00f6glicherweise auch Telefonie, je nach Ihrem Paket. Zudem k\u00f6nnten Sie von speziellen Angeboten oder Rabatten, die mit Ihrem Abo verbunden sind, nicht mehr profitieren. \n\nFalls Sie \u00fcberlegen, Ihr Abo zu k\u00fcndigen, k\u00f6nnte es sinnvoll sein, die aktuellen Angebote zu pr\u00fcfen, um sicherzustellen, dass Sie die beste L\u00f6sung f\u00fcr Ihre Bed\u00fcrfnisse finden. M\u00f6chten Sie mehr \u00fcber unsere aktuellen Internet-Abos erfahren? \n\nWeitere Informationen finden Sie hier: \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/internet.html",
+  "language":"de",
+  "id":"e15059ad-4c80-41f7-902f-1e9cf411ada6"
  },
  {
-  "input":"Swisscom propose-t-elle des services pour les startups ou les petites entreprises?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Oui, Swisscom propose une gamme de services sp\u00e9cialement con\u00e7us pour les petites et moyennes entreprises (PME) ainsi que pour les startups. Ces services incluent des solutions TIC flexibles, des abonnements mobiles performants, des services cloud et de s\u00e9curit\u00e9, ainsi que des outils pour faciliter le travail \u00e0 distance. Swisscom offre \u00e9galement des solutions num\u00e9riques simples pour am\u00e9liorer l'interaction avec les clients. Vous pouvez explorer ces offres pour PME et startups pour trouver celle qui convient le mieux \u00e0 vos besoins.\n\nPour en savoir plus, visitez le lien suivant :\nhttps:\/\/www.swisscom.ch\/fr\/business\/pme.html\n\nAvez-vous des besoins sp\u00e9cifiques pour votre entreprise que vous aimeriez discuter?",
-  "source_file":"promts.json"
+  "input":"Werden Sie mir bei Sunrise k\u00fcnden, wenn ich zu Swisscom wechsle?",
+  "prediction":"Ja, Swisscom unterst\u00fctzt Sie gerne beim Wechsel von Sunrise zu Swisscom. Sobald Sie sich f\u00fcr ein Swisscom-Abo entschieden haben, k\u00f6nnen Sie den Portierungsauftrag erteilen. Swisscom k\u00fcmmert sich dann um die K\u00fcndigung Ihres bestehenden Vertrags bei Sunrise und die \u00dcbertragung Ihrer Rufnummer. Bitte beachten Sie, dass Sie f\u00fcr eventuell anfallende K\u00fcndigungsgeb\u00fchren bei Sunrise selbst verantwortlich sind. \n\nM\u00f6chten Sie mehr \u00fcber unsere aktuellen Angebote erfahren? Hier finden Sie weitere Informationen zu unseren Mobilfunk-Abos: \n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/mobil.html\n\nGibt es noch etwas, bei dem ich Ihnen helfen kann?",
+  "language":"de",
+  "id":"27d0ebfe-fe30-4c11-bc96-54b7b6507c27"
  },
  {
-  "input":"Quelles sont les promotions actuelles disponibles sur le site de Swisscom?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Swisscom propose actuellement plusieurs promotions int\u00e9ressantes. Par exemple, vous pouvez b\u00e9n\u00e9ficier de 6 mois de blue Internet et TV pour seulement 59.90 CHF par mois, avec un cadeau de bienvenue suppl\u00e9mentaire de 300 CHF jusqu'au 26 janvier 2024. De plus, 6 mois d'acc\u00e8s \u00e0 Disney+ Standard avec publicit\u00e9 sont offerts. Pour les amateurs de jeux, il y a aussi une offre sp\u00e9ciale avec blue Internet \u00e0 79.90 CHF par mois incluant une PS5 offerte. \n\nPour plus de d\u00e9tails et pour explorer d'autres offres, je vous recommande de visiter la page des promotions sur le site de Swisscom. \n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/promotions.html\n\nY a-t-il une offre sp\u00e9cifique qui vous int\u00e9resse ou souhaitez-vous en savoir plus sur un autre produit?",
-  "source_file":"promts.json"
+  "input":"Wie kann ich das Disney Abo k\u00fcndigen ?",
+  "prediction":"Um Ihr Disney+ Abo zu k\u00fcndigen, loggen Sie sich in Ihr Swisscom-Konto ein und navigieren Sie zu \"Meine Abos\". Dort finden Sie die Option, Ihr Disney+ Abo zu verwalten. Klicken Sie auf \"K\u00fcndigen\" und folgen Sie den Anweisungen. Beachten Sie, dass das Abo ab dem Zeitpunkt der K\u00fcndigung nicht mehr nutzbar ist. Wenn Sie die K\u00fcndigung widerrufen m\u00f6chten, k\u00f6nnen Sie dies vor dem K\u00fcndigungstermin tun. \n\nFalls Sie weitere Unterst\u00fctzung ben\u00f6tigen, k\u00f6nnen Sie sich gerne an den Swisscom Kundenservice unter 0800 555 155 wenden. \n\nHaben Sie noch weitere Fragen zu unseren Angeboten? \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe.html",
+  "language":"de",
+  "id":"38aa519b-8b81-4d5d-9d93-586baeefa6d0"
  },
  {
-  "input":"Comment les utilisateurs peuvent-ils se renseigner sur les derniers produits de Swisscom?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Pour d\u00e9couvrir les derniers produits de Swisscom, vous pouvez visiter la section \"Clients priv\u00e9s\" sur notre site web, o\u00f9 vous trouverez des informations sur les abonnements mobiles, Internet, TV, et combin\u00e9s, ainsi que sur les appareils disponibles. De plus, la rubrique \"Innovation\" vous tiendra inform\u00e9 des nouvelles technologies et services que nous d\u00e9veloppons. Pour recevoir des mises \u00e0 jour r\u00e9guli\u00e8res, vous pouvez \u00e9galement vous abonner \u00e0 notre newsletter.\n\nAvez-vous un type de produit en particulier que vous souhaitez explorer davantage? Je serais ravi de vous aider \u00e0 trouver plus d'informations.\n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html",
-  "source_file":"promts.json"
+  "input":"wo finde ich die Rechnung zum bezahlen",
+  "prediction":"Um Ihre Swisscom Rechnung zu finden und zu bezahlen, k\u00f6nnen Sie sich in My Swisscom einloggen. Dort haben Sie die M\u00f6glichkeit, Ihre Rechnungen einzusehen und verschiedene Zahlungsmethoden zu nutzen, wie Kreditkarte, TWINT oder E-Banking. Falls Sie sich f\u00fcr eBill entscheiden, wird Ihre Rechnung direkt in Ihrem E-Banking angezeigt. \n\nHier ist der Link, um sich bei My Swisscom anzumelden: [My Swisscom](https:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/my-swisscom.html).\n\nBen\u00f6tigen Sie weitere Unterst\u00fctzung oder haben Sie Fragen zu den Zahlungsmethoden?",
+  "language":"de",
+  "id":"728512fc-7b35-462a-af66-ffc430519226"
  },
  {
-  "input":"Un plan du site est-il disponible sur le site de Swisscom?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Swisscom propose un service d'informations sur le r\u00e9seau qui permet d'acc\u00e9der \u00e0 des plans d\u00e9taill\u00e9s concernant le lieu et le type de pose de c\u00e2bles. Ce service est principalement destin\u00e9 aux entreprises de construction, bureaux d'architecture, et services publics, mais peut \u00e9galement \u00eatre utile pour les particuliers. Pour acc\u00e9der \u00e0 ces informations, il est n\u00e9cessaire de se connecter au service. Vous pouvez g\u00e9n\u00e9rer et imprimer les plans au format PDF ou DXF. Pour plus de d\u00e9tails, veuillez visiter le site de Swisscom.\n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html\n\nY a-t-il autre chose que je puisse vous aider \u00e0 explorer sur le site de Swisscom?",
-  "source_file":"promts.json"
+  "input":"wo finde ich meine angaben zu meinem abo?",
+  "prediction":"Um die Details zu Ihrem Swisscom-Abo zu finden, k\u00f6nnen Sie sich in My Swisscom einloggen. Dort erhalten Sie umfassende Informationen zu Ihrem aktuellen Abo, inklusive der enthaltenen Leistungen und Optionen. Gehen Sie einfach zu \"Meine Produkte\" oder \"Abo & Inklusiveinheiten\", um alle relevanten Details einzusehen. Falls Sie weitere Anpassungen vornehmen m\u00f6chten, k\u00f6nnen Sie dies ebenfalls dort tun.\n\nFalls Sie noch kein My Swisscom Konto haben, k\u00f6nnen Sie sich einfach registrieren. Haben Sie noch weitere Fragen zu Ihrem Abo oder ben\u00f6tigen Sie Unterst\u00fctzung? \n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/my-swisscom.html",
+  "language":"de",
+  "id":"eef48b5d-bc7b-4fd1-8f6b-b94e0965006c"
  },
  {
-  "input":"Est-il facile de naviguer entre les diff\u00e9rentes sections du site?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Oui, Swisscom a con\u00e7u son site pour une navigation facile et intuitive. Vous pouvez acc\u00e9der directement aux sections principales comme le sommaire, le champ de recherche, et le pied de page. Cela facilite la recherche d'informations sp\u00e9cifiques ou l'exploration des diff\u00e9rentes offres et services. Si vous avez besoin d'aide pour trouver quelque chose en particulier, n'h\u00e9sitez pas \u00e0 demander! Vous pouvez \u00e9galement consulter notre [page d'accueil](https:\/\/www.swisscom.ch) pour commencer votre exploration. \n\nY a-t-il une section sp\u00e9cifique que vous aimeriez d\u00e9couvrir davantage?",
-  "source_file":"promts.json"
+  "input":"Show me all the offers of prepaid",
+  "prediction":"Swisscom offers a variety of prepaid options to suit different needs. Here's a quick overview:\n\n1. **Prepaid Plus**: Enjoy 30 days of unlimited surfing at 128 kbit\/s and text messaging for free, valued at CHF 5.\n\n2. **Prepaid Kids**: For those under 16, this package offers 30 days of unlimited surfing (500MB high speed, then 128 kbit\/s) and free calls and texts to 5 chosen numbers for CHF 9.90.\n\n3. **24h Speed+**: Get 5 GB of high-speed surfing for 24 hours at CHF 5.\n\n4. **Prepaid Flat 7**: Unlimited surfing, calling, and texting within Switzerland for 7 days at CHF 20.\n\n5. **Prepaid Flat 30**: 30 days of unlimited surfing, calling, and texting within Switzerland for CHF 65.\n\n6. **Prepaid Flat 90**: 90 days of unlimited surfing, calling, and texting within Switzerland for CHF 150.\n\n7. **Data Packages**: Options include 500 MB for CHF 6.90, 2 GB for CHF 19.90, and 5 GB for CHF 34.90, all valid for 30 days.\n\nFor more details, you can explore the prepaid options on the Swisscom website. Are you interested in any specific package, or do you have any other questions?\n\nhttps:\/\/www.swisscom.ch\/en\/residential\/mobile\/prepaid.html",
+  "language":"en",
+  "id":"63e14bca-63fa-4920-ae8a-c258614e2c57"
  },
  {
-  "input":"Les utilisateurs peuvent-ils personnaliser leur exp\u00e9rience sur le site Swisscom?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Oui, les utilisateurs peuvent personnaliser leur exp\u00e9rience sur le site Swisscom. En se connectant \u00e0 leur compte via Swisscom Login, ils peuvent acc\u00e9der \u00e0 des fonctionnalit\u00e9s personnalis\u00e9es, comme la gestion de leurs abonnements, la consultation de leurs factures, et l'acc\u00e8s \u00e0 des offres sp\u00e9ciales. De plus, l'application My Swisscom permet de g\u00e9rer facilement les services et de recevoir des notifications personnalis\u00e9es. Pour en savoir plus sur ces options, vous pouvez visiter le site Swisscom.\n\nAvez-vous d\u00e9j\u00e0 un compte Swisscom ou souhaitez-vous de l'aide pour en cr\u00e9er un ? \n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html",
-  "source_file":"promts.json"
+  "input":"hello. i seem to have paid the same bill twice",
+  "prediction":"Hello! It sounds like you've accidentally made a duplicate payment. Don't worry, this can happen, and Swisscom is here to help. First, check your payment history in My Swisscom to confirm the duplicate payment. If confirmed, you can contact Swisscom customer support at 0800 555 155, available Monday to Saturday from 8:00 to 20:00, to discuss a refund or credit towards your next bill. \n\nMeanwhile, have you explored the My Swisscom app? It offers a convenient way to manage your bills and services. Would you like more information on using the app? \n\nhttps:\/\/www.swisscom.ch\/en\/residential\/my-swisscom.html",
+  "language":"en",
+  "id":"626e01a3-6bb6-4168-a149-92c4a634eb68"
  },
  {
-  "input":"Y a-t-il une barre de recherche pour aider les utilisateurs \u00e0 trouver des informations sp\u00e9cifiques?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Oui, sur le site de Swisscom, il existe une barre de recherche qui facilite la recherche d'informations sp\u00e9cifiques. Vous pouvez y acc\u00e9der en cliquant sur le symbole de la loupe situ\u00e9 g\u00e9n\u00e9ralement dans le coin sup\u00e9rieur droit de la page. Cela vous permet de rechercher des adresses, des parcelles ou des coordonn\u00e9es, selon vos besoins. Si vous avez besoin d'aide pour utiliser la barre de recherche ou pour trouver des informations sp\u00e9cifiques, n'h\u00e9sitez pas \u00e0 me le faire savoir! \n\nPour plus de d\u00e9tails, vous pouvez visiter le site de Swisscom: \nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html",
-  "source_file":"promts.json"
+  "input":"How do we suspend our fixed line?",
+  "prediction":"Currently, Swisscom does not offer the option to suspend fixed network, TV, or Internet subscriptions. However, you can cancel your fixed network subscription after the minimum service period has ended, with a two-month notice period. If you need further assistance or wish to explore other options, please feel free to contact Swisscom customer support at 0800 555 155, available Monday to Saturday from 8:00 to 20:00. \n\nIf you have any other questions or need help with different services, please let me know!",
+  "language":"en",
+  "id":"6bb2dc01-e632-416f-b133-00069b89c9a9"
  },
  {
-  "input":"Comment les utilisateurs peuvent-ils cr\u00e9er un compte Swisscom sur le site?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Pour cr\u00e9er un compte Swisscom, vous pouvez suivre ces \u00e9tapes simples. Tout d'abord, rendez-vous sur le site officiel de Swisscom. Ensuite, cliquez sur \"Connexion\" en haut \u00e0 droite de la page. Vous verrez une option pour cr\u00e9er un nouveau compte. Suivez les instructions pour entrer vos informations personnelles, telles que votre adresse e-mail et un mot de passe s\u00e9curis\u00e9. Une fois votre compte cr\u00e9\u00e9, vous pourrez acc\u00e9der \u00e0 divers services Swisscom, comme My Swisscom pour g\u00e9rer vos abonnements et factures.\n\nPour plus de d\u00e9tails, vous pouvez visiter le site Swisscom ici :\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html\n\nAvez-vous besoin d'aide pour autre chose concernant Swisscom?",
-  "source_file":"promts.json"
+  "input":"Hi, I have two questions. First, my husband recently passed away, and I would want to know how I can cancel the subscription to itnernet he had stipulated for our flat. I also need to take a new subscription under my name. Thanks a lot for your help.",
+  "prediction":"I'm very sorry for your loss. To cancel your husband's internet subscription, please contact Swisscom directly. We can assist you with the cancellation process and ensure there are no unexpected charges. You may need to provide a copy of the inheritance certificate to transfer any associated email addresses or personal data.\n\nFor setting up a new internet subscription under your name, you can explore our various offers on the Swisscom website. We offer a range of internet packages to suit different needs. If you need further assistance, feel free to reach out to our customer support at 0800 555 155, available Monday to Saturday from 8:00 to 20:00.\n\nFor more details on our internet subscriptions, please visit:\nhttps:\/\/www.swisscom.ch\/en\/residential\/internet.html",
+  "language":"en",
+  "id":"33d6ca2a-7b11-4175-bb1b-b40ce476093b"
  },
  {
-  "input":"Quelles options de paiement sont accept\u00e9es pour les services Swisscom?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Pour r\u00e9gler vos services Swisscom, plusieurs options de paiement sont disponibles. Vous pouvez utiliser une carte de cr\u00e9dit, TWINT, ou opter pour un pr\u00e9l\u00e8vement automatique depuis votre compte bancaire. Si vous pr\u00e9f\u00e9rez, vous pouvez \u00e9galement payer vos factures en personne dans un Swisscom Shop ou \u00e0 un guichet de La Poste, bien que des frais suppl\u00e9mentaires s'appliquent dans ces cas. Pour plus de flexibilit\u00e9, vous pouvez g\u00e9rer vos paiements directement via My Swisscom, o\u00f9 vous pouvez \u00e9galement configurer des paiements \u00e9chelonn\u00e9s si n\u00e9cessaire.\n\nPour plus de d\u00e9tails, vous pouvez consulter le site Swisscom : \nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide\/facture-et-couts\/paiement.html\n\nAvez-vous des questions sur un mode de paiement sp\u00e9cifique ou besoin d'aide pour configurer un paiement?",
-  "source_file":"promts.json"
+  "input":"Could you please advise why the cancellation fee is so high for basic Mobile M with the telephone number 0791234567.? Our understanding is the contract would only have been valid until August 2024, which would have been cheaper to maintain then this cancellation fee you are charging. However this option was not offered to us. When we spoke with swisscom we were advised that we just needed to send our deregistration record, which we did, in order to cancel the contract. Aga",
+  "prediction":"I'm sorry to hear about the confusion regarding your cancellation fee. Typically, cancellation fees are calculated based on the remaining months of your contract and any associated costs, such as device instalments. If you were advised to send a deregistration record, it might have been for a specific cancellation process, possibly related to moving abroad. \n\nTo clarify this situation, I recommend contacting Swisscom customer support directly at 0800 555 155, available Monday to Saturday from 8:00 to 20:00. They can provide detailed information specific to your contract and help resolve any misunderstandings. \n\nIf you have any other questions or need further assistance, feel free to ask!",
+  "language":"en",
+  "id":"002894f3-c8f0-45c3-bd6c-135fd332dda7"
  },
  {
-  "input":"Quali servizi offre Swisscom ai consumatori individuali?",
-  "language":"IT",
-  "id":"",
-  "prediction":"Swisscom offre una vasta gamma di servizi per i consumatori individuali, tra cui comunicazione mobile, internet, TV e telefonia fissa. Le offerte combinate, come il pacchetto \"blue\", permettono di configurare abbonamenti digitali e flessibili, con opzioni come Giga Speed su rete 5G o fibra ottica e flat rate per l'uso in tutta Europa. Inoltre, Swisscom propone servizi di sicurezza per proteggere dati e dispositivi personali. Tutti gli abbonamenti sono clima-neutrali, senza costi aggiuntivi. \n\nPer ulteriori dettagli, puoi visitare la pagina delle offerte per clienti privati:\nhttps:\/\/www.swisscom.ch\/it\/clienti-privati.html\n\nC'\u00e8 qualcosa di specifico che ti interessa sapere su questi servizi?",
-  "source_file":"promts.json"
+  "input":"hi can i upload my card here?",
+  "prediction":"Hello! If you're looking to manage your Swisscom services, such as uploading a payment method or checking your account details, you can do so through the My Swisscom portal. This is a secure platform where you can manage your billing information and more. If you need further assistance or specific instructions, please let me know! Are you looking to manage a particular service or need help with something else related to your Swisscom account? \n\nYou can access My Swisscom here: \nhttps:\/\/www.swisscom.ch\/en\/residential\/my-account.html",
+  "language":"en",
+  "id":"c134e0aa-27f3-43a0-a580-33623e54bbc8"
  },
  {
-  "input":"Come possono le aziende beneficiare delle soluzioni Swisscom?",
-  "language":"IT",
-  "id":"",
-  "prediction":"Swisscom offre alle aziende una vasta gamma di soluzioni ICT che possono migliorare l'efficienza e la sicurezza delle operazioni aziendali. Le soluzioni includono servizi di cloud personalizzati, sicurezza informatica avanzata, connettivit\u00e0 senza confini e soluzioni IoT intelligenti. Inoltre, Swisscom supporta le aziende nell'ottimizzazione dei processi aziendali e offre soluzioni SAP per una gestione integrata. Queste soluzioni aiutano le aziende a rimanere competitive nel mercato digitale in continua evoluzione.\n\nPer saperne di pi\u00f9 sulle offerte per le aziende, puoi visitare la pagina dedicata alle soluzioni business di Swisscom:\nhttps:\/\/www.swisscom.ch\/it\/business.html\n\nQuali sono le esigenze specifiche della tua azienda? Posso aiutarti a trovare una soluzione adatta?",
-  "source_file":"promts.json"
+  "input":"Dear Swisscom, I\u2019m writing regarding my personal account linked to phone number 0791234567. We have completed our home move and I\u2019m confirming that I was able to complete the move without any issues. Thanks for your support",
+  "prediction":"Hello! I'm glad to hear that your move went smoothly and that you didn't encounter any issues with your Swisscom services. If you have any further questions or need assistance with setting up your devices in your new home, feel free to ask. \n\nAdditionally, if you're interested in exploring new Swisscom products or services, such as upgrading your Internet speed or adding Swisscom TV, let me know. I'd be happy to provide more information. \n\nFor any other inquiries, you can also reach out to our customer support at 0800 555 155, available Monday to Saturday from 8:00 to 20:00. \n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
+  "language":"en",
+  "id":"a6e0016e-aa21-4cd0-a52e-c72d63672e8a"
  },
  {
-  "input":"Swisscom offre servizi per startup o piccole imprese?",
-  "language":"IT",
-  "id":"",
-  "prediction":"S\u00ec, Swisscom offre una gamma di soluzioni ICT flessibili appositamente pensate per le piccole e medie imprese (PMI), che possono essere ideali anche per le startup. Questi servizi includono connessioni internet affidabili, abbonamenti mobile efficienti, servizi di cloud e sicurezza, e strumenti per il lavoro remoto. Swisscom supporta anche le operazioni di interfaccia clienti con soluzioni digitali semplici. Se desideri esplorare queste offerte pi\u00f9 nel dettaglio, puoi visitare la pagina dedicata alle PMI sul nostro sito.\n\n[Scopri le offerte per le PMI](https:\/\/www.swisscom.ch\/it\/business\/pmi.html)\n\nQuali sono le esigenze specifiche della tua startup? Posso aiutarti a trovare la soluzione pi\u00f9 adatta?",
-  "source_file":"promts.json"
+  "input":"What\u2019s the price of the combo option",
+  "prediction":"The combo option for Swisscom's blue Internet & TV package starts at CHF 29.90 per month for the first six months, thanks to a CHF 20 monthly Combi discount on your existing blue Mobile subscription. After the initial six months, the price is CHF 49.90 per month, with the Combi discount still applied to your mobile bill. This offer includes 6 months of Disney+ Standard with ads, a free WLAN router & TV-Box, and free activation worth CHF 99.90. \n\nWould you like more details on any specific part of this offer? You can also explore more about our packages here:\n[Swisscom Blue Packages](https:\/\/www.swisscom.ch\/en\/residential\/internet-tv\/internet.html)",
+  "language":"en",
+  "id":"55680c7d-0250-4cd6-b51c-bb61506bbe72"
  },
  {
-  "input":"Quali sono le promozioni attuali disponibili sul sito Swisscom?",
-  "language":"IT",
-  "id":"",
-  "prediction":"Swisscom offre una variet\u00e0 di promozioni interessanti. Attualmente, puoi trovare sconti su dispositivi mobili, accessori e abbonamenti. Ad esempio, ci sono saldi su cuffie, custodie protettive e altri accessori. Inoltre, Swisscom propone offerte speciali per chi desidera combinare abbonamenti Internet e Mobile, con sconti mensili significativi. Non perdere anche le promozioni esclusive per i clienti Swisscom, come l'accesso gratuito a servizi come Babbel e Storytel per un periodo limitato.\n\nPer scoprire tutte le offerte attuali, visita il nostro [Swisscom Online Shop](https:\/\/www.swisscom.ch\/it\/offerte.html). Quale tipo di promozione ti interessa di pi\u00f9?",
-  "source_file":"promts.json"
+  "input":"Why is blue benefit only -20, when I enter the contract it was -30?",
+  "prediction":"The blue Benefit program has been restructured and renamed to Combi, Family, and Kids discounts to make the discounts clearer. The Combi discount offers CHF 20 per month for the first phone number added by the subscription holder. If you previously received a CHF 30 discount, it may have been under a different structure, such as the Family discount, which applies to additional numbers. \n\nTo ensure you're getting the best available discounts, you might want to review your current subscriptions in My Swisscom or consider switching to a plan that maximizes your benefits. If you have further questions or need assistance, feel free to contact Swisscom customer support at 0800 555 155.\n\nFor more details, you can visit the Swisscom website:\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
+  "language":"en",
+  "id":"583b9937-8055-4924-aeb6-7c02ccc1fd74"
  },
  {
-  "input":"Come possono gli utenti conoscere i prodotti pi\u00f9 recenti di Swisscom?",
-  "language":"IT",
-  "id":"",
-  "prediction":"Gli utenti possono scoprire i prodotti pi\u00f9 recenti di Swisscom visitando il sito ufficiale, dove troveranno una sezione dedicata alle novit\u00e0 e agli aggiornamenti. Inoltre, Swisscom offre una newsletter che invia aggiornamenti regolari su nuovi prodotti e offerte speciali. Iscrivendosi, gli utenti possono ricevere direttamente nella loro casella di posta elettronica tutte le ultime novit\u00e0. Per ulteriori dettagli sui prodotti e servizi, puoi visitare la pagina dedicata ai clienti privati sul sito Swisscom.\n\nSe hai bisogno di ulteriori informazioni o hai domande specifiche, sono qui per aiutarti! Ecco il link per esplorare le ultime novit\u00e0: \n[Swisscom Novit\u00e0](https:\/\/www.swisscom.ch\/it\/clienti-privati.html)",
-  "source_file":"promts.json"
+  "input":"How can i watch the football?",
+  "prediction":"To enjoy football matches, Swisscom offers several exciting options through its sports packages. You can subscribe to **blue Sport**, which provides access to UEFA Champions League, Super League, UEFA Europa League, LaLiga, and more. Alternatively, consider the **Sky Sport** package for Premier League, Bundesliga, Serie A, and other top leagues. Each package offers unique features, so you can choose based on your preferences.\n\nWould you like more information on any specific package or assistance with subscribing? You can explore more details here: \nhttps:\/\/www.swisscom.ch\/en\/residential.html",
+  "language":"en",
+  "id":"335b845d-8963-45a2-b2a3-4459aa0cbf10"
  },
  {
-  "input":"\u00c8 disponibile una mappa del sito sul sito Swisscom?",
-  "language":"IT",
-  "id":"",
-  "prediction":"S\u00ec, Swisscom offre una mappa interattiva sul suo sito web che mostra la posizione geografica dell'infrastruttura di rete. Questa mappa \u00e8 utile per visualizzare l'estensione della rete, incluso il 5G e la fibra ottica. Puoi utilizzare le funzioni di ricerca per trovare indirizzi specifici o inserire coordinate per centrare la mappa su un punto desiderato. \u00c8 uno strumento pratico per esplorare la copertura di rete nella tua area.\n\nSe desideri esplorare la mappa, puoi visitare il sito Swisscom tramite questo link: \nhttps:\/\/www.swisscom.ch\/it\/clienti-privati\/rete.html\n\nHai bisogno di ulteriori informazioni su come utilizzare la mappa o su altre funzionalit\u00e0 di rete?",
-  "source_file":"promts.json"
+  "input":"Hallo, kann ich als bestehender Kunde (blue Internet M) von der Aktion PlayStation 5 Slim Edition + blue Internet M f\u00fcr 36 Monate profitieren oder gilt das nur f\u00fcr Neukunden?",
+  "prediction":"Hallo! Die Aktion mit der PlayStation 5 Slim Edition in Kombination mit dem blue Internet M f\u00fcr 36 Monate ist in der Regel f\u00fcr Neukunden gedacht. Bestehende Kunden k\u00f6nnen jedoch manchmal von speziellen Upgrade-Angeboten profitieren. Ich empfehle Ihnen, direkt bei Swisscom nachzufragen, ob es f\u00fcr bestehende Kunden eine M\u00f6glichkeit gibt, an dieser Aktion teilzunehmen. Sie k\u00f6nnen sich auch \u00fcberlegen, ob ein Wechsel zu einem anderen Abo f\u00fcr Sie vorteilhaft w\u00e4re. \n\nF\u00fcr weitere Informationen oder um Ihre Optionen zu besprechen, k\u00f6nnen Sie Swisscom unter der Nummer 0800 555 155 kontaktieren. M\u00f6chten Sie mehr \u00fcber andere aktuelle Angebote erfahren?",
+  "language":"en",
+  "id":"29ab20c7-8fd2-4529-8825-a0fa2e0b86ce"
  },
  {
-  "input":"Gli utenti possono personalizzare la loro esperienza sul sito di Swisscom?",
-  "language":"IT",
-  "id":"",
-  "prediction":"S\u00ec, gli utenti possono personalizzare la loro esperienza sul sito di Swisscom in diversi modi. Ad esempio, possono gestire le impostazioni dei cookie per controllare quali dati vengono raccolti durante la navigazione. Inoltre, attraverso il portale My Swisscom, gli utenti possono configurare vari aspetti dei loro servizi, come limitare l'accesso a internet per determinati dispositivi o impostare PIN di protezione per i contenuti TV. \n\nHai gi\u00e0 visitato My Swisscom per esplorare queste opzioni? Se hai bisogno di ulteriori informazioni, puoi visitare il sito ufficiale di Swisscom. \n\nhttps:\/\/www.swisscom.ch",
-  "source_file":"promts.json"
+  "input":"Where can i get my wlan name and initial password",
+  "prediction":"You can easily find your WLAN name and initial password in the My Swisscom app. This app allows you to manage your WLAN settings, including viewing and adjusting your WLAN name (SSID) and password. If you haven't already, I recommend downloading the My Swisscom app for convenient access to these details. Additionally, you can manage your WLAN settings directly through the Swisscom website.\n\nIs there anything else you would like to know about setting up or managing your WLAN? \n\n[Managing WLAN settings](https:\/\/www.swisscom.ch\/en\/residential\/help\/internet\/wlan.html)",
+  "language":"en",
+  "id":"7fb446b2-aeb1-4f13-bf7f-b5344b943808"
  },
  {
-  "input":"C\u2019\u00e8 una barra di ricerca per aiutare gli utenti a trovare informazioni specifiche?",
-  "language":"IT",
-  "id":"",
-  "prediction":"S\u00ec, sul sito di Swisscom \u00e8 disponibile una barra di ricerca per aiutarti a trovare informazioni specifiche. Puoi accedervi cliccando sul simbolo della lente di ingrandimento nell'angolo in alto a destra della pagina. Questa funzione ti permette di cercare indirizzi, pacchi e coordinate. Inserendo almeno tre lettere, riceverai suggerimenti per affinare la tua ricerca. Se hai bisogno di ulteriori dettagli su come utilizzare queste funzioni, puoi consultare la guida utente sul sito.\n\nPer esplorare ulteriormente, visita il sito di Swisscom:\nhttps:\/\/www.swisscom.ch",
-  "source_file":"promts.json"
+  "input":"Come posso entrare i mycloud da pi\u00f9 di un PC?",
+  "prediction":"Per accedere a myCloud da pi\u00f9 di un PC, segui questi semplici passaggi:\n\n1. Vai su [mycloud.ch](https:\/\/www.mycloud.ch) e accedi con il tuo account Swisscom.\n2. Installa l'applicazione myCloud Desktop su ciascun PC da cui desideri accedere ai tuoi file.\n3. Una volta installata, effettua il login con le tue credenziali myCloud su ogni PC.\n4. I tuoi file saranno sincronizzati automaticamente su tutti i dispositivi collegati.\n\nHai bisogno di ulteriori informazioni su come gestire i tuoi file su myCloud?",
+  "language":"it",
+  "id":"7a27b58e-74a6-42a6-b8f2-2d56dff2f52d"
  },
  {
-  "input":"Come possono gli utenti creare un account Swisscom sul sito?",
-  "language":"IT",
-  "id":"",
-  "prediction":"Per creare un account Swisscom, gli utenti devono visitare la pagina di registrazione sul sito Swisscom. Ecco i passaggi principali:\n\n1. **Accedere alla pagina di registrazione**: Vai alla pagina di registrazione di Swisscom. \n2. **Inserire le informazioni richieste**: Compila i campi richiesti, come nome, indirizzo e-mail e numero di telefono.\n3. **Creare un nome utente e una password**: Scegli un nome utente e una password sicuri.\n4. **Confermare l'account**: Riceverai un'e-mail di conferma per verificare il tuo indirizzo e-mail.\n\nUna volta completati questi passaggi, avrai accesso a tutti i servizi Swisscom online. Se hai bisogno di ulteriore assistenza, puoi contattare il supporto clienti al numero 0800 555 155. \n\nPer ulteriori dettagli, visita il sito Swisscom:\nhttps:\/\/www.swisscom.ch\/it\/clienti-privati.html",
-  "source_file":"promts.json"
+  "input":"Buongiorno, Vi contatto per segnalare un guasto alla linea fissa collegata alla nostra abitazione in montagna. Recentemente \u00e8 caduta una pianta che ha strappato il cavo. Volevo sapere i passi da seguire per richiedere la sistemazione\/ripristino del cavo. L\u2019abitazione si trova nel comune di Quinto-Ti. Cordialmente Mario Rossi",
+  "prediction":"Buongiorno Mario,\n\nmi dispiace sapere del guasto alla vostra linea fissa. Per segnalare un danno ai cavi della rete Swisscom, \u00e8 importante contattare Swisscom Fixnet. Potete farlo chiamando la hotline gratuita al numero 0800 800 800. Vi consiglio di fornire dettagli precisi sul luogo del danneggiamento, il tipo di danno e chi contattare per ulteriori informazioni. Swisscom si occuper\u00e0 di risolvere il problema il prima possibile.\n\nSe avete altre domande o necessitate di ulteriore assistenza, non esitate a chiedere.",
+  "language":"it",
+  "id":"03df9d71-3e29-49a9-9e6b-43638094de11"
  },
  {
-  "input":"Quali opzioni di pagamento sono accettate per i servizi Swisscom?",
-  "language":"IT",
-  "id":"",
-  "prediction":"Swisscom offre diverse opzioni di pagamento per i suoi servizi, garantendo flessibilit\u00e0 e comodit\u00e0. Puoi pagare le tue fatture tramite addebito diretto, e-banking, carta di credito, TWINT, o tramite fattura cartacea. \u00c8 importante notare che la fattura cartacea comporta un costo aggiuntivo. Puoi gestire e modificare le tue preferenze di pagamento accedendo al tuo account My Swisscom. Se hai bisogno di ulteriori dettagli, ti consiglio di visitare la sezione dedicata sul sito Swisscom.\n\nSe hai altre domande o desideri esplorare ulteriori servizi, fammi sapere! \nhttps:\/\/www.swisscom.ch\/it\/clienti-privati\/aiuto\/fattura\/pagamento.html",
-  "source_file":"promts.json"
+  "input":"Buongiorno, possiedo una prepaid swisscome (numero 0791234567). Quando sto effettuando una chiamata non ricevo nessun avviso se un altro utente prova a chiamarmi in quel momento. Al termine della chiamata non ricevo un sms che mi indica che qualcuno ha provato a chiamarmi (come succede quando ho il telefono spento). Come mai? Come posso fare in modo che ricevo l'avviso di chiamata in entrata (come succede per esempio se sto effettuando una chiamata whatsapp e mi arriva una chiamata normale). Grazie e buona giornata",
+  "prediction":"Buongiorno! Per ricevere avvisi di chiamata mentre sei impegnato in un'altra conversazione, \u00e8 necessario attivare la funzione \"Avviso di chiamata\" sul tuo telefono. Questa funzione ti permette di essere avvisato con un segnale acustico quando arriva una seconda chiamata. Puoi attivarla direttamente dalle impostazioni del tuo dispositivo, solitamente nella sezione delle impostazioni di chiamata.\n\nSe desideri ricevere notifiche via SMS per le chiamate perse, verifica che il servizio di notifica sia attivo. In caso di difficolt\u00e0, ti consiglio di contattare il servizio clienti Swisscom al numero 0800 555 155 per ulteriore assistenza. \n\nSe hai altre domande o hai bisogno di ulteriore aiuto, fammi sapere!",
+  "language":"it",
+  "id":"197f297e-5cc1-4135-8aca-455eddd9c84a"
  },
  {
-  "input":"Quanto \u00e8 facile navigare tra le diverse sezioni del sito?",
-  "language":"IT",
-  "id":"",
-  "prediction":"Navigare sul sito di Swisscom \u00e8 progettato per essere semplice e intuitivo. Le sezioni principali come \"My Swisscom\", \"eBill\", e \"Assistenza\" sono facilmente accessibili tramite il menu principale. Inoltre, la funzione di ricerca consente di trovare rapidamente informazioni specifiche. Se desideri gestire i tuoi servizi, puoi accedere a My Swisscom sia tramite il web che l'app, che offre un'interfaccia user-friendly per modificare abbonamenti, controllare fatture e ricevere supporto.\n\nSe hai bisogno di aiuto per navigare sul sito, fammi sapere! Posso anche suggerirti di visitare la pagina di My Swisscom per esplorare le funzionalit\u00e0 disponibili:\n[My Swisscom](https:\/\/www.swisscom.ch\/it\/clienti-privati\/my-swisscom.html)",
-  "source_file":"promts.json"
+  "input":"Boa tarde, poderiam me mandar a palavra passe do WiFi, ou \u00e9 a mesma de antes?",
+  "prediction":"Boa tarde! Infelizmente, n\u00e3o posso fornecer a palavra-passe do WiFi diretamente. No entanto, se voc\u00ea estiver usando um servi\u00e7o Swisscom, pode facilmente visualizar e modificar o nome (SSID) e a palavra-passe do seu WLAN atrav\u00e9s do My Swisscom. Isso garante que voc\u00ea tenha sempre acesso \u00e0s informa\u00e7\u00f5es mais atualizadas e seguras.\n\nSe precisar de mais assist\u00eancia ou tiver outras perguntas sobre os servi\u00e7os Swisscom, estou aqui para ajudar! Voc\u00ea j\u00e1 experimentou acessar o My Swisscom para gerenciar suas configura\u00e7\u00f5es de WLAN?\n\nhttps:\/\/www.swisscom.ch\/pt\/residential\/my-swisscom.html",
+  "language":"it",
+  "id":"51164d57-42ef-4ef2-bf27-045091425b65"
  },
  {
-  "input":"if I switch ti swisscom, how long does it take to move the line",
-  "language":"EN",
-  "id":"",
-  "prediction":"Switching to Swisscom is a straightforward process, and the time it takes to move your line can vary depending on the type of service and your current provider. Typically, the transfer of a fixed network line can take a few days to a couple of weeks. Swisscom will coordinate the transfer to ensure minimal disruption. \n\nTo get started, you can select your desired product and order online or call Swisscom at 0800 800 800. They will guide you through the process and manage the subscription change for you. \n\nFor more details on switching, you can visit the Swisscom website:\nhttps:\/\/www.swisscom.ch\/en\/residential.html\n\nHave you decided on which Swisscom package you are interested in, or do you need more information on their offerings?",
-  "source_file":"promts_2.json"
+  "input":"Ciao Non eiesco a collegare il telecomando al tv box",
+  "prediction":"Ciao! Mi dispiace che tu stia avendo problemi con il collegamento del telecomando al tuo TV-Box. Ecco alcuni passaggi che puoi seguire per risolvere il problema:\n\n1. Assicurati che il TV-Box sia acceso e collegato correttamente alla rete.\n2. Premi e tieni premuto il tasto WPS sul TV-Box per circa 3 secondi.\n3. Segui le istruzioni che appariranno sullo schermo del televisore per completare l'accoppiamento.\n\nSe il problema persiste, potrebbe essere utile consultare le istruzioni dettagliate in PDF per il tuo modello di TV-Box. Puoi trovarle qui: [Istruzioni PDF](https:\/\/www.swisscom.ch\/it\/clienti-privati\/aiuto\/guida\/tv\/blue-tv.html).\n\nHai bisogno di ulteriore assistenza?",
+  "language":"it",
+  "id":"4d345338-d3e3-4bd3-8fb2-845df6cd330f"
  },
  {
-  "input":"why should I choose swisscom over other compnies",
-  "language":"EN",
-  "id":"2jfocfdfohfspnvcsuo1",
-  "prediction":"Choosing Swisscom offers several compelling benefits. As the market leader in Switzerland, Swisscom provides the largest and most reliable mobile, 5G, and fibre-optic networks, ensuring excellent connectivity and service quality. Our subscriptions come with numerous free extras, such as Internet Guard for safe browsing and myCloud online storage. Additionally, Swisscom is recognized for its commitment to sustainability and has received multiple awards for its network performance and cybersecurity services.\n\nMoreover, Swisscom offers attractive discounts, like the Combi and Family discounts, which can significantly reduce costs when combining services. Would you like to know more about specific plans or services? \n\nExplore more about Swisscom's offerings here: \nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":"promts_2.json"
+  "input":"Buongiorno, se ordinassi il TV Box 5 in offerta ci sono poi costi di ricezione aggiuntivi?",
+  "prediction":"Buongiorno! Se ordini il TV Box 5, il costo iniziale \u00e8 di 99 CHF. Per l'opzione Multiroom, che ti permette di utilizzare il TV Box su pi\u00f9 televisori, c'\u00e8 un costo mensile aggiuntivo di 5 CHF per ciascun apparecchio supplementare. Non ci sono costi di ricezione aggiuntivi oltre a questi. Se desideri esplorare ulteriori dettagli o altre opzioni, ti consiglio di visitare la nostra pagina dedicata ai prodotti TV.\n\nHai gi\u00e0 un abbonamento blue TV o stai considerando di attivarne uno? Posso aiutarti a trovare l'offerta migliore per te.\n\nhttps:\/\/www.swisscom.ch\/it\/residenziale\/tv.html",
+  "language":"it",
+  "id":"cdfeaff3-bef9-43fe-83b3-3d7e381c7c7e"
  },
  {
-  "input":"I am using salt, how does it compare?",
-  "language":"EN",
-  "id":"2jfocfdfohfspnvcsuo2",
-  "prediction":"Swisscom and Salt are both prominent telecom providers in Switzerland, but they offer different services and experiences. Swisscom is known for its extensive network coverage, high-quality customer service, and a wide range of products, including mobile, internet, and digital TV services. Swisscom also provides innovative solutions like My Security for enhanced digital protection.\n\nSalt, on the other hand, often positions itself as a more budget-friendly option, focusing on competitive pricing. However, Swisscom typically leads in terms of network reliability and service quality.\n\nAre you interested in learning more about specific Swisscom services or packages that might suit your needs? You can explore more about Swisscom's offerings here: \nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":"promts_2.json"
+  "input":"salve come faccio a configurare il mio galaxy watch6 classic con opzione multi device",
+  "prediction":"Salve! Per configurare il tuo Galaxy Watch6 Classic con l'opzione Multi Device, segui questi passaggi:\n\n1. Assicurati di avere un abbonamento Mobile Swisscom attivo.\n2. Apri il sito cockpit.swisscom.ch\/it sul tuo dispositivo principale.\n3. Vai alla sezione \"Apparecchi\" e aggiungi il tuo Galaxy Watch6 Classic.\n4. Seleziona l'opzione Multi Device desiderata.\n5. Se hai bisogno di un profilo eSIM, clicca su \"Acquista profilo eSIM e attiva direttamente\".\n6. Scansiona il codice QR del profilo eSIM con il tuo Galaxy Watch6 Classic.\n\nOra il tuo smartwatch \u00e8 pronto per l'uso con Multi Device. Se hai bisogno di ulteriori informazioni, visita la nostra [pagina di aiuto](https:\/\/www.swisscom.ch\/it\/clienti-privati\/aiuto.html).\n\nHai altre domande o necessiti di ulteriore assistenza?",
+  "language":"it",
+  "id":"b7d924c0-d19b-40e1-a4aa-c6b1b97d9e74"
  },
  {
-  "input":"is there a minimum time for a contract for wifi",
-  "language":"EN",
-  "id":"",
-  "prediction":"Yes, Swisscom offers various Internet plans, each with its own contract terms. Typically, the minimum contract period for Swisscom's Internet services is 12 months. However, specific promotions or packages might have different terms. It's always a good idea to review the details of the plan you're interested in to understand any commitments involved. \n\nIf you're considering a new Internet plan, you might want to explore Swisscom's blue Internet offerings, which can be bundled with TV services for added value. Would you like more information on specific plans or assistance with checking availability in your area? \n\nFor more details, you can visit:\nhttps:\/\/www.swisscom.ch\/en\/residential\/internet.html",
-  "source_file":"promts_2.json"
+  "input":"Cosa si intende per abbonamento multi device?",
+  "prediction":"L'abbonamento Multi Device di Swisscom consente di utilizzare il tuo piano mobile su pi\u00f9 dispositivi contemporaneamente, come tablet, smartwatch o laptop, senza dover sottoscrivere un nuovo abbonamento per ciascun dispositivo. \u00c8 ideale per chi desidera mantenere la connettivit\u00e0 su diversi apparecchi con un unico numero di telefono. L'opzione Multi Device ha una durata minima del servizio e pu\u00f2 essere disdetta dopo il mese successivo all'attivazione. \n\nPer ulteriori dettagli, puoi visitare la pagina dedicata sul sito Swisscom. Hai altri dubbi o desideri sapere come attivare questa opzione? \nhttps:\/\/www.swisscom.ch\/it\/residenziale\/mobile\/multi-device.html",
+  "language":"it",
+  "id":"cbda05e5-e9fd-4fea-a026-92c3b8125e0a"
  },
  {
-  "input":"if I hire a wifi plan for my home, what is the minimum duration of the contract?",
-  "language":"EN",
-  "id":"",
-  "prediction":"When you sign up for a Swisscom blue Internet subscription, the minimum contract duration is 24 months. This applies to all blue Internet plans, whether you choose the S, M, or L package. It's important to consider this commitment when selecting your plan. If you have any questions about which plan might be best for your needs, you can use our subscription advisor tool to help you decide.\n\nWould you like more information on the different Internet plans available? \n\nhttps:\/\/www.swisscom.ch\/en\/residential\/internet\/internet-subscriptions.html",
-  "source_file":"promts_2.json"
+  "input":"Voglio sapere se sono ancora abbonato a bluetv sport mensile.",
+  "prediction":"Per verificare se sei ancora abbonato a Blue TV Sport mensile, ti consiglio di accedere al tuo account Swisscom tramite l'app My Swisscom o il sito web. Una volta effettuato l'accesso, potrai controllare i tuoi abbonamenti attivi e gestirli secondo le tue esigenze. Se hai bisogno di ulteriore assistenza, puoi contattare il servizio clienti Swisscom al numero 0800 555 155, disponibile dal luned\u00ec al sabato, dalle 8:00 alle 20:00.\n\nSe hai altre domande o hai bisogno di ulteriori informazioni sui nostri servizi, fammi sapere! Puoi anche visitare il nostro sito per ulteriori dettagli sui pacchetti Blue TV: \n[Swisscom Blue TV](https:\/\/www.swisscom.ch\/it\/clienti-privati\/tv.html)",
+  "language":"it",
+  "id":"eab830ec-bd56-442f-ad70-71e8b3917725"
  },
  {
-  "input":"perch\u00e9 dovrei scegliere Swisscom rispetto ad altre aziende",
-  "language":"IT",
-  "id":"",
-  "prediction":"Scegliere Swisscom significa optare per un'azienda leader in Svizzera nel settore delle comunicazioni, informatica e intrattenimento. Swisscom offre una delle migliori reti mobili e in fibra ottica del paese, garantendo velocit\u00e0, sicurezza e sostenibilit\u00e0. Inoltre, Swisscom si distingue per il suo impegno verso l'innovazione e la sostenibilit\u00e0, offrendo soluzioni digitali avanzate e sicure. Con un'ampia gamma di prodotti e servizi, Swisscom si adatta a ogni esigenza, sia per privati che per aziende. \n\nPer saperne di pi\u00f9 sui nostri servizi, visita il nostro sito:\n[Swisscom](https:\/\/www.swisscom.ch) \n\nC'\u00e8 qualcosa di specifico che ti interessa sapere sui nostri servizi?",
-  "source_file":"promts_2.json"
+  "input":"Vorrei riascoltare un messaggio nel mio combox gi\u00e0 ascoltato",
+  "prediction":"Per riascoltare un messaggio gi\u00e0 ascoltato nel tuo COMBOX\u00ae, puoi seguire questi semplici passaggi. Durante l'ascolto dei messaggi, premi il tasto **4** sulla tastiera del tuo telefono per ripetere il messaggio. Se hai bisogno di ulteriori informazioni su come gestire i tuoi messaggi nel COMBOX\u00ae, puoi visitare la pagina di supporto di Swisscom.\n\nSe hai altre domande o necessiti di assistenza, sono qui per aiutarti! Vuoi sapere come configurare notifiche o inoltri per i tuoi messaggi? \n\nEcco il link per ulteriori dettagli:\nhttps:\/\/www.swisscom.ch\/it\/clienti-privati\/aiuto\/mobile\/combox\/tastenfunktion.html",
+  "language":"it",
+  "id":"cdd60a72-7dff-4e35-84ee-dae47468651e"
  },
  {
-  "input":"Voglio parlare con il servizio clienti",
-  "language":"EN",
-  "id":"",
-  "prediction":"Certamente! Per contattare il servizio clienti Swisscom, puoi chiamare il numero 0800 555 155. Il servizio \u00e8 disponibile da luned\u00ec a sabato, dalle 8:00 alle 20:00. Se hai domande specifiche o necessiti di ulteriore assistenza, sono qui per aiutarti. Vuoi sapere qualcosa di pi\u00f9 sui nostri prodotti o servizi?",
-  "source_file":"promts_2.json"
+  "input":"Buongiorno volevo sapere a che punto \u00e8 lo stato di riparazione del mio dispositivo",
+  "prediction":"Buongiorno! Per verificare lo stato di riparazione del tuo dispositivo, ti consiglio di accedere al tuo account Swisscom online o tramite l'app My Swisscom. Una volta effettuato l'accesso, dovresti trovare una sezione dedicata alle riparazioni, dove potrai controllare l'avanzamento del processo. Se hai bisogno di ulteriore assistenza, puoi contattare il nostro servizio clienti al numero 0800 555 155, disponibile dal luned\u00ec al sabato, dalle 8:00 alle 20:00. \n\nHai altre domande o hai bisogno di ulteriori informazioni sui nostri servizi?",
+  "language":"it",
+  "id":"be7efb06-373d-467c-8e90-f2a3cc761e50"
  },
  {
-  "input":"ho una domanda e voglio parlare con qualcuno",
-  "language":"IT",
-  "id":"",
-  "prediction":"Certamente! Sono qui per aiutarti con qualsiasi domanda tu possa avere riguardo ai servizi Swisscom. Se preferisci parlare direttamente con un operatore, puoi contattare il nostro servizio clienti al numero 0800 555 155, disponibile dal luned\u00ec al sabato dalle 8:00 alle 20:00. Nel frattempo, se hai una domanda specifica, sentiti libero di chiedere e far\u00f2 del mio meglio per assisterti. C'\u00e8 qualcosa in particolare su cui posso aiutarti?",
-  "source_file":"promts_2.json"
+  "input":"J\u2019ai r\u00e9silier avec l\u2019op\u00e9rateur salt pour venir chez vous avec un nouvel abo et Swisscom m\u2019a dit qu\u2019ils prenaient en charge les frais de r\u00e9siliation de mon ancien op\u00e9rateur mobil salt",
+  "prediction":"Bienvenue chez Swisscom ! Nous sommes ravis de vous accueillir. En effet, Swisscom prend en charge jusqu'\u00e0 500 CHF des frais de changement si vous passez d'un autre op\u00e9rateur \u00e0 Swisscom. Cela vous permet de faire la transition en douceur sans vous soucier des frais de r\u00e9siliation. Pour plus de d\u00e9tails sur cette offre, je vous recommande de consulter les conditions sur notre site web ou de contacter notre service client pour toute assistance suppl\u00e9mentaire.\n\nAvez-vous d\u00e9j\u00e0 choisi un nouvel abonnement mobile chez Swisscom ? Si vous avez besoin d'aide pour choisir, je suis l\u00e0 pour vous aider !\n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html",
+  "language":"fr",
+  "id":"fe01463e-6160-48d4-b374-aefb6383fd92"
  },
  {
-  "input":"Wie kann ich meinen Tarif \u00e4ndern?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Um Ihren Tarif bei Swisscom zu \u00e4ndern, k\u00f6nnen Sie dies bequem \u00fcber das Kundenportal My Swisscom tun. Dort erhalten Sie eine \u00dcbersicht \u00fcber Ihre aktuellen Abos und k\u00f6nnen \u00c4nderungen vornehmen. Alternativ k\u00f6nnen Sie auch die Swisscom Hotline unter 0800 555 155 kontaktieren, um Unterst\u00fctzung zu erhalten. Denken Sie daran, dass bei einem Tarifwechsel m\u00f6glicherweise Vertragsbedingungen zu beachten sind.\n\nHaben Sie schon einen bestimmten Tarif im Auge, oder ben\u00f6tigen Sie Hilfe bei der Auswahl des passenden Angebots? Hier finden Sie mehr Informationen zu unseren Abos: \n[Swisscom Abos](https:\/\/www.swisscom.ch\/de\/privatkunden.html)",
-  "source_file":"promts_2.json"
+  "input":"je n'arrive pas \u00e0 d\u00e9vier les appels entrant sur la messagerie vocale lorsque je suis en ligne",
+  "prediction":"Pour d\u00e9vier vos appels entrants vers votre COMBOX\u00ae lorsque vous \u00eates en ligne, vous pouvez utiliser plusieurs m\u00e9thodes. Voici comment proc\u00e9der :\n\n1. **Via My Swisscom** : Connectez-vous \u00e0 votre espace client My Swisscom. Vous pouvez y g\u00e9rer vos param\u00e8tres d'appel, y compris le transfert vers la COMBOX\u00ae. Cela vous permet de configurer la d\u00e9viation d'appels lorsque vous \u00eates occup\u00e9.\n\n2. **Utilisation du clavier** : Composez la combinaison de touches suivante sur votre t\u00e9l\u00e9phone : `*67 086 votre num\u00e9ro d\u2019appel #` (par exemple, `*670860441234567#`). Cela activera la d\u00e9viation vers la COMBOX\u00ae lorsque vous \u00eates en ligne.\n\nPour plus de d\u00e9tails, vous pouvez consulter la page d\u00e9di\u00e9e sur le site de Swisscom :\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide.html\n\nAvez-vous besoin d'aide suppl\u00e9mentaire ou d'informations sur d'autres services Swisscom ?",
+  "language":"fr",
+  "id":"5a34902f-4235-42a0-89e2-67e197a51e75"
  },
  {
-  "input":"Wo kann ich meine monatliche Rechnung einsehen?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Sie k\u00f6nnen Ihre monatliche Rechnung ganz einfach in My Swisscom einsehen. Loggen Sie sich dazu in Ihr My Swisscom Konto ein und navigieren Sie zu \u201eRechnungen\u201c. Dort finden Sie alle Details zu Ihren vergangenen und aktuellen Rechnungen. Falls Sie noch kein Konto haben, k\u00f6nnen Sie sich auf der Swisscom-Website registrieren. Haben Sie weitere Fragen zu Ihren Rechnungen oder ben\u00f6tigen Sie Hilfe beim Einrichten Ihres Kontos?\n\nHier ist der Link zu My Swisscom: \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe\/my-swisscom.html",
-  "source_file":"promts_2.json"
+  "input":"J'aimerais SVP resilier toutes les options actives Canal+, blue premium, blue supermax, pack Bosna, pack Russia.",
+  "prediction":"Pour r\u00e9silier vos options Canal+, blue Premium, blue Supermax, pack Bosna et pack Russia, vous pouvez le faire directement depuis votre espace client Swisscom. Connectez-vous \u00e0 votre compte, allez dans la section des abonnements et services, et suivez les instructions pour r\u00e9silier les options souhait\u00e9es. Si vous pr\u00e9f\u00e9rez une assistance directe, je vous recommande de contacter notre service client au 0800 555 155, disponible du lundi au samedi de 8h00 \u00e0 20h00. \n\nAvez-vous besoin d'aide pour autre chose ou souhaitez-vous explorer d'autres offres Swisscom ?",
+  "language":"fr",
+  "id":"6037bcc4-3f4c-49cc-a3b3-cad9c81cad68"
  },
  {
-  "input":"Ich habe mein Passwort f\u00fcr meinen Swisscom-Account vergessen, wie kann ich es \u00e4ndern?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Kein Problem, ich helfe Ihnen gerne weiter! Um Ihr Passwort f\u00fcr Ihren Swisscom-Account zu \u00e4ndern, folgen Sie diesen Schritten:\n\n1. Gehen Sie zur Swisscom Login-Seite.\n2. Klicken Sie auf \u201eBenutzername vergessen\u201c.\n3. Geben Sie Ihren Benutzernamen ein und klicken Sie auf \u201eWeiter\u201c.\n4. W\u00e4hlen Sie im n\u00e4chsten Schritt \u201ePasswort vergessen\u201c.\n5. Folgen Sie den Anweisungen, um ein neues Passwort zu erstellen.\n\nFalls Sie weitere Unterst\u00fctzung ben\u00f6tigen, k\u00f6nnen Sie auch die Swisscom Community besuchen oder den Kundendienst kontaktieren. Gibt es noch etwas, bei dem ich Ihnen helfen kann?\n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/hilfe.html",
-  "source_file":"promts_2.json"
+  "input":"Comment souscrire \u00e0 un package de donn\u00e9e pour la Colombie",
+  "prediction":"Pour souscrire \u00e0 un package de donn\u00e9es pour la Colombie, vous pouvez consulter les options disponibles dans le Cockpit Swisscom. Ce portail vous permet de g\u00e9rer vos options d'itin\u00e9rance, y compris l'achat de packs de donn\u00e9es pour l'\u00e9tranger. Vous pouvez y acc\u00e9der via l'application My Swisscom ou directement en ligne. Assurez-vous de v\u00e9rifier les tarifs et les conditions sp\u00e9cifiques pour la Colombie afin de choisir le package qui correspond le mieux \u00e0 vos besoins.\n\nPour plus d'informations, vous pouvez visiter le site Swisscom ou contacter le service client au 0800 555 155, disponible du lundi au samedi de 8h00 \u00e0 20h00.\n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/mobile\/roaming.html",
+  "language":"fr",
+  "id":"a0fb4bec-d05a-4793-abf5-4492616c1d5e"
  },
  {
-  "input":"Bietet Ihr Unternehmen Family- oder Kombi-Tarife an?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Ja, Swisscom bietet sowohl Family- als auch Kombi-Tarife an, die Ihnen helfen k\u00f6nnen, monatlich zu sparen. Mit dem Kombi-Rabatt erhalten Sie CHF 20.\u2013 Rabatt pro Monat, wenn Sie ein blue Mobile-Abo mit einem blue Internet-Abo kombinieren. Zus\u00e4tzlich gibt es den Familien-Rabatt, bei dem Sie CHF 30.\u2013 pro Monat auf weitere blue Mobile-Abos sparen k\u00f6nnen. Diese Rabatte werden direkt auf Ihrer Rechnung abgezogen. \n\nM\u00f6chten Sie mehr \u00fcber diese Angebote erfahren oder haben Sie spezifische Fragen zu einem der Tarife? \n\nHier finden Sie weitere Informationen: \nhttps:\/\/www.swisscom.ch\/content\/experience-fragments\/swisscom\/de\/res\/produkte\/detailpages\/mobile-details\/modal-blue-benefit-mobile-v1.html",
-  "source_file":"promts_2.json"
+  "input":"Bonjour, ce matin, je r\u00e9ceptionnne un mail de votre part concernant l'adaptation de nos services swisscom, de quoi s'agit-il? Nous n'avons fait aucune demande dans ce sens.",
+  "prediction":"Bonjour! Il est possible que vous ayez re\u00e7u un e-mail concernant une mise \u00e0 jour ou une adaptation de nos services. Swisscom effectue parfois des mises \u00e0 jour pour am\u00e9liorer les services existants ou pour se conformer \u00e0 de nouvelles r\u00e9glementations. Si vous n'avez pas fait de demande, il est important de v\u00e9rifier l'authenticit\u00e9 de l'e-mail pour \u00e9viter les tentatives de phishing. Assurez-vous que l'e-mail provient d'une adresse officielle de Swisscom et ne cliquez sur aucun lien suspect.\n\nPour plus de s\u00e9curit\u00e9, vous pouvez consulter votre compte via [My Swisscom](https:\/\/www.swisscom.ch\/fr\/clients-prives\/assistance\/my-swisscom.html) pour v\u00e9rifier les notifications ou mises \u00e0 jour r\u00e9centes. Si vous avez des doutes, n'h\u00e9sitez pas \u00e0 contacter notre support client au 0800 555 155. Avez-vous d'autres questions ou pr\u00e9occupations concernant vos services Swisscom?",
+  "language":"fr",
+  "id":"955135aa-b638-4d15-9df5-51d7843bbba4"
  },
  {
-  "input":"Was sind die besten Prepaid-Optionen f\u00fcr Jugendliche?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Swisscom bietet einige attraktive Prepaid-Optionen, die ideal f\u00fcr Jugendliche sind. Eine beliebte Wahl ist das \"blue Kids Mobile\", das speziell f\u00fcr Kinder und Jugendliche entwickelt wurde. Es bietet standardm\u00e4\u00dfig deaktivierte kostenpflichtige Telefonnummern und SMS-Dienste sowie einen automatischen Callfilter, der vor unerw\u00fcnschten Anrufen sch\u00fctzt. Zudem blockiert der Internetguard gef\u00e4hrliche Webseiten. \n\nEin weiteres Highlight ist der Kombi-Rabatt, bei dem Sie zus\u00e4tzlich 500 MB Highspeed-Surfvolumen pro Monat erhalten, wenn ein Internet-Abo im Haushalt vorhanden ist. \n\nM\u00f6chten Sie mehr \u00fcber diese Optionen erfahren oder haben Sie spezielle Anforderungen? \nhttps:\/\/www.swisscom.ch\/de\/privatkunden\/mobile\/prepaid.html",
-  "source_file":"promts_2.json"
+  "input":"est il possible de revendre un ipod apple",
+  "prediction":"Oui, il est possible de revendre un iPod Apple via le service Swisscom Buyback. Cependant, la valeur de reprise d\u00e9pendra de l'\u00e9tat de l'appareil et de sa demande sur le march\u00e9 de l'occasion. Si votre iPod ne figure pas dans la liste des appareils \u00e9ligibles pour la reprise, vous pouvez envisager de le donner \u00e0 Mobile Aid dans un Swisscom Shop. Cela permet de soutenir des projets caritatifs tout en recyclant votre appareil de mani\u00e8re responsable. \n\nPour plus d'informations sur le service Buyback, vous pouvez visiter le site de Swisscom. Si vous avez d'autres questions ou souhaitez explorer nos offres, n'h\u00e9sitez pas \u00e0 me le faire savoir ! \n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/produits\/services\/buyback.html",
+  "language":"fr",
+  "id":"fa5d61a6-3233-4c51-86a9-9018af17080e"
  },
  {
-  "input":"Gibt es spezielle Angebote f\u00fcr Neukunden?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Ja, Swisscom bietet spezielle Angebote f\u00fcr Neukunden an. Zum Beispiel k\u00f6nnen Sie von attraktiven Promotionspreisen f\u00fcr die ersten sechs Monate profitieren, wenn Sie sich f\u00fcr ein neues Internet- oder TV-Abo entscheiden. Zudem gibt es exklusive Online-Angebote, wie eine reduzierte Aktivierungsgeb\u00fchr. Ein aktuelles Highlight ist das Angebot, bei dem Sie eine PlayStation\u00ae5 erhalten, wenn Sie sich f\u00fcr ein neues blue Internet Abo entscheiden. \n\nWeitere Details zu den aktuellen Angeboten finden Sie auf unserer Webseite. Haben Sie Interesse an einem bestimmten Produkt oder ben\u00f6tigen Sie weitere Informationen?\n\nhttps:\/\/www.swisscom.ch\/de\/privatkunden.html",
-  "source_file":"promts_2.json"
+  "input":"Voici ma preuve de paiement pour la derni\u00e8re facture ouverte, pouvez-vous proc\u00e9der au d\u00e9blocage s\u2019il vous pla\u00eet merci",
+  "prediction":"Je suis d\u00e9sol\u00e9, mais je ne peux pas traiter directement les demandes de d\u00e9blocage ou v\u00e9rifier les paiements. Cependant, vous pouvez rapidement d\u00e9bloquer vos services en r\u00e9glant vos factures en suspens via My Swisscom, en utilisant une carte de cr\u00e9dit ou TWINT. Une fois le paiement effectu\u00e9, l'activation sur le r\u00e9seau peut prendre jusqu'\u00e0 2 heures. Si vous avez besoin d'aide suppl\u00e9mentaire, je vous recommande de contacter le service client de Swisscom au 0800 555 155, disponible du lundi au samedi de 8:00 \u00e0 20:00. \n\nPour plus d'informations, vous pouvez visiter le site Swisscom :\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide.html",
+  "language":"fr",
+  "id":"5756a796-0c61-441c-9a66-aa09d106e54d"
  },
  {
-  "input":"Bietet Ihr Unternehmen derzeit Rabatte auf neue Smartphones an?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Ja, Swisscom bietet derzeit attraktive Rabatte auf neue Smartphones an. Mit einem neuen Mobile-Abo k\u00f6nnen Sie bis zu 1'060.\u2013 CHF Rabatt auf ausgew\u00e4hlte Smartphones erhalten. Zudem gibt es exklusive Online-Angebote, bei denen die Aktivierungsgeb\u00fchren geschenkt werden. Wenn Sie von einem anderen Anbieter wechseln, \u00fcbernimmt Swisscom bis zu 500.\u2013 CHF der Wechselkosten. M\u00f6chten Sie mehr \u00fcber ein bestimmtes Angebot erfahren oder haben Sie Interesse an einem bestimmten Smartphone-Modell?\n\nWeitere Informationen finden Sie auf unserer Webseite:\nhttps:\/\/www.swisscom.ch\/de\/privatkunden.html",
-  "source_file":"promts_2.json"
+  "input":"je re\u00e7ois depuis hier des appels qui n aboutissent \u00e0 rien lorsque je r\u00e9ponds",
+  "prediction":"Cela peut \u00eatre frustrant de recevoir des appels qui n'aboutissent \u00e0 rien. Il est possible que ces appels proviennent de num\u00e9ros ind\u00e9sirables ou automatis\u00e9s. Pour g\u00e9rer cela, Swisscom propose un service de blocage des appels ind\u00e9sirables. Vous pouvez activer ce service via votre compte My Swisscom, ce qui vous permettra de r\u00e9duire ces appels perturbateurs.\n\nAvez-vous d\u00e9j\u00e0 essay\u00e9 de bloquer ces num\u00e9ros via votre t\u00e9l\u00e9phone ou My Swisscom ? Si vous avez besoin d'aide pour configurer ce service, je suis l\u00e0 pour vous guider.\n\nPour plus d'informations, vous pouvez consulter la page d\u00e9di\u00e9e sur le site de Swisscom :\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide\/reseau-fixe\/blocage-des-appels\/popup-kriterien1.html",
+  "language":"fr",
+  "id":"8c18a527-3547-4b3f-9803-3dcaf5a21390"
  },
  {
-  "input":"Y a-t-il des offres sp\u00e9ciales pour les nouveaux clients ?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Oui, Swisscom propose plusieurs offres sp\u00e9ciales pour les nouveaux clients. Par exemple, en souscrivant \u00e0 un nouvel abonnement mobile, vous pouvez b\u00e9n\u00e9ficier d'un cr\u00e9dit de 200 CHF sur vos factures, ce qui r\u00e9duit vos co\u00fbts mensuels. De plus, vous recevrez 6 mois de Disney+ Standard avec publicit\u00e9 en cadeau. Si vous optez pour le pack blue Internet et TV, vous pouvez obtenir un cadeau de bienvenue suppl\u00e9mentaire de 300 CHF jusqu'au 26 janvier 2024. \n\nPour plus de d\u00e9tails, vous pouvez consulter les offres actuelles sur notre site web. Avez-vous des questions sp\u00e9cifiques sur un abonnement ou un service particulier ? \nhttps:\/\/www.swisscom.ch\/fr\/offres-et-promotions",
-  "source_file":"promts_2.json"
+  "input":"Commo je peut \u00e9cout\u00e9 mon conbox",
+  "prediction":"Pour \u00e9couter votre COMBOX\u00ae, vous avez plusieurs options. Si vous \u00eates en Suisse, vous pouvez appuyer longuement sur la touche 1 de votre mobile pour acc\u00e9der directement \u00e0 votre COMBOX\u00ae. Si elle n'est pas programm\u00e9e sur cette touche, composez le num\u00e9ro +41 79 499 79 79 pour \u00e9couter vos messages. \n\nVous pouvez \u00e9galement utiliser la Visual Voicemail sur votre smartphone pour voir et \u00e9couter vos messages directement. Notez que cette fonctionnalit\u00e9 n\u00e9cessite des donn\u00e9es mobiles, et des frais peuvent s'appliquer si le roaming est activ\u00e9.\n\nSi vous avez besoin d'aide suppl\u00e9mentaire, n'h\u00e9sitez pas \u00e0 me le faire savoir !",
+  "language":"fr",
+  "id":"a76ca31b-027c-424c-a702-0aa821678f37"
  },
  {
-  "input":"Votre entreprise propose-t-elle actuellement des r\u00e9ductions sur de nouveaux smartphones ?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Oui, Swisscom propose actuellement des r\u00e9ductions int\u00e9ressantes sur une s\u00e9lection de nouveaux smartphones. Par exemple, vous pouvez obtenir des r\u00e9ductions allant jusqu'\u00e0 1'060 CHF sur certains mod\u00e8les en souscrivant \u00e0 un abonnement mobile. De plus, des offres sp\u00e9ciales incluent des rabais sur des appareils comme le Samsung Galaxy S24 Ultra et le Google Pixel 9 Pro. Pour plus de d\u00e9tails, je vous invite \u00e0 visiter notre page d\u00e9di\u00e9e aux offres mobiles.\n\nSi vous avez des questions sur un mod\u00e8le sp\u00e9cifique ou souhaitez en savoir plus sur nos abonnements, n'h\u00e9sitez pas \u00e0 demander !\n\nhttps:\/\/www.swisscom.ch\/fr\/offres-mobiles",
-  "source_file":"promts_2.json"
+  "input":"Bonjour, Mon compte myCloud a \u00e9t\u00e9 suspendu et je souhaite r\u00e9cup\u00e9rer les donn\u00e9es et photos, comment faire pour le r\u00e9activer ?",
+  "prediction":"Bonjour ! Pour r\u00e9activer votre compte myCloud suspendu, vous devez d'abord d\u00e9terminer la raison de la suspension. Si c'est d\u00fb \u00e0 un espace de stockage plein, vous pouvez d\u00e9bloquer votre compte en passant \u00e0 un abonnement sup\u00e9rieur via My Swisscom. Si la suspension est due \u00e0 une inactivit\u00e9, vous devez contacter Swisscom dans les 60 jours suivant la suspension pour le r\u00e9activer. \n\nPour plus de d\u00e9tails sur les abonnements, vous pouvez visiter [myCloud](https:\/\/www.mycloud.ch).\n\nAvez-vous besoin d'aide pour choisir un abonnement ou souhaitez-vous plus d'informations sur les fonctionnalit\u00e9s de myCloud ?",
+  "language":"fr",
+  "id":"c4c348a1-8867-431a-84ec-48c833f89e47"
  },
  {
-  "input":"Je souhaite renouveler mon forfait et acheter le nouvel iPhone, comment puis-je faire ?",
-  "language":"FR",
-  "id":"",
-  "prediction":"Pour renouveler votre forfait et acheter le nouvel iPhone, vous pouvez facilement le faire en ligne ou en visitant un Swisscom Shop. En ligne, vous b\u00e9n\u00e9ficiez de la livraison gratuite et des frais d\u2019activation offerts. Vous avez \u00e9galement la possibilit\u00e9 de r\u00e9gler votre nouvel iPhone en plusieurs \u00e9ch\u00e9ances. Si vous prolongez votre contrat ou souscrivez \u00e0 un nouvel abonnement, vous pourriez profiter de promotions int\u00e9ressantes.\n\nPour commencer, je vous recommande de visiter notre page d\u00e9di\u00e9e aux iPhones pour comparer les mod\u00e8les et choisir celui qui vous convient le mieux. Avez-vous d\u00e9j\u00e0 un mod\u00e8le sp\u00e9cifique en t\u00eate, ou avez-vous besoin de conseils pour choisir le bon forfait ?\n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/mobile\/devices\/apple.html",
-  "source_file":"promts_2.json"
+  "input":"Bonjour, j\u2019ai une petite question, j\u2019ai eu un soucis avec mon iPhone 14 pro Max et mon assurance me demande la facture d\u2019achat est-ce que c\u2019est possible de l\u2019avoir?",
+  "prediction":"Bonjour! Oui, il est tout \u00e0 fait possible d'obtenir une copie de votre facture d'achat pour votre iPhone 14 Pro Max. Si vous avez achet\u00e9 votre appareil via Swisscom, vous pouvez acc\u00e9der \u00e0 votre facture en ligne en vous connectant \u00e0 votre compte client sur le site Swisscom. Une fois connect\u00e9, vous trouverez vos factures dans la section \"Mes documents\" ou \"Factures\". \n\nSi vous avez besoin d'aide pour acc\u00e9der \u00e0 votre compte ou si vous pr\u00e9f\u00e9rez une assistance directe, je vous recommande de contacter notre service client au 0800 555 155, disponible du lundi au samedi de 8:00 \u00e0 20:00. Avez-vous d'autres questions concernant votre appareil ou vos services Swisscom? \n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide.html",
+  "language":"fr",
+  "id":"7ff40540-8143-4ee7-972a-36ea90994719"
  },
  {
-  "input":"Ich m\u00f6chte meinen Plan erneuern und das neue iPhone kaufen. Wie kann ich das tun?",
-  "language":"DE",
-  "id":"",
-  "prediction":"Das klingt spannend! Um Ihren Plan zu erneuern und ein neues iPhone zu kaufen, k\u00f6nnen Sie ganz einfach online oder in einem Swisscom Shop vorbeischauen. Wenn Sie online bestellen, profitieren Sie von einer kostenlosen Lieferung und die Aufschaltgeb\u00fchr von CHF 59.90 wird Ihnen geschenkt. Zudem haben Sie die M\u00f6glichkeit, das iPhone in Raten zu bezahlen oder von speziellen Promotionen zu profitieren, wenn Sie Ihren Vertrag verl\u00e4ngern.\n\nM\u00f6chten Sie mehr \u00fcber die aktuellen iPhone-Modelle oder unsere Angebote erfahren? Hier ist der Link zu unserer [iPhone-Seite bei Swisscom](https:\/\/www.swisscom.ch\/de\/privatkunden\/produkte\/handys\/apple.html).\n\nGibt es ein bestimmtes Modell, das Sie interessiert, oder ben\u00f6tigen Sie Hilfe bei der Auswahl?",
-  "source_file":"promts_2.json"
+  "input":"Une facture a \u00e9t\u00e9 d\u00e9bit\u00e9 de mon compte ce matin par erreur pouvez vous refuser le montant",
+  "prediction":"Je suis d\u00e9sol\u00e9 d'apprendre cela. Malheureusement, je ne peux pas directement refuser ou annuler un paiement. Cependant, je vous recommande de v\u00e9rifier d'abord votre compte dans My Swisscom pour confirmer le paiement. Si une erreur est confirm\u00e9e, veuillez contacter votre banque pour voir si une annulation est possible. Vous pouvez \u00e9galement appeler notre service client au 0800 555 155, disponible du lundi au samedi de 8h00 \u00e0 20h00, pour obtenir de l'aide suppl\u00e9mentaire. Avez-vous d'autres questions ou besoin d'aide pour autre chose ?",
+  "language":"fr",
+  "id":"b18b585c-4883-4d8b-81e3-8c760833dc0a"
  },
  {
-  "input":"I want to talk to customer service",
-  "language":"EN",
-  "id":"",
-  "prediction":"Certainly! If you need to speak with Swisscom customer service, you can reach them at 0800 555 155. They are available from Monday to Saturday, between 8:00 and 20:00. If there's anything specific you'd like to know or if you have any questions about Swisscom products or services, feel free to ask, and I'll be happy to assist you further!",
-  "source_file":"redirections.json"
+  "input":"Bonjour, J\u2019ai re\u00e7u sans le demander une Apple box tv chez moi, avec l\u2019offre suivante:",
+  "prediction":"Bonjour ! Il semble que vous ayez re\u00e7u une Apple TV Box de Swisscom. Cela pourrait \u00eatre li\u00e9 \u00e0 une offre promotionnelle ou \u00e0 un changement dans votre abonnement. Pour clarifier la situation, je vous recommande de v\u00e9rifier votre compte Swisscom ou de contacter notre service client pour plus de d\u00e9tails. Vous pouvez les joindre au 0800 555 155, du lundi au samedi, de 8h00 \u00e0 20h00. \n\nAvez-vous des questions sur l'utilisation de l'Apple TV ou sur les services Swisscom disponibles ? Je suis l\u00e0 pour vous aider !",
+  "language":"fr",
+  "id":"0b40e8da-5d0f-40ae-a077-9df61c2d5df9"
  },
  {
-  "input":"What services does Swisscom offer to individual consumers?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Swisscom provides a wide range of services tailored to individual consumers, ensuring connectivity and entertainment needs are met. These include mobile subscriptions with the best network coverage in Switzerland, high-speed Internet packages, and blue TV for diverse entertainment options. Additionally, Swisscom offers myCloud for secure online storage and blue Security & Service for enhanced device protection. Customers can also benefit from the My Swisscom app for managing services and accessing support.\n\nWould you like more information on any specific service or assistance with choosing the right package for you? You can explore more at the Swisscom website:\n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":"regular.json"
+  "input":"Je dois retourner sous-garantie un Panneau solaire Xtorm 21 W. Comment dois-je proc\u00e9der ?",
+  "prediction":"Pour retourner un produit sous garantie, comme votre Panneau solaire Xtorm 21 W, vous devez suivre quelques \u00e9tapes simples. Tout d'abord, assurez-vous d'avoir votre preuve d'achat \u00e0 port\u00e9e de main, car elle sera n\u00e9cessaire pour valider la garantie. Ensuite, contactez notre service client au 0800 555 155, disponible du lundi au samedi de 8h00 \u00e0 20h00, pour obtenir des instructions pr\u00e9cises sur le processus de retour. Ils vous guideront sur l'emballage et l'adresse de retour appropri\u00e9e.\n\nAvez-vous d'autres questions concernant votre produit ou un autre service Swisscom ?",
+  "language":"fr",
+  "id":"7e0bb5f9-16f1-4c65-8f3d-5de80e816eff"
  },
  {
-  "input":"How can businesses benefit from Swisscom's solutions?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Swisscom offers a range of solutions tailored to help businesses thrive in today's digital landscape. With Swisscom, businesses can benefit from robust connectivity options, including high-speed internet and reliable mobile networks, ensuring seamless communication and operations. Swisscom also provides cloud services, enabling businesses to store, manage, and access data securely and efficiently. Additionally, Swisscom's cybersecurity solutions protect businesses from digital threats, safeguarding sensitive information. \n\nFor more personalized support, Swisscom offers consulting services to help businesses optimize their IT infrastructure. Would you like to explore specific solutions for your business needs? You can find more information on our business solutions here:\n\nhttps:\/\/www.swisscom.ch\/en\/business.html",
-  "source_file":"regular.json"
+  "input":"Comment \u00e9couter un message Combox \u00c0 l\u2019\u00e9tranger",
+  "prediction":"Pour \u00e9couter vos messages COMBOX\u00ae lorsque vous \u00eates \u00e0 l'\u00e9tranger, vous pouvez suivre ces \u00e9tapes simples. Tout d'abord, appelez votre propre num\u00e9ro de t\u00e9l\u00e9phone mobile avec l'indicatif international (+41 pour la Suisse). Une fois que vous entendez votre message d'accueil, appuyez sur la touche \u00e9toile (*) pour acc\u00e9der \u00e0 votre COMBOX\u00ae. Ensuite, entrez votre code PIN pour \u00e9couter vos messages. Assurez-vous que l'itin\u00e9rance est activ\u00e9e sur votre t\u00e9l\u00e9phone pour que cela fonctionne.\n\nPour plus de d\u00e9tails, vous pouvez consulter la page d\u00e9di\u00e9e \u00e0 la COMBOX\u00ae sur le site de Swisscom :\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide\/mobile\/combox.html\n\nAvez-vous besoin d'aide pour autre chose concernant votre COMBOX\u00ae ?",
+  "language":"fr",
+  "id":"cf52e16e-2996-4aef-92a7-b05753b287c7"
  },
  {
-  "input":"Does Swisscom offer any services for startups or small businesses?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Yes, Swisscom offers a range of services tailored specifically for startups and small businesses. Our solutions include flexible communication packages, cloud services, and IT support designed to help businesses grow efficiently. For instance, Swisscom's Smart Business Connect provides a comprehensive communication solution that integrates telephony, internet, and cloud services. Additionally, we offer digital marketing tools and cybersecurity solutions to help protect and promote your business.\n\nWould you like more information on any specific service, or perhaps guidance on how to get started? You can explore more about our business solutions here: \n\n[Swisscom Business Solutions](https:\/\/www.swisscom.ch\/en\/business.html)",
-  "source_file":"regular.json"
+  "input":"Mon c\u00e2ble HDMI est cass\u00e9",
+  "prediction":"Je suis d\u00e9sol\u00e9 d'apprendre que votre c\u00e2ble HDMI est cass\u00e9. Vous pouvez facilement le remplacer par un nouveau c\u00e2ble HDMI compatible avec votre TV-Box Swisscom. Assurez-vous d'acheter un c\u00e2ble de bonne qualit\u00e9 pour garantir une connexion stable et optimale entre votre TV-Box et votre t\u00e9l\u00e9viseur. Vous pouvez trouver des c\u00e2bles HDMI dans la plupart des magasins d'\u00e9lectronique ou en ligne.\n\nSi vous avez besoin d'aide pour installer le nouveau c\u00e2ble ou si vous rencontrez d'autres probl\u00e8mes, n'h\u00e9sitez pas \u00e0 consulter notre guide d'installation de la TV-Box sur le site Swisscom. Avez-vous d'autres questions ou besoin d'aide suppl\u00e9mentaire ? \n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide.html",
+  "language":"fr",
+  "id":"9a1d271f-f2f5-44af-94b4-de8fe6c91ad5"
  },
  {
-  "input":"How can users learn about Swisscom's latest products?",
-  "language":"EN",
-  "id":"",
-  "prediction":"To stay informed about Swisscom's latest products, you can subscribe to the Swisscom Newsletter. This weekly newsletter provides tips and tricks for smartphones, apps, Internet, and cybersecurity, along with updates on new products, features, and top offers. Additionally, you can explore the Swisscom Online Shop for the latest promotions and special offers on mobile devices, accessories, and more. \n\nWould you like to know more about any specific product or service? You can subscribe to the newsletter here:\n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":"regular.json"
+  "input":"Bonsoir, je viens de prolonger mon abonnement avec l\u2019achat d\u2019un iphone 15. Au shop la dame m\u2019a expliqu\u00e9 que j\u2019allais aussi recevoir 3 mois Disney+ mais je ne sais pas o\u00f9 trouver cette offre. Vous pouvez m\u2019aider svp?",
+  "prediction":"Bonsoir! F\u00e9licitations pour votre nouvel iPhone 15 et la prolongation de votre abonnement. Pour b\u00e9n\u00e9ficier de votre offre de 3 mois de Disney+, l'activation se fait g\u00e9n\u00e9ralement apr\u00e8s la mise en service de votre nouvel appareil et abonnement. Vous devriez recevoir un email de confirmation avec des instructions pour activer Disney+. Assurez-vous de v\u00e9rifier votre bo\u00eete de r\u00e9ception et vos spams.\n\nSi vous ne trouvez pas l'email, je vous recommande de vous connecter \u00e0 votre compte My Swisscom pour v\u00e9rifier les offres disponibles. Vous pouvez aussi contacter le service client au 0800 555 155, disponible du lundi au samedi de 8h \u00e0 20h, pour obtenir de l'aide suppl\u00e9mentaire.\n\nPour plus d'informations, vous pouvez visiter le site Swisscom:\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html",
+  "language":"fr",
+  "id":"59c4f52b-e490-4da9-9e63-3d1683f06375"
  },
  {
-  "input":"Is there a site map available on the Swisscom website?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Yes, Swisscom provides a comprehensive site map to help you navigate their website with ease. It includes links to various sections such as products, services, support, and company information. This can be particularly useful if you're looking for specific information or want to explore all the offerings Swisscom has. You can find the site map at the bottom of the Swisscom homepage under the \"Sitemap\" link. \n\nIs there any specific information or service you're looking for on the Swisscom website that I can assist you with?",
-  "source_file":"regular.json"
+  "input":"Bonjour, je voudrais si l'offre de 3 mois gratuit sur Disney plus est aussi pour les clients existants.",
+  "prediction":"Bonjour ! L'offre de 3 mois de r\u00e9duction sur Disney+ est disponible pour les nouveaux abonnements blue Internet (avec ou sans blue TV). Pour les clients Swisscom existants, cette offre est accessible uniquement s'ils souscrivent \u00e0 un nouvel abonnement blue Internet. Si vous \u00eates d\u00e9j\u00e0 client et souhaitez b\u00e9n\u00e9ficier de cette promotion, il vous faudra donc souscrire \u00e0 un nouvel abonnement. \n\nSi vous avez d'autres questions ou souhaitez explorer nos offres, n'h\u00e9sitez pas \u00e0 me le faire savoir ! Vous pouvez \u00e9galement consulter plus de d\u00e9tails sur notre site web.\n\nhttps:\/\/www.swisscom.ch\/fr\/residentiel\/internet.html",
+  "language":"fr",
+  "id":"a7cd1226-f023-426f-8d93-a318ba4e89ff"
  },
  {
-  "input":"How easy is it to navigate between different sections of the website?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Navigating the Swisscom website is designed to be user-friendly and intuitive. The main sections, such as Mobile, Internet & TV, and Help & Services, are easily accessible from the homepage. You can also use the search bar to quickly find specific information. Each section is clearly labeled and organized, making it simple to find what you need. Additionally, direct access links to popular services like My Swisscom, blue TV Player, and Swisscom Shops are available for quick navigation. \n\nIs there a specific section you are interested in exploring further? I can guide you directly to it or provide more detailed information.\n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":"regular.json"
+  "input":"Puis-je rendre un appareil acheter en magasin?",
+  "prediction":"Oui, vous pouvez retourner un appareil achet\u00e9 dans un Swisscom Shop. Il est important de v\u00e9rifier les conditions de retour sp\u00e9cifiques, qui peuvent inclure des d\u00e9lais ou des exigences particuli\u00e8res. En g\u00e9n\u00e9ral, vous devrez pr\u00e9senter le re\u00e7u d'achat et l'appareil doit \u00eatre en bon \u00e9tat, avec tous ses accessoires. Pour plus de d\u00e9tails sur les retours, je vous recommande de visiter notre site web ou de contacter directement le Swisscom Shop o\u00f9 vous avez effectu\u00e9 votre achat.\n\nPour plus d'informations, vous pouvez consulter notre page d\u00e9di\u00e9e aux retours :\n[Swisscom Retours](https:\/\/www.swisscom.ch\/fr\/clients-prives\/aide\/retours.html)\n\nAvez-vous d'autres questions concernant nos services ou produits ?",
+  "language":"fr",
+  "id":"2bf4ae7a-2d8c-4781-a44f-fd45df5b6d65"
  },
  {
-  "input":"How do I setup swisscom router?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Setting up your Swisscom router is a straightforward process. First, connect the router to your DSL or fiber optic socket using the appropriate cable. Then, plug the router into a power source and switch it on. Wait for the LED to light up white, indicating a successful connection. \n\nFor detailed instructions, you can refer to the router setup guide provided by Swisscom. If you encounter any issues, consider visiting the Swisscom Community for additional support or contact Swisscom customer support.\n\nFor more information, you can check the router setup instructions here:\n[Router Setup Instructions](https:\/\/www.swisscom.ch\/en\/residential\/help\/device\/internet-router.html)\n\nIs there anything else you'd like to know about your Swisscom services?",
-  "source_file":"regular.json"
+  "input":"Je d\u00e9sire imprimer ma derni\u00e8re facture",
+  "prediction":"Pour imprimer votre derni\u00e8re facture Swisscom, vous pouvez la t\u00e9l\u00e9charger au format PDF depuis votre espace personnel My Swisscom. Connectez-vous \u00e0 votre compte, allez dans la section \"Factures\" et s\u00e9lectionnez la facture que vous souhaitez imprimer. Une fois t\u00e9l\u00e9charg\u00e9e, vous pouvez l'imprimer directement depuis votre ordinateur. Si vous n'avez pas encore de compte My Swisscom, je vous recommande de vous inscrire pour acc\u00e9der facilement \u00e0 vos factures et autres services.\n\nPour acc\u00e9der \u00e0 My Swisscom, veuillez suivre ce lien : \n[My Swisscom](https:\/\/www.swisscom.ch\/fr\/clients-prives\/aide\/my-swisscom.html)\n\nAvez-vous besoin d'aide pour autre chose ?",
+  "language":"fr",
+  "id":"8bc36e3f-57df-4bf0-b656-92d6373d7a7e"
  },
  {
-  "input":"How do I set up swisscom with a new phone?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Setting up Swisscom on your new phone is a straightforward process. First, insert your Swisscom SIM card into your new device. Then, power on your phone and follow the on-screen instructions to complete the initial setup, which typically includes connecting to Wi-Fi and signing into your Google or Apple account. \n\nIf you need to transfer data from your old phone, Swisscom offers helpful guides for both iPhones and Android devices. You can find these instructions on the Swisscom website. Additionally, Swisscom's My Service experts can assist with the setup if needed, though charges may apply.\n\nWould you like more information on transferring data or any specific Swisscom services for your new phone?\n\nhttps:\/\/www.swisscom.ch\/en\/residential\/help\/device\/phone.html",
-  "source_file":"regular.json"
+  "input":"Bonjour, est ce que j\u2019ai une garantie pour mes AirPods",
+  "prediction":"Bonjour ! Oui, les AirPods b\u00e9n\u00e9ficient d'une garantie standard de 24 mois \u00e0 partir de la date d'achat. Cette garantie couvre les d\u00e9fauts de fabrication et les probl\u00e8mes de performance qui ne sont pas caus\u00e9s par des dommages accidentels ou une mauvaise utilisation. Si vous rencontrez un probl\u00e8me avec vos AirPods, vous pouvez les ramener dans un Swisscom Shop pour obtenir de l'aide ou contacter notre service client.\n\nAvez-vous besoin d'aide pour autre chose concernant vos AirPods ou un autre produit Swisscom ? Vous pouvez \u00e9galement consulter nos offres en ligne pour d\u00e9couvrir d'autres accessoires int\u00e9ressants.\n\nhttps:\/\/www.swisscom.ch\/fr\/magasin.html",
+  "language":"fr",
+  "id":"0389281a-bd69-443e-b3c4-8e01434dd584"
  },
  {
-  "input":"Forgot my PIN. Help",
-  "language":"EN",
-  "id":"",
-  "prediction":"If you've forgotten your SIM card PIN, you can unlock your SIM using the PUK code. Enter an incorrect PIN three times to prompt for the PUK code. You can find your PUK code in My Swisscom. Once you enter the PUK code, you'll be able to set a new PIN. If you need further assistance, feel free to ask!\n\nFor more detailed guidance, you can visit the Swisscom support page:\nhttps:\/\/www.swisscom.ch\/en\/residential\/help\/mobile\/sim-pin-puk.html\n\nIs there anything else you need help with today?",
-  "source_file":"regular.json"
+  "input":"Bonsoir Depuis 2 jours je re\u00e7ois des appels de num\u00e9ros que je ne connais pas me demandant d arr\u00eater de les appeler les interlocuteurs parlent suisse allemand Est-il possible qu un m\u00eame num\u00e9ro soit attribu\u00e9 \u00e0 deux personnes ? Merci d essayer de comprendre car c est tr\u00e8s d\u00e9rangeant.",
+  "prediction":"Bonsoir ! Je comprends que cette situation puisse \u00eatre d\u00e9rangeante. Il est peu probable qu'un m\u00eame num\u00e9ro soit attribu\u00e9 \u00e0 deux personnes en m\u00eame temps. Cependant, il est possible que votre num\u00e9ro ait \u00e9t\u00e9 utilis\u00e9 par erreur ou que quelqu'un l'ait saisi incorrectement.\n\nJe vous recommande de v\u00e9rifier si votre num\u00e9ro est correctement enregistr\u00e9 sur votre appareil et de contacter Swisscom pour signaler ce probl\u00e8me. Ils pourront vous aider \u00e0 v\u00e9rifier s'il y a eu une erreur ou un probl\u00e8me technique. Vous pouvez joindre le service client au 0800 555 155, disponible du lundi au samedi de 8h00 \u00e0 20h00.\n\nAvez-vous d'autres questions ou besoin d'aide suppl\u00e9mentaire ?",
+  "language":"fr",
+  "id":"fd317109-1833-48cd-9db9-989c7c99f443"
  },
  {
-  "input":"wifi nearly isn't working at all. Why is internet so slow?",
-  "language":"EN",
-  "id":"",
-  "prediction":"I'm sorry to hear about your slow internet issues. There could be several reasons for this, such as interference from other electronic devices, the distance between your device and the router, or even network congestion. To improve your WiFi performance, consider placing your router in a central location, away from walls and obstructions. Additionally, you might want to try using a Swisscom WLAN-Box to boost and expand your WiFi coverage throughout your home. \n\nWould you like more information on optimizing your WiFi, or perhaps details on Swisscom's Internet subscriptions? If the issue persists, you can contact Swisscom customer support at 0800 555 155, available Monday to Saturday from 8:00 to 20:00.\n\nhttps:\/\/www.swisscom.ch\/en\/residential\/internet\/wlan.html",
-  "source_file":"regular.json"
+  "input":"Bonjour, j\u2019ai un abonnement pour mon t\u00e9l\u00e9phone mobile. Est ce que je peux le partager avec une apple watch ?",
+  "prediction":"Bonjour ! Oui, vous pouvez partager votre abonnement mobile avec une Apple Watch gr\u00e2ce \u00e0 l'option Multi Device de Swisscom. Cette option vous permet d'utiliser votre abonnement sur plusieurs appareils, y compris les smartwatches comme l'Apple Watch. Pour activer cette option, vous devez ajouter l'Apple Watch \u00e0 votre compte Swisscom via l'application My Swisscom. \n\nSi vous souhaitez en savoir plus sur l'option Multi Device ou comment l'activer, je vous recommande de visiter la page d\u00e9di\u00e9e sur le site de Swisscom. Avez-vous d'autres questions sur les services Swisscom ou sur l'activation de votre Apple Watch ?\n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/mobile\/multi-device.html",
+  "language":"fr",
+  "id":"fc5aa079-e742-49c3-8c04-482a266fea64"
  },
  {
-  "input":"I paid my swisscom bill but the balance still shows the deficit.",
-  "language":"EN",
-  "id":"",
-  "prediction":"I'm sorry to hear about the issue with your Swisscom bill balance. Sometimes, it can take a little while for payments to be fully processed and reflected in your account. I recommend checking your payment confirmation to ensure the transaction was completed successfully. Additionally, you can log in to My Swisscom to verify your payment status and see if there are any pending transactions.\n\nIf the issue persists, it might be helpful to contact Swisscom customer support directly at 0800 555 155, available Monday to Saturday from 8:00 to 20:00, for further assistance. Have you checked your payment confirmation or My Swisscom account for any updates? \n\nhttps:\/\/www.swisscom.ch\/en\/residential\/my-account.html",
-  "source_file":"regular.json"
+  "input":"Je souhaite annul\u00e9 l abonnement Disney plus",
+  "prediction":"Pour annuler votre abonnement Disney+, vous pouvez le faire directement via votre compte Swisscom. Si vous avez un abonnement mensuel, vous pouvez le r\u00e9silier \u00e0 tout moment avec un pr\u00e9avis d'un mois. Pour un abonnement annuel, vous devez attendre la fin de la p\u00e9riode d'engagement de 12 mois avant de pouvoir le r\u00e9silier. \n\nPour g\u00e9rer votre abonnement, connectez-vous \u00e0 votre espace client My Swisscom. Si vous avez besoin d'aide suppl\u00e9mentaire, n'h\u00e9sitez pas \u00e0 contacter le service client au 0800 555 155, disponible du lundi au samedi de 8h00 \u00e0 20h00.\n\nPour plus d'informations, vous pouvez visiter le site Swisscom :\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html",
+  "language":"fr",
+  "id":"ff69f1af-e653-434a-ace6-639f78541daf"
  },
  {
-  "input":"How can you help me?",
-  "language":"EN",
-  "id":"",
-  "prediction":"I\u2019m here to assist you with any questions or information you might need about Swisscom\u2019s products and services. Whether you're interested in mobile plans, internet subscriptions, TV services, or need help with your Swisscom account, I can provide detailed information and guidance. Additionally, I can suggest related products or services that might interest you. If there's something specific you\u2019d like to know, feel free to ask! If you need direct support, you can contact Swisscom Customer Services at 0800 555 155. How can I assist you today?",
-  "source_file":"regular.json"
+  "input":"Bonjour, peut on deposer des anciens tel portables chez Swisscom et si oui, sont ils \u00ab&nbsp; vid\u00e9s&nbsp;\u00bb avant d\u2019etre recycl\u00e9s? Merci",
+  "prediction":"Bonjour! Oui, vous pouvez d\u00e9poser vos anciens t\u00e9l\u00e9phones portables chez Swisscom. Nous offrons un service de reprise o\u00f9 les appareils sont soit revendus, soit recycl\u00e9s. Avant de c\u00e9der votre t\u00e9l\u00e9phone, nous nous assurons de supprimer toutes les donn\u00e9es personnelles pour garantir votre s\u00e9curit\u00e9. Vous pouvez d\u00e9poser votre appareil dans un Swisscom Shop ou utiliser notre service de reprise en ligne.\n\nSi vous souhaitez en savoir plus sur notre programme de reprise et de recyclage, vous pouvez visiter notre page d\u00e9di\u00e9e : \nhttps:\/\/www.swisscom.ch\/fr\/residentiel\/mobile\/reprise.html\n\nAvez-vous d'autres questions sur nos services ou produits?",
+  "language":"fr",
+  "id":"0ab4d7fa-1f0a-46d0-9206-e7ab8e87fec9"
  },
  {
-  "input":"I\u2019m looking for information on roaming packages but can\u2019t locate it. Can you help?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Certainly! Swisscom offers various roaming packages to suit your travel needs. You can explore these options through the Swisscom Cockpit, which provides detailed information about available packages and their costs. Simply visit [Swisscom Cockpit](http:\/\/cockpit.swisscom.ch) to view and manage your roaming options. Additionally, you can check the roaming costs for specific countries on our website by visiting [Swisscom Roaming](https:\/\/www.swisscom.ch\/roaming).\n\nIs there a specific country you plan to visit, or would you like more details on a particular package?",
-  "source_file":null
+  "input":"Bonjour pouvez vous me dire si les donn\u00e9e \u00e0 l\u2019\u00e9tranger sont gratuites je suis en France",
+  "prediction":"Bonjour! Lorsque vous \u00eates en France, l'utilisation des donn\u00e9es \u00e0 l'\u00e9tranger d\u00e9pend de votre abonnement Swisscom. Si votre abonnement inclut l'itin\u00e9rance en Europe, vous pouvez utiliser vos donn\u00e9es sans frais suppl\u00e9mentaires. Cependant, il est important de v\u00e9rifier les d\u00e9tails sp\u00e9cifiques de votre abonnement dans le Cockpit Swisscom pour \u00e9viter toute surprise. Vous pouvez \u00e9galement envisager d'acheter un pack de donn\u00e9es si votre volume inclus est \u00e9puis\u00e9. \n\nPour plus d'informations, je vous recommande de consulter votre espace client My Swisscom. Avez-vous besoin d'aide pour v\u00e9rifier votre abonnement ou d'autres questions concernant l'utilisation de votre t\u00e9l\u00e9phone \u00e0 l'\u00e9tranger?\n\nhttps:\/\/www.swisscom.ch\/fr\/residentiel\/mobile.html",
+  "language":"fr",
+  "id":"0346da60-8273-4545-af16-89568d9273fb"
  },
  {
-  "input":"Can you tell me more about your roaming packages for traveling in Europe?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Certainly! Swisscom offers convenient roaming packages for traveling in Europe. With these packages, you can enjoy seamless connectivity for calls, SMS, and data while abroad. For instance, our EU\/UK roaming package provides unlimited calls to EU\/UK countries, Switzerland, and within the visited country. You can also send and receive unlimited SMS. For data, you can use up to 40 GB at maximum speed, after which the speed is reduced to 128 kbit\/s without additional costs.\n\nTo manage your roaming packages and monitor your usage, you can access the Swisscom Cockpit, which is free of charge. If you need more information or wish to purchase a package, please visit the Swisscom Cockpit.\n\nhttps:\/\/www.swisscom.ch\/en\/residential\/mobile\/cockpit.html\n\nAre there specific countries or services you're interested in?",
-  "source_file":null
+  "input":"J'ai r\u00e9sili\u00e9 mon abonnement blue home pour le 31.08.2024 et j'ai re\u00e7u le message que j'allais perdre mes adresse e-mail et que j'avais 90 jours apr\u00e8s la r\u00e9siliation. Si j'ai bien compris, c'est apr\u00e8s le 31.08.2024 que je peux faire la d\u00e9marche, pas avant ?",
+  "prediction":"Oui, vous avez bien compris. Apr\u00e8s la r\u00e9siliation de votre abonnement blue home, vous aurez 90 jours \u00e0 partir du 31 ao\u00fbt 2024 pour effectuer les d\u00e9marches n\u00e9cessaires concernant vos adresses e-mail. Pendant cette p\u00e9riode, vous pouvez choisir de transf\u00e9rer vos e-mails vers un autre service ou de les sauvegarder. Si vous souhaitez conserver vos adresses e-mail Bluewin, vous pouvez souscrire \u00e0 un abonnement Bluewin E-Mail ind\u00e9pendant. Pour g\u00e9rer vos comptes e-mail, vous pouvez vous rendre sur My Swisscom.\n\nSi vous avez d'autres questions ou besoin d'aide, n'h\u00e9sitez pas \u00e0 me le faire savoir ! Voici le lien pour acc\u00e9der \u00e0 My Swisscom : \nhttps:\/\/www.swisscom.ch\/fr\/clients-prives\/aide\/my-swisscom.html",
+  "language":"fr",
+  "id":"d2d0f777-08fd-4fa8-a682-0e6c00f4a5b3"
  },
  {
-  "input":"How do I check how much data roaming I have left when I am outside swiss?",
-  "language":"EN",
-  "id":"",
-  "prediction":"To check your remaining data roaming allowance while outside Switzerland, you can easily access the Swisscom Cockpit. This online tool allows you to monitor your ongoing costs and remaining data, as well as purchase additional packages if needed. Simply log in to the Swisscom Cockpit using your mobile device, and you'll have all the information at your fingertips. Remember, accessing the Cockpit is free and doesn't consume your roaming credit. \n\nIf you need further assistance, feel free to ask! \n\nYou can access the Swisscom Cockpit here: \nhttp:\/\/cockpit.swisscom.ch",
-  "source_file":null
+  "input":"Bonjour, j\u2019aurais souhait\u00e9 conna\u00eetre le dernier num\u00e9ro de t\u00e9l\u00e9phone fixe qui a \u00e9t\u00e9 attribu\u00e9 \u00e0 la Avenue Eiffel. Merci beaucoup.",
+  "prediction":"Bonjour! Malheureusement, je ne peux pas fournir de d\u00e9tails sp\u00e9cifiques sur les num\u00e9ros de t\u00e9l\u00e9phone attribu\u00e9s \u00e0 une adresse particuli\u00e8re pour des raisons de confidentialit\u00e9. Cependant, je peux vous aider \u00e0 comprendre comment obtenir un nouveau num\u00e9ro de t\u00e9l\u00e9phone fixe ou vous guider sur les services Swisscom disponibles pour votre domicile. Si vous avez besoin d'assistance suppl\u00e9mentaire, je vous recommande de contacter notre service client au 0800 555 155, disponible du lundi au samedi de 8h00 \u00e0 20h00. \n\nAvez-vous d'autres questions ou besoin d'informations sur nos services?",
+  "language":"fr",
+  "id":"1c858b3e-b537-4303-947d-089fe5d7cd65"
  },
  {
-  "input":"how much do I have to pay if I cancel the plan early?",
-  "language":"EN",
-  "id":"",
-  "prediction":"If you decide to cancel your Swisscom subscription before the end of the minimum contract period, you may be subject to early termination fees. These fees typically cover the remaining subscription charges until the end of your contract. The exact amount can vary based on your specific plan and the remaining duration of your contract. I recommend checking your contract details in My Swisscom or contacting Swisscom customer support for precise information. Would you like assistance with anything else, such as exploring other Swisscom plans or services?\n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":null
+  "input":"Ecrivez-moi en fran\u00e7ais !",
+  "prediction":"Bien s\u00fbr ! Comment puis-je vous aider aujourd'hui ? Si vous avez des questions sur les services de Swisscom, que ce soit pour Internet, la t\u00e9l\u00e9phonie mobile ou d'autres produits, n'h\u00e9sitez pas \u00e0 me le faire savoir. Je suis l\u00e0 pour vous aider \u00e0 trouver les informations dont vous avez besoin. Avez-vous un domaine particulier que vous souhaitez explorer ?",
+  "language":"fr",
+  "id":"d47ff5e4-f8f3-444b-b148-c08f29377136"
  },
  {
-  "input":"where can I find swisscom locations?",
-  "language":"EN",
-  "id":"",
-  "prediction":"You can find Swisscom shop locations easily by visiting our store locator page on the Swisscom website. This tool allows you to search for the nearest Swisscom shops based on your location or a specific address. It provides details such as the shop's address, opening hours, and available services. This way, you can plan your visit conveniently. If you need further assistance or have specific questions, feel free to ask!\n\nExplore Swisscom shop locations here:\nhttps:\/\/www.swisscom.ch\/en\/residential\/help\/contact\/swisscom-shops.html",
-  "source_file":null
- },
- {
-  "input":"what are the internet speed plans for home plans?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Swisscom offers a variety of internet speed plans for residential customers, ensuring you can find a plan that suits your needs. One of the popular options is the blue Internet L plan, which provides a maximum download and upload speed of 10 Gbit\/s, ideal for high-demand households. This plan includes a free WLAN router and a six-month Disney+ Standard subscription with ads. Additionally, you can benefit from a Combi Discount if you have an existing blue Mobile subscription.\n\nTo explore more options and find the perfect plan for your home, visit the Swisscom website:\nhttps:\/\/www.swisscom.ch\/en\/residential\/internet.html\n\nAre you interested in any specific features or additional services with your internet plan?",
-  "source_file":null
- },
- {
-  "input":"how can I add eSim to my iphone?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Adding an eSIM to your iPhone is a straightforward process. First, ensure your iPhone is compatible with eSIM technology. Then, follow these steps:\n\n1. Go to \"Settings\" on your iPhone.\n2. Tap \"Cellular\" or \"Mobile Data.\"\n3. Select \"Add Cellular Plan.\"\n4. Use your iPhone's camera to scan the QR code provided by Swisscom.\n5. Follow the on-screen instructions to complete the setup.\n\nIf you need a new eSIM or QR code, you can order it for free through My Swisscom. Do you need help with anything else, like transferring your existing SIM to eSIM?\n\nhttps:\/\/www.swisscom.ch\/en\/residential.html",
-  "source_file":null
- },
- {
-  "input":"How can I change my home address?",
-  "language":"",
-  "id":"",
-  "prediction":"To change your home address with Swisscom, you can easily update it through your My Swisscom account. Here\u2019s how:\n\n1. Log in to your My Swisscom account.\n2. Navigate to the \"Settings\" or \"Profile\" section.\n3. Find the option for \"Address\" or \"Contact Information.\"\n4. Enter your new address details and save the changes.\n\nIf you encounter any issues or need further assistance, feel free to contact Swisscom customer support at 0800 555 155, available Monday to Saturday from 8:00 to 20:00. Is there anything else you would like to know about Swisscom services? \n\nFor more information, visit:\nhttps:\/\/www.swisscom.ch\/en\/residential\/help.html",
-  "source_file":null
- },
- {
-  "input":"Where do I go to change my account password on the site?",
-  "language":"EN",
-  "id":"",
-  "prediction":"To change your account password on the Swisscom site, you can follow these steps:\n\n1. Visit the Swisscom Login page.\n2. Click on the option to change your password.\n3. Follow the prompts to securely update your password.\n\nFor your convenience, you can directly access the password change page through this link: [Change Password](https:\/\/www.swisscom.ch\/en\/residential\/help\/loesung\/passwort-aendern.html).\n\nIs there anything else you would like to know about managing your Swisscom account?",
-  "source_file":null
- },
- {
-  "input":"I can\u2019t seem to find where to manage my subscriptions on the website. Can you guide me?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Certainly! To manage your subscriptions on the Swisscom website, you can log in to your account through My Swisscom. Once logged in, you'll find the option to adjust your subscriptions and manage your bills. This feature allows you to order new products or change your current ones according to your needs. If you haven't already, consider downloading the My Swisscom App for even easier access on your smartphone. \n\nIf you need further assistance, feel free to ask! Here\u2019s the link to My Swisscom: \nhttps:\/\/www.swisscom.ch\/en\/residential\/my-swisscom.html",
-  "source_file":null
- },
- {
-  "input":"Can you provide more details about the fiber optic internet plans?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Certainly! Swisscom offers a range of fiber optic internet plans designed to cater to different needs, whether for home or business use. With Fiber to the Home (FTTH), you can enjoy internet speeds of up to 10 Gbit\/s, ensuring fast browsing, seamless streaming, and efficient downloads. These plans are ideal for users who require high-speed internet for activities like gaming, video conferencing, or managing smart home devices.\n\nSwisscom also provides options for additional fiber-optic sockets, which can be useful for specific projects or additional rooms in your property. To explore the available plans and find the one that best suits your needs, I recommend visiting the Swisscom website or contacting customer support for personalized advice.\n\nWould you like more information on how to get started with a fiber optic plan, or do you have any specific requirements in mind? \n\nhttps:\/\/www.swisscom.ch\/en\/residential\/internet\/fiber-optic.html",
-  "source_file":null
- },
- {
-  "input":"What are the steps for transferring my current Swisscom number to a new account?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Transferring your Swisscom number to a new account is a straightforward process. First, ensure you have all necessary personal details and identification documents ready. Then, contact Swisscom customer service or visit a Swisscom shop to initiate the transfer. You will need to provide the new account holder's information and consent. Once the transfer is approved, Swisscom will handle the rest, ensuring a smooth transition without service interruption.\n\nWould you like more information on Swisscom's mobile subscriptions or assistance with another service? You can also explore our offerings online:\n\n[Swisscom Mobile Subscriptions](https:\/\/www.swisscom.ch\/en\/residential\/mobile.html)",
-  "source_file":null
- },
- {
-  "input":"What is the difference between your basic and premium mobile plans?",
-  "language":"EN",
-  "id":"",
-  "prediction":"Swisscom offers a range of mobile plans to suit different needs, including basic and premium options. The basic plans, such as the blue Mobile S, provide unlimited calls, SMS, and surfing within Switzerland at speeds up to 100 Mbit\/s, with limited roaming options. In contrast, premium plans like the blue Mobile L offer unlimited calls and data in Switzerland, the EU\/UK, and additional data for other international destinations, with speeds up to 2 Gbit\/s. Premium plans also include features like the Multi Device option and enhanced roaming capabilities.\n\nFor a detailed comparison, you can visit our mobile subscriptions page to explore all the available options and find the best fit for your needs. Are you interested in a specific feature or benefit in your mobile plan?\n\nhttps:\/\/www.swisscom.ch\/en\/residential\/mobile.html",
-  "source_file":null
+  "input":"je ne veux pas changer d'abonnement",
+  "prediction":"Pas de souci, vous n'\u00eates pas oblig\u00e9 de changer d'abonnement si vous \u00eates satisfait de votre offre actuelle. Swisscom propose une vari\u00e9t\u00e9 de services et d'options pour s'assurer que vous avez la meilleure exp\u00e9rience possible. Si vous avez des questions sur votre abonnement actuel ou si vous souhaitez explorer d'autres services, n'h\u00e9sitez pas \u00e0 consulter votre espace client sur My Swisscom. Vous pouvez \u00e9galement d\u00e9couvrir nos offres actuelles et promotions pour voir si quelque chose d'autre pourrait vous int\u00e9resser.\n\nSi vous avez besoin d'aide suppl\u00e9mentaire, je suis l\u00e0 pour vous aider ! Y a-t-il autre chose que vous aimeriez savoir ? \n\nhttps:\/\/www.swisscom.ch\/fr\/clients-prives.html",
+  "language":"fr",
+  "id":"b35598af-d01c-46ee-8138-2865bf0689c7"
  }
 ]

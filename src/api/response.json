@@ -1,0 +1,21 @@
+{
+  "messages": [
+    { "role": "user", "content": "What are the mobile data plans?" },
+    {
+      "role": "assistant",
+      "content": "Swisscom offers a variety of mobile data plans tailored to different needs. Our main blue Mobile subscriptions—S, M, and L—provide unlimited surfing, calls, and SMS within Switzerland. The blue Mobile M and L plans extend these benefits to the EU/UK, with the L plan offering unlimited calls to the EU/UK, USA, and Canada, plus additional data for use outside these regions. Each plan includes 5G access, Internet Guard protection, and myCloud storage.For more details, you can compare all mobile subscriptions on our website. Is there a specific plan you are interested in or any additional features you need? https://www.swisscom.ch/en/residential/mobile.html"
+    },
+    {
+      "role": "user",
+      "content": "I'm interested in the blue mobile L package"
+    },
+    {
+      "role": "assistant",
+      "content": "The blue Mobile L package is a comprehensive mobile plan designed to offer you extensive connectivity and benefits. It includes unlimited surfing and calls within Switzerland and the EU/UK, with premium speeds up to 2 Gbit/s, including 5G. Additionally, you can enjoy unlimited calls from Switzerland to the EU/UK, USA, and Canada. The plan also allows you to use your subscription on up to four additional devices, and you get Disney+ Standard with ads for six months at no extra cost. For more details or to compare with other plans, you can visit the Swisscom website. Is there anything specific you would like to know about this package? https://www.swisscom.ch/en/residential/mobile.html"
+    },
+    {
+      "role": "user",
+      "content": "How much it costs?"
+    }
+  ]
+}

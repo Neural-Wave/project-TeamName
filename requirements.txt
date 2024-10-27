@@ -9,7 +9,7 @@ langchain-text-splitters
 langdetect
 numpy
 pandas
-dotenv
+python-dotenv
 lingua-language-detector
 fastapi[standard]
 rank_bm25
