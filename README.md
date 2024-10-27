@@ -37,7 +37,7 @@ Can be found at [link](https://www.loom.com/share/95fe13e8dfc744e4899d0f56ec7914
 
 ### Project frontend
 
-https://5000-01jb2c5awq5kbbyy3p0g1jmccn.cloudspaces.litng.ai/
+https://8001-01jb2c5awq5kbbyy3p0g1jmccn.cloudspaces.litng.ai
 
 ### Folder structure
 
