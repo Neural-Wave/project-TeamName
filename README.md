@@ -16,29 +16,43 @@ While Swisscom has a fully functional chatbot implemented on their website, we b
 - Filter out irrelevant user questions;
 - Give users useful responses that are based on Swisscom’s publicly available data on their website.    
 
+<div style="text-align: center;">
+  <img src="assets/workflow.png" alt="Workflow" width="300"/>
+</div>
+
+### Project report
+Can be found at {place location}.
+
+### Project video
+Can be found at {url}.
+
 
 ### Folder structure
 TODO this needs changing at the end, when file cleanup is done
 ```text
+    ├── assets
+    │   └── prompts.md
+    ├── chroma
+    ├── data
+    │   ├── botresults
+    │   │   └── results___.json
+    │   ├── inputs.json
+    │   ├── output.json
+    │   └── test_data.json
+    ├── notebooks
+    │   └── evaluate_results.ipynb
+    ├── src
+    │   ├── __init__.py
+    │   ├── ai_judge.py
+    │   ├── chat.py
+    │   ├── evaluator.py
+    │   ├── ingest_documents.py
+    │   ├── make_predictions.py
+    │   ├── swisscom_rag_chat.py
+    │   └── swisscom_rag.py
     ├── LICENSE.md
     ├── README.md
-    ├── assets
-    │   ├── chroma
-    │   │   └── swisscom_openai
-    │   ├── evaldata
-    │   │   └── all.json
-    │   └── prompts.md
-    ├── folder_structure.txt
-    ├── requirements.txt
-    └── src
-        ├── __init__.py
-        ├── ai_judge.py
-        ├── chat.py
-        ├── evaluator.py
-        ├── swisscom_rag_chat.py
-        ├── make_predictions.py
-        ├── swisscom_rag.py
-        └── utils.py
+    └── requirements.txt
 ```
 
 ### Installing Dependencies
@@ -50,31 +64,34 @@ pip install -r requirements.txt
 
 ### Create a `.env` File
 
-1. In the root directory of your project, create a new file named `.env`.
+1. In the root directory of your project, create a new file named `.env`. Use `.env.example` as an example.
    
 2. Open the `.env` file and add your API key as follows:
 
 ```plaintext
 OPENAI_API_KEY=your_api_key_here
 ```
-## Running json evaluation
-
-
-
-
-
-
-## Running project from scrach
-
-
 
 ### Download the dataset
-
 1. Download the dataset from https://swisscom-my.sharepoint.com/:u:/p/stefano_taillefert/EegWIyF8835PuUXsyuzmGGsBcxu7gFVcJVhyOpLVhZ_g4A?e=nsivZN
 2. place it in the `root directory` and run command in terminal.
 ```bash
 unzip dataset.zip
 ```
+## Running json evaluation
+
+1. Place the `input.json` in `data/ `
+2. Run predictions
+```bash
+python src/make_predictions.py
+```
+3. Results are in `data/output.json`
+
+
+
+## Running project chat from terminal
+
+
 
 
 ### Ingest the document base:
@@ -85,7 +102,7 @@ python src/ingest_documents.py
 ### Run chat:
 
 ```bash
-python src/swisscom_rag_chat.py
+python src/chat.py
 ```
 
 

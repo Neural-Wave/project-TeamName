@@ -11,3 +11,4 @@ assets/*
 notebooks_local/*
 chroma/*
 backup.zip
+!assets/workflow.png

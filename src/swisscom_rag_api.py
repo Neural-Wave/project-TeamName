@@ -1,11 +1,13 @@
+from copy import deepcopy
 from langchain_openai import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from langchain_core.vectorstores import VectorStore
-from swisscom_rag import SwisscomRAG
 from langchain_core.output_parsers import StrOutputParser
 
+from src.swisscom_rag import SwisscomRAG
 
-class SwisscomRAGChat(SwisscomRAG):
+
+class SwisscomRAGAPI(SwisscomRAG):
     def __init__(self, vector_store: VectorStore):
         super().__init__(vector_store)
 
@@ -41,37 +43,36 @@ class SwisscomRAGChat(SwisscomRAG):
 
         return summary
 
-    def invoke(self, inputs: dict):
-        # Define a function to get responses with memory
-        question = inputs.get("input")
-        # Inject the current summary as context
-        context_with_summary = f"""
-        Previous chat summary: {self.summary}
-        
-        New question: {question}
-        """
-        
-        documents = self.retrieve_documents(question)
+    def invoke(self, messages: dict):
 
-        response = self.chain.invoke({"input": context_with_summary, "context": documents})
-        
-        self.summary = self.update_summary(inputs, response)
-        
-        return response, documents
+        if (len(messages['messages']) > 0):
+            # Retrieve lasst message from queue
+            last_message = messages['messages'][-1]
+            assert last_message['role']=='user'
+            question = last_message['content']
 
-    
-    def chat(self):
-        """Run the chat interactive loop"""
-        while True:
-            # Get question from the user
-            question = input('You: ')
-
-            # Break the loop if the user wants to exit
-            if question.lower() in ["exit", "sortie", "uscita"]:
-                break
-
-            # Use the chain to process the questio
-            result, _ = self.invoke({"input": question})
-            # wrapped_result = textwrap.fill(result, width=100)
-            print("Sam:", result, "\n")
+            # Inject the current summary as context
+            question_with_summary = f"""
+            Previous chat summary: {self.summary}
             
+            New question: {question}
+            """
+            
+            # Generate response
+            documents = self.retrieve_documents(question)
+            response = self.chain.invoke({"input": question_with_summary, "context": documents})
+        else:
+            # Generate greeting
+            question = 'Introduce yourself in one sentence.'
+            response = self.chain.invoke({"input": question, "context": []})
+
+        
+        self.summary = self.update_summary(question, response)
+
+        updated_messages = deepcopy(messages)
+        updated_messages['messages'].append({
+            'role' : 'assistant',
+            'content' : response
+        })
+        
+        return updated_messages
