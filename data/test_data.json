@@ -502,5 +502,83 @@
   "id": "",
   "prediction": "As a customer service assistant, I can provide you with information and guidance on various topics related to Swisscom. For instance, I can assist you with updating your contact details, explain how My Service can support you with technical issues, and provide information about Swisscom's privacy policy. Please specify your question so I can provide a more detailed answer. https://www.swisscom.ch/myswisscom/d?useCase=changeContactDetails&campId=FAQ_RETRIEVAL.20f02c14ae9f9df3ce55d407a267e591EN",
   "source_file": "regular.json"
- }
+ },
+ {
+    "input":"I’m looking for information on roaming packages but can’t locate it. Can you help?",
+    "language": "EN",
+    "id": "",
+    "prediction":"Of course, I can assist you with that. You can find information about roaming data packages on the Swisscom website. When you purchase a data package, it will be automatically activated. You can also check the remaining usage volume of your data package in your Cockpit at any time. Please remember that a purchased pack cannot be replaced or removed. https://www.swisscom.ch/en/residential/plans-rates/mobile/roaming/roaming-data-packages.html?campId=FAQ_RETRIEVAL.cfa84bab4614d01c18f7ceb03bfc0107EN"
+},
+{
+    "input":"Can you tell me more about your roaming packages for traveling in Europe?",
+    "language": "EN",
+    "id": "",
+    "prediction":"Swisscom offers various data packages for roaming, which you can use while traveling in Europe. You can check the overview of these packages on the Swisscom website. Additionally, you can select the specific country in the cockpit to see the services included in your subscription and the costs of using your mobile phone in that country. https://www.swisscom.ch/en/residential/plans-rates/mobile/roaming/roaming-data-packages.html?campId=FAQ_RETRIEVAL.cfa84bab4614d01c18f7ceb03bfc0107EN"
+},
+{
+    "input":"How do I check how much data roaming I have left when I am outside swiss?",
+    "language": "EN",
+    "id": "",
+    "prediction":"You can check your remaining data roaming by visiting the Swisscom Cockpit. You can also send a text message to 444 with the password STATUS to get an update on your current data usage. https://cockpit.swisscom.ch/?campId=FAQ_RETRIEVAL.d1c6bb389d4bb8fb1854e25572d204e5EN"
+},
+{
+    "input":"how much do I have to pay if I cancel the plan early?",
+    "language": "EN",
+    "id": "",
+    "prediction":"The early termination fee for cancelling your plan early should be shown on your invoice. https://www.swisscom.ch/en/residential/mobile-subscription/switch-to-swisscom/rechnung-mobile.html"
+},
+{
+    "input":"where can I find swisscom locations?",
+    "language": "EN",
+    "id": "",
+    "prediction":"You can locate a Swisscom Shop near you and even schedule an appointment for a consultation online. https://www.swisscom.ch/en/residential/help/shops.html"
+},
+{
+    "input":"what are the internet speed plans for home plans?",
+    "language": "EN",
+    "id": "",
+    "prediction":"Swisscom offers various internet subscriptions with different surfing speeds. You can view the specific speeds for each subscription in the product overview on the Swisscom website. https://www.swisscom.ch/en/residential/combi-subscription/internet-tv-subscription.html?campId=FAQ_RETRIEVAL.e2f2e743953017fbbbd3f1f3a1fa02ecEN"
+},
+{
+    "input":"how can I add eSim to my iphone?",
+    "language": "EN",
+    "id": "",
+    "prediction":"Would you like assistance with the process of adding an eSIM to your iPhone?"
+},
+{
+    "input":"How can I change my home address?",
+    "language": "",
+    "id": "",
+    "prediction":"You can report a change of your home address online in My Swisscom. This allows you to manage your move and save on move fees. https://www.swisscom.ch/myswisscom/d?useCase=manageAddress&campId=FAQ_RETRIEVAL.1372dd3e9a0e9d4620e4ee6171b5577dEN"
+},
+{
+    "input":"Where do I go to change my account password on the site?",
+    "language":"EN",
+    "id":"",
+    "prediction":"You can manage your account password by visiting the appropriate section on the My Swisscom portal. https://www.swisscom.ch/myswisscom/d?useCase=routerPassword&campId=FAQ_RETRIEVAL.bb248f1a9f6e7fd99cf84148224d02aaEN"
+},
+{
+    "input":"I can’t seem to find where to manage my subscriptions on the website. Can you guide me?",
+    "language":"EN",
+    "id":"",
+    "prediction":"You can manage your subscriptions such as Internet Security and Identity Security in the 'My Swisscom' section of the website. Here, you can download, configure, adjust, and even cancel your subscriptions. https://www.swisscom.ch/myswisscom/d?useCase=manageInternetSecurityWireline&campID=NEOTESTCHAT231&campId=FAQ_RETRIEVAL.291d35c9a6871a4375c803cd4c46fd19EN"
+},
+{
+    "input":"Can you provide more details about the fiber optic internet plans?",
+    "language":"EN",
+    "id":"",
+    "prediction":"Swisscom's fiber optic internet plans offer speeds of up to 10 Gbit/s, providing fast surfing, quick downloads, and the best TV experiences. You can also request an additional fiber-optic socket for various uses such as a hobby room or a photovoltaic installation. The location for the additional socket is decided in consultation with the property owner(s). Before confirming the offer, the property owner(s) or management company must agree to the project. After an initial availability check and a detailed feasibility study, a binding offer is sent if the feasibility check is positive. https://www.swisscom.ch/en/about/network/connection/additional-fiber-optic-socket.html"
+},
+{
+    "input":"What are the steps for transferring my current Swisscom number to a new account?",
+    "language":"EN",
+    "id":"",
+    "prediction":"You can transfer your Swisscom mobile and Internet subscription to a new contract holder through My Swisscom. However, if the new contract holder is a minor, they are required to visit a Swisscom Shop in the company of their legal guardian with a valid ID and the SIM in question. https://www.swisscom.ch/en/residential/help/data-and-bills/transfer-contract.html"
+},
+{
+    "input":"What is the difference between your basic and premium mobile plans?",
+    "language":"EN",
+    "id":"",
+    "prediction":"I'm sorry, I can't help you with that right now. May I forward you to someone from Swisscom Support?"
+}
 ]

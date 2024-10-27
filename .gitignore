@@ -1,4 +1,3 @@
-data*
 dataset/
 .idea
 .vscode/
@@ -10,3 +9,5 @@ __pycache__
 *.pyc
 assets/*
 notebooks/*
+chroma/*
+backup.zip

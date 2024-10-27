@@ -1,0 +1,584 @@
+[
+  {
+    "input": "How can businesses benefit from Swisscom\u2019s solutions?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom offers a comprehensive portfolio of solutions for businesses. For SMEs, they provide one-stop solutions including optimal Internet connections, efficient mobile subscriptions, cloud and security services, and tools to support remote working. For enterprise customers, they offer integrated ICT solutions and services for all security requirements, optimal cloud solutions, smart IoT offers, limitless connectivity, secure and efficient networking solutions and flexible solutions for collaboration and communication. Swisscom also offers customised solutions for systems integration, consulting and IT outsourcing as well as IT operations. https://www.swisscom.ch/en/about/governance/organisation-and-structure.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "What are the current promotions available on the Swisscom website?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom regularly announces interesting offers on a variety of products including mobile & smartphone products, phone covers, cases, headphones, speakers, and accessories. These offers are updated several times a month and are available in the Swisscom Online Shop. Additionally, Swisscom also has special events that take place once a year, such as Valentine\u2019s Day, Mother\u2019s Day, Easter, Black Friday, and Christmas, where they launch unbeatable offers. If you are with another provider for your mobile subscription, Swisscom also covers the fees of up to 500.\u2013 if you decide to change your provider early. https://www.swisscom.ch/en/residential/products/top-deals.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "How can users learn about Swisscom\u2019s latest products?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Users can stay updated about Swisscom's latest products by subscribing to the Swisscom Newsletter. This weekly news service provides information about new products, features, and top offers. It also offers tips and tricks for smartphones, apps, internet, and cybersecurity. Users can subscribe for free and unsubscribe at any time. https://www.swisscom.ch/en/residential/newsletter.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Can users customize their experience on the Swisscom site?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Yes, users can customize their experience on the Swisscom site. They can allow Swisscom to optimize and personalize their visit, such as saving their username or language selection. Swisscom can also store users' behavior on the site to provide personalized Swisscom offers. Additionally, users can allow Swisscom to identify them as a customer based on their IP address to see suitable offers across all devices. https://www.swisscom.ch/en/residential/legal-information/privacy/cookiepolicy.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Is there a search bar to help users find specific information?",
+    "language": "EN",
+    "id": "",
+    "prediction": "I'm sorry, I can't help you with that right now. May I forward you to someone from Swisscom Support?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "How can users create a Swisscom account on the website?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Users can create a Swisscom account on the website by registering for myCloud with their existing Swisscom Login or creating a new Swisscom Login. After registration, they will receive an activation code by post in about three days. They should then log in to My Swisscom, enter the activation code, and they will have access to their account. https://www.mycloud.swisscom.ch/login/?type=register&lang=en&campId=FAQ_RETRIEVAL.00a4e015204f6276ffb9a2f9507c9ef2EN",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "What payment options are accepted for Swisscom services?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom accepts various payment methods for their services. You can pay using a credit card, including Mastercard, Visa, and American Express. Payments can also be made from your PostFinance e-finance account or directly from your account using the TWINT app. If you are an existing Swisscom customer, you can pay for your order through your Swisscom bill. Business customers have the option to be billed separately for their order. Additionally, Swisscom Pay allows you to pay in various online stores with your Swisscom bill or your prepaid credit. https://www.swisscom.ch/en/residential/payment-methods.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Welche Dienstleistungen bietet Swisscom f\u00fcr Privatkunden an?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Swisscom bietet eine Vielzahl von Dienstleistungen f\u00fcr Privatkunden an, darunter digitale Angebote und Services in verschiedenen Bereichen wie Versicherung und Energie. Dar\u00fcber hinaus bietet Swisscom auch Cybersicherheitsdienste an, wie Antivirenprogramme, Callfilter und digitalen Identit\u00e4tsschutz. https://www.swisscom.ch/de/about/innovation/layer-netz-infrastruktur.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Wie k\u00f6nnen Unternehmen von Swisscom-L\u00f6sungen profitieren?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Swisscom bietet innovative und zuverl\u00e4ssige Produkte und Dienstleistungen, die auf den neuesten Technologien basieren. Sie konzentriert sich auf ausgew\u00e4hlte Innovationsbereiche wie Future of Network, AI & Automation und Security. Swisscom bietet auch IT-L\u00f6sungen und bildet das digitale R\u00fcckgrat der Schweiz. Sie stellt sicher, dass St\u00f6rungen und Sicherheitsschwachstellen auf ein Minimum reduziert werden. https://www.swisscom.ch/de/about/unternehmen/purpose-vision-values-and-goals.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Bietet Swisscom Dienstleistungen f\u00fcr Startups oder kleine Unternehmen an?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Ja, Swisscom unterst\u00fctzt kleine Unternehmen und Startups. Sie f\u00f6rdert die Innovationskraft durch die Unterst\u00fctzung von jungen Unternehmen und hat ein IT-Outsourcing-Angebot namens \"KMU IT Solution\" f\u00fcr ihre KMU-Kunden eingef\u00fchrt. Dieses Angebot ist modular aufgebaut und basiert auf der Cloud. https://www.swisscom.ch/de/about/innovation/layer-analytics-ai.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Welche aktuellen Angebote sind auf der Swisscom-Website verf\u00fcgbar?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Auf der Swisscom-Website gibt es aktuell stark reduzierte Schn\u00e4ppchen in begrenzter St\u00fcckzahl. Zudem \u00fcbernimmt Swisscom die Geb\u00fchren von bis zu 500.\u2013 bei einem fr\u00fchzeitigen Anbieterwechsel. https://www.swisscom.ch/de/privatkunden/produkte/top-deals.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Wie k\u00f6nnen Nutzer Informationen \u00fcber die neuesten Produkte von Swisscom erhalten?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Nutzer k\u00f6nnen Informationen zu ihren Abonnements und Produkten in My Swisscom einsehen. Dort k\u00f6nnen sie auf das entsprechende Produkt klicken, um mehr Informationen zu erhalten. https://www.swisscom.ch/myswisscom?campId=FAQ_RETRIEVAL.17eacd5a1e314d78c579c6d62ce9180fDE",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Gibt es auf der Swisscom-Website eine Sitemap?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Es tut mir leid, ich kann Ihnen damit gerade nicht helfen. Darf ich Sie an eine Person vom Swisscom Support weiterleiten?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Wie einfach ist es, zwischen den verschiedenen Bereichen der Website zu navigieren?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Die Navigation auf der Swisscom-Website ist sehr benutzerfreundlich gestaltet. Sie k\u00f6nnen problemlos zwischen verschiedenen Bereichen wechseln, indem Sie die Hauptmen\u00fcleiste oben auf der Seite verwenden. Dort finden Sie Links zu den wichtigsten Bereichen wie Mobilfunk, Internet, TV und Support. Sollten Sie jedoch Schwierigkeiten haben, stehe ich Ihnen gerne zur Verf\u00fcgung, um Ihnen weiterzuhelfen.",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "K\u00f6nnen Nutzer ihr Erlebnis auf der Swisscom-Website anpassen?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Ja, Nutzer k\u00f6nnen ihr Erlebnis auf der Swisscom-Website anpassen. Sie k\u00f6nnen Ihre Einstellungen so \u00e4ndern, dass Swisscom Ihren Website-Besuch optimiert und personalisiert. Dies kann beispielsweise durch das Speichern Ihres Benutzernamens oder Ihrer Sprachauswahl erfolgen. Dar\u00fcber hinaus kann Swisscom Ihr Nutzungsverhalten auf der Website speichern und daraus Informationen \u00fcber Ihre Interessen ableiten. Dies erm\u00f6glicht es Swisscom, Sie pers\u00f6nlich anzusprechen und Ihnen ma\u00dfgeschneiderte Angebote anzuzeigen. https://www.swisscom.ch/de/privatkunden/rechtliches/datenschutz/cookiepolicy.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Gibt es eine Suchleiste, um spezifische Informationen zu finden?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Es tut mir leid, ich kann Ihnen damit gerade nicht helfen. Darf ich Sie an eine Person vom Swisscom Support weiterleiten?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Wie k\u00f6nnen Nutzer ein Swisscom-Konto auf der Website erstellen?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Nutzer k\u00f6nnen ein Swisscom-Konto erstellen, indem sie sich bei myCloud mit ihrem bestehenden Swisscom Login registrieren oder ein neues Swisscom Login erstellen. https://www.mycloud.swisscom.ch/login/?type=register&lang=de&campId=FAQ_RETRIEVAL.00a4e015204f6276ffb9a2f9507c9ef2DE",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Welche Zahlungsmethoden werden f\u00fcr Swisscom-Dienstleistungen akzeptiert?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Der Kombi-Rabatt ist ein Rabatt, den Sie f\u00fcr Ihr Mobile-Abo erhalten k\u00f6nnen. Der Rabatt betr\u00e4gt 20.\u2013 pro Monat. https://www.swisscom.ch/de/privatkunden/zahlungsarten.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Quels services Swisscom propose-t-il aux consommateurs individuels?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Swisscom propose une vari\u00e9t\u00e9 de services aux consommateurs individuels. Cela comprend des offres combin\u00e9es de la prochaine g\u00e9n\u00e9ration avec blue Mobile, qui sont simples, num\u00e9riques et modulables. Ces offres incluent des abonnements climatiquement neutres, Giga Speed avec 5G ou sur fibre optique, des forfaits pour une utilisation dans toute l\u2019Europe, et un seul abonnement pour plusieurs appareils. De plus, Swisscom propose des offres Security & Service pour prot\u00e9ger les donn\u00e9es personnelles et les appareils. En outre, Swisscom propose \u00e9galement des abonnements de t\u00e9l\u00e9phonie fixe avec des appels avantageux ou illimit\u00e9s vers le r\u00e9seau fixe et mobile suisse. https://www.swisscom.ch/fr/about/gouvernance/organisation-et-structure.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Comment les entreprises peuvent-elles b\u00e9n\u00e9ficier des solutions Swisscom?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Swisscom propose aux entreprises une gamme compl\u00e8te de services et solutions TIC. Pour les PME, Swisscom offre des solutions TIC flexibles, des abonnements mobiles performants, des services cloud et de s\u00e9curit\u00e9, et des outils pour travailler en tout lieu. Pour les grandes entreprises, Swisscom propose des solutions de s\u00e9curit\u00e9, des solutions cloud adapt\u00e9es, des offres IoT intelligentes, une connectivit\u00e9 sans limite, et des solutions d\u2019interconnexion s\u00fbres et performantes. De plus, Swisscom soutient les entreprises dans leur processus de transformation num\u00e9rique. https://www.swisscom.ch/fr/about/gouvernance/organisation-et-structure.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Swisscom propose-t-elle des services pour les startups ou les petites entreprises?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Oui, Swisscom propose des services pour les startups et les petites entreprises. Swisscom Ventures, cr\u00e9\u00e9 en 2007, a investi dans plus de 85 startups. De plus, Swisscom propose des services de t\u00e9l\u00e9communication et des solutions de communication globales pour les PME suisses, y compris des solutions de cloud, d\u2019externalisation, d\u2019espace de travail et d\u2019Internet des objets. https://www.swisscom.ch/fr/about/innovation.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Quelles sont les promotions actuelles disponibles sur le site de Swisscom?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Swisscom propose r\u00e9guli\u00e8rement des offres int\u00e9ressantes et des promotions exceptionnelles sur une large gamme de produits, y compris des t\u00e9l\u00e9phones portables, des smartphones, des films de protection, des coques pour t\u00e9l\u00e9phones portables, des \u00e9couteurs, des enceintes et des accessoires. De plus, si vous changez d'op\u00e9rateur pour Swisscom, ils prennent en charge les frais jusqu'\u00e0 500.\u2013. Pour ne jamais manquer une offre, vous pouvez vous abonner \u00e0 la newsletter Swisscom. https://www.swisscom.ch/fr/clients-prives/produits/top-deals.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Comment les utilisateurs peuvent-ils se renseigner sur les derniers produits de Swisscom?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Swisscom enrichit constamment son portefeuille de produits avec de nouvelles offres et services num\u00e9riques. Pour obtenir des informations sur les derniers produits, vous pouvez consulter l'aper\u00e7u des produits dans My Swisscom. https://www.swisscom.ch/myswisscom?campId=FAQ_RETRIEVAL.17eacd5a1e314d78c579c6d62ce9180fFR",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Un plan du site est-il disponible sur le site de Swisscom?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Je suis d\u00e9sol\u00e9, je ne peux pas vous assister sur ce point pour l\u2019instant. Puis-je vous mettre en relation avec une personne de l\u2019Assistance Swisscom?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Est-il facile de naviguer entre les diff\u00e9rentes sections du site?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Swisscom takes internet security very seriously. They offer total protection for your devices and your digital identity with the blue security apps. This ensures that your chat questions and interactions are secure. https://www.swisscom.ch/fr/clients-prives/abonnement-internet/mycloud.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Les utilisateurs peuvent-ils personnaliser leur exp\u00e9rience sur le site Swisscom?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Oui, Swisscom d\u00e9veloppe constamment l'exp\u00e9rience client num\u00e9rique pour offrir un support client plus personnalis\u00e9 et un guidage utilisateur plus intuitif. De plus, vous pouvez personnaliser votre abonnement Internet \u00e0 tout moment dans My Swisscom et modifier votre nom d'utilisateur de connexion Swisscom. https://www.swisscom.ch/myswisscom/d?useCase=viewInternetHub%C2%A0&campId=FAQ_RETRIEVAL.5733c0ffe188e51c94d68fc5e8719af0FR,",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Y a-t-il une barre de recherche pour aider les utilisateurs \u00e0 trouver des informations sp\u00e9cifiques?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Je suis d\u00e9sol\u00e9, je ne peux pas vous assister sur ce point pour l\u2019instant. Puis-je vous mettre en relation avec une personne de l\u2019Assistance Swisscom?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Comment les utilisateurs peuvent-ils cr\u00e9er un compte Swisscom sur le site?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Les utilisateurs peuvent cr\u00e9er un compte Swisscom sur le site en utilisant leur Swisscom Login existant ou en cr\u00e9ant un nouveau Swisscom Login. https://www.mycloud.swisscom.ch/login/?type=register&lang=fr&campId=FAQ_RETRIEVAL.00a4e015204f6276ffb9a2f9507c9ef2FR",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Quelles options de paiement sont accept\u00e9es pour les services Swisscom?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Pour le versement de votre facture, vous disposez de plusieurs options :. - eBill- TWINT ou carte de cr\u00e9dit (VISA ou MasterCard) sur My Swisscom- E-banking- Recouvrement direct ou D\u00e9bit direct- Swisscom Shop ou bureau de poste (payant). Nous avons r\u00e9sum\u00e9 ici pour vous la mani\u00e8re de mettre en place ces m\u00e9thodes de paiement : https://www.swisscom.ch/paiement",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Quali servizi offre Swisscom ai consumatori individuali?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Swisscom offre una vasta gamma di servizi ai consumatori individuali, tra cui telefonia, Internet e una serie di nuove offerte e servizi digitali. Inoltre, Swisscom si impegna a fornire un servizio universale, garantendo che tutte le economie domestiche abbiano accesso a telefonia e Internet. https://www.swisscom.ch/it/about/innovazione/layer-netz-infrastruktur.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Come possono le aziende beneficiare delle soluzioni Swisscom?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Swisscom offre una vasta gamma di servizi alle aziende, sia grandi che PMI. Questi includono soluzioni per cloud, outsourcing, workplace e IoT, oltre a reti mobili e soluzioni di rete. Le aziende possono anche beneficiare di soluzioni per l'ottimizzazione dei processi aziendali, soluzioni SAP, soluzioni per la sicurezza e l'autenticazione e servizi specifici per settore. Inoltre, Swisscom supporta le operazioni di interfaccia clienti con soluzioni digitali semplici. https://www.swisscom.ch/it/about/governance/organizzazione-e-struttura.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Swisscom offre servizi per startup o piccole imprese?",
+    "language": "IT",
+    "id": "",
+    "prediction": "S\u00ec, Swisscom offre servizi per startup e piccole imprese. Il programma Swisscom StartUp fornisce know-how, accesso ai mercati e preziosi insight agli aspiranti imprenditori. Inoltre, il programma di promozione dell\u2019imprenditorialit\u00e0 Kickbox finanzia idee e pionieri dentro e fuori dall\u2019azienda. https://www.swisscom.ch/it/about/innovazione.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Quali sono le promozioni attuali disponibili sul sito Swisscom?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Swisscom offre una variet\u00e0 di promozioni e offerte speciali su una vasta gamma di prodotti, tra cui cellulari, smartphone, custodie, auricolari, altoparlanti e accessori. Nuove offerte imbattibili vengono lanciate diverse volte al mese. Inoltre, ci sono offerte speciali durante occasioni come San Valentino, Festa della Mamma, Pasqua, Black Friday e Natale. Per non perdere nessuna offerta, \u00e8 possibile abbonarsi alla newsletter di Swisscom. https://www.swisscom.ch/it/clienti-privati/prodotti/top-deals.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Come possono gli utenti conoscere i prodotti pi\u00f9 recenti di Swisscom?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Gli utenti possono conoscere i prodotti pi\u00f9 recenti di Swisscom attraverso l'elenco completo dei prodotti disponibile in My Swisscom. https://www.swisscom.ch/myswisscom?campId=FAQ_RETRIEVAL.17eacd5a1e314d78c579c6d62ce9180fIT",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "\u00c8 disponibile una mappa del sito sul sito Swisscom?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Mi dispiace, non posso aiutarla in questo momento. Posso metterla in contatto con una persona del Supporto Swisscom?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Gli utenti possono personalizzare la loro esperienza sul sito di Swisscom?",
+    "language": "IT",
+    "id": "",
+    "prediction": "S\u00ec, gli utenti possono personalizzare la loro esperienza sul sito di Swisscom. Questo include la possibilit\u00e0 di salvare il nome utente, la selezione della lingua e di ricevere offerte Swisscom personalizzate. Queste impostazioni possono essere modificate nell'Area clienti, come My Swisscom. https://www.swisscom.ch/it/clienti-privati/informazioni-legali/protezione-dei-dati/cookiepolicy.html",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "C\u2019\u00e8 una barra di ricerca per aiutare gli utenti a trovare informazioni specifiche?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Mi dispiace, non posso aiutarla in questo momento. Posso metterla in contatto con una persona del Supporto Swisscom?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Come possono gli utenti creare un account Swisscom sul sito?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Mi dispiace, non posso aiutarla in questo momento. Posso metterla in contatto con una persona del Supporto Swisscom?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Quali opzioni di pagamento sono accettate per i servizi Swisscom?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Ha diverse opzioni per il pagamento della fattura:- eBill- TWINT o carta di credito (VISA o MasterCard) su My Swisscom- E-Banking- Addebito diretto o Debit Direct- Swisscom Shop o filiale postale (a pagamento) Abbiamo riassunto qui come pu\u00f2 impostare questi metodi di pagamento: https://www.swisscom.ch/pagamento",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "Quanto \u00e8 facile navigare tra le diverse sezioni del sito?",
+    "language": "IT",
+    "id": "",
+    "prediction": "Il nostro sito web \u00e8 progettato per essere il pi\u00f9 user-friendly possibile. Le diverse sezioni sono chiaramente etichettate e facilmente accessibili dalla pagina principale. Se ha problemi a navigare o a trovare informazioni specifiche, posso aiutarla. Come posso assistere ulteriormente?",
+    "source_file": "promts.json"
+  },
+  {
+    "input": "if I switch ti swisscom, how long does it take to move the line",
+    "language": "EN",
+    "id": "",
+    "prediction": "A Swisscom support employee will help you with this enquiry. Would you like to arrange a callback from our hotline?",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "why should I choose swisscom over other compnies",
+    "language": "EN",
+    "id": "2jfocfdfohfspnvcsuo1",
+    "prediction": "Swisscom stands out for several reasons. It is the market leader in the Swiss mobile, Internet, and digital TV markets, and a leading provider of IT solutions in the Swiss corporate business segment. Swisscom's mobile and fibre networks have consistently won in independent network tests. The company is also recognized for its pioneering work in sustainability, making it the most sustainable telecommunications service provider globally. Swisscom is one of the best-known, most trusted, and highest valued companies in Switzerland, and it has received multiple awards for its cybersecurity services for businesses. Lastly, Swisscom is committed to providing the best network, flexible service, smart products, clever solutions, and a huge commitment to greater sustainability. https://www.swisscom.ch/en/about/company.html",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "I am using salt, how does it compare?",
+    "language": "EN",
+    "id": "2jfocfdfohfspnvcsuo2",
+    "prediction": "I'm sorry, I can't help you with that right now. May I forward you to someone from Swisscom Support?",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "is there a minimum time for a contract for wifi",
+    "language": "EN",
+    "id": "",
+    "prediction": "I'm having difficulty understanding your enquiry. Could you please formulate your request differently?",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "if I hire a wifi plan for my home, what is the minimum duration of the contract?",
+    "language": "EN",
+    "id": "",
+    "prediction": "I'm having difficulty understanding your enquiry. Could you please formulate your request differently?",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "perch\u00e9 dovrei scegliere Swisscom rispetto ad altre aziende",
+    "language": "IT",
+    "id": "",
+    "prediction": "Swisscom \u00e8 un'azienda di fiducia con una vasta community di oltre 10.000 utenti attivi pronti a supportarla. Inoltre, offre servizi come il Swisscom Login, My Swisscom, e la possibilit\u00e0 di gestire e pagare la sua fattura Swisscom online. Pu\u00f2 anche prenotare appuntamenti online per una consulenza presso lo Swisscom Shop pi\u00f9 vicino a lei. https://www.swisscom.ch/it/clienti-privati/aiuto/e-mail/spazio-di-archiviazione.html",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Voglio parlare con il servizio clienti",
+    "language": "EN",
+    "id": "",
+    "prediction": "Affinch\u00e9 io possa metterla in contatto con la persona giusta, la prego di scrivermi brevemente di cosa si tratta.",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "ho una domanda e voglio parlare con qualcuno",
+    "language": "IT",
+    "id": "",
+    "prediction": "Grazie mille. Sto controllando se c'\u00e8 qualcuno disponibile. Presto ricever\u00e0 una risposta qui. Sam la trasferisce verso un collaboratore. Lo storico di questa chat verr\u00e0 ripreso.",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Wie kann ich meinen Tarif \u00e4ndern?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Sie k\u00f6nnen Ihr Abo f\u00fcr Internet, TV und Telefonie online anpassen und kombinieren. https://www.swisscom.ch/de/privatkunden/kombi-abo.html?campId=FAQ_RETRIEVAL.a6a1b3b7374078a7e19f8227ba591746DE",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Wo kann ich meine monatliche Rechnung einsehen?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Sie k\u00f6nnen Ihre monatliche Rechnung in Ihrem My Swisscom einsehen, wo Sie alle Details zu Ihren bezahlten und offenen Rechnungen finden. https://login.scl.swisscom.ch/",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Ich habe mein Passwort f\u00fcr meinen Swisscom-Account vergessen, wie kann ich es \u00e4ndern?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Ich bin nicht sicher, um welches Login oder Passwort es geht. Wo m\u00f6chten Sie sich einloggen?",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Bietet Ihr Unternehmen Family- oder Kombi-Tarife an?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Ja, Swisscom bietet sowohl Familien- als auch Kombi-Rabatte an. Mit dem Kombi-Rabatt k\u00f6nnen alle profitieren, ob als Paar, Familie, in einer WG oder allein. Es gibt auch spezielle Rabatte f\u00fcr Kinder. Sie k\u00f6nnen jeden Monat bis zu 140.\u2013 sparen. https://www.swisscom.ch/de/privatkunden/kombi-abo/familienrabatt.html",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Was sind die besten Prepaid-Optionen f\u00fcr Jugendliche?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Swisscom bietet verschiedene Prepaid-Angebote an, die Sie auf der Website finden k\u00f6nnen. Sie k\u00f6nnen das passende Angebot ausw\u00e4hlen und es nach Ihren Bed\u00fcrfnissen anpassen. https://www.swisscom.ch/de/privatkunden/mobile-handy-abo/prepaid.html",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Gibt es spezielle Angebote f\u00fcr Neukunden?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Ja, Swisscom bietet verschiedene Angebote und Promotionen an, darunter auch f\u00fcr Neukunden. Sie k\u00f6nnen diese auf der Angebotsseite von Swisscom finden. https://www.swisscom.ch/de/privatkunden/angebote.html?campId=FAQ_RETRIEVAL.901737dae6ba41febac3fd35201d1668DE",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Bietet Ihr Unternehmen derzeit Rabatte auf neue Smartphones an?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Ja, Swisscom bietet immer wieder Promotionen und \u00dcberraschungen an. Mit einer Vertragsverl\u00e4ngerung k\u00f6nnen Sie ausgew\u00e4hlte Smartphones verg\u00fcnstigt kaufen.",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Y a-t-il des offres sp\u00e9ciales pour les nouveaux clients ?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Swisscom propose une exp\u00e9rience hautement personnalis\u00e9e pour chaque client gr\u00e2ce \u00e0 ses syst\u00e8mes de recommandation sur mesure. Cela garantit que chaque client re\u00e7oit une offre parfaitement adapt\u00e9e \u00e0 ses besoins.",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Votre entreprise propose-t-elle actuellement des r\u00e9ductions sur de nouveaux smartphones ?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Oui, Swisscom propose r\u00e9guli\u00e8rement des promotions sur des smartphones s\u00e9lectionn\u00e9s avec un renouvellement de contrat. Vous pouvez v\u00e9rifier si vous \u00eates \u00e9ligible pour un portable \u00e0 prix r\u00e9duit.",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Je souhaite renouveler mon forfait et acheter le nouvel iPhone, comment puis-je faire ?",
+    "language": "FR",
+    "id": "",
+    "prediction": "Votre fid\u00e9lit\u00e9 est r\u00e9compens\u00e9e chez Swisscom. Vous pouvez acheter des smartphones s\u00e9lectionn\u00e9s, y compris le nouvel iPhone, \u00e0 un prix r\u00e9duit lors du renouvellement de votre contrat. Vous pouvez \u00e9galement payer l'appareil en plusieurs fois. Pour v\u00e9rifier si vous \u00eates \u00e9ligible \u00e0 un portable \u00e0 prix r\u00e9duit, veuillez vous rendre sur My Swisscom.",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "Ich m\u00f6chte meinen Plan erneuern und das neue iPhone kaufen. Wie kann ich das tun?",
+    "language": "DE",
+    "id": "",
+    "prediction": "Sie k\u00f6nnen Ihr neues iPhone mit einer Vertragsverl\u00e4ngerung verg\u00fcnstigt kaufen und in monatlichen Raten bezahlen. Es gibt immer wieder Promotionen und \u00dcberraschungen f\u00fcr treue Kunden. Bitte pr\u00fcfen Sie, ob Sie ein verg\u00fcnstigtes Handy kaufen k\u00f6nnen.",
+    "source_file": "promts_2.json"
+  },
+  {
+    "input": "I want to talk to customer service",
+    "language": "EN",
+    "id": "",
+    "prediction": "To ensure I can connect you with the right person, please tell me briefly what it's about.",
+    "source_file": "redirections.json"
+  },
+  {
+    "input": "What services does Swisscom offer to individual consumers?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom offers a variety of services to individual consumers. This includes Internet, TV, and mobile services through their product 'blue'. The 'blue' subscriptions are climate neutral and offer benefits such as giga speed on 5G or fibre, flat rates for Europe-wide use, and one subscription for several devices. They also offer optional extras that can be added via the app, as well as security and service offerings for protecting personal data and devices. Additionally, Swisscom ensures basic service provision on behalf of the Confederation, making sure that telephony and internet are available to all Swiss households. https://www.swisscom.ch/en/about/governance/organisation-and-structure.html",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "How can businesses benefit from Swisscom's solutions?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom offers a comprehensive portfolio of solutions for businesses. For SMEs, they provide one-stop solutions including optimal Internet connections, efficient mobile subscriptions, cloud and security services, and tools to support remote working. For enterprise customers, they offer integrated ICT solutions and services for all security requirements, optimal cloud solutions, smart IoT offers, limitless connectivity, secure and efficient networking solutions and flexible solutions for collaboration and communication. Swisscom also offers customised solutions for systems integration, consulting and IT outsourcing as well as IT operations. https://www.swisscom.ch/en/about/governance/organisation-and-structure.html",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "Does Swisscom offer any services for startups or small businesses?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Yes, Swisscom offers a range of services for startups and small businesses. These include telecom services, fully integrated communications solutions, cloud, outsourcing, workplace and IoT solutions, mobile communications and network solutions, site networking, business process optimisation, SAP solutions, security and authentication solutions. Swisscom also provides support at the customer interface through simple digital solutions. https://www.swisscom.ch/en/about/governance/organisation-and-structure.html",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "How can users learn about Swisscom's latest products?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Users can stay updated about Swisscom's latest products by subscribing to the Swisscom Newsletter. This weekly news service provides information about new products, features, and top offers. It also offers tips and tricks for smartphones, apps, internet, and cybersecurity. Users can subscribe for free and unsubscribe at any time. https://www.swisscom.ch/en/residential/newsletter.html",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "Is there a site map available on the Swisscom website?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Yes, there are interactive maps available on the Swisscom website. These maps provide information about mobile coverage, fibre-optic expansion, and antenna locations for every municipality in Switzerland. https://www.swisscom.ch/en/about/network/municipalities.html",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "How easy is it to navigate between different sections of the website?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom's website is designed to be user-friendly and easy to navigate. The main sections are clearly labeled in the menu bar at the top of the page, and there are also search functions available to help you find specific information quickly. However, the ease of navigation can also depend on individual user experience and familiarity with the website. If you're having any difficulties, please let me know and I'll be happy to assist you further.",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "How do I setup swisscom router?",
+    "language": "EN",
+    "id": "",
+    "prediction": "You can find the instructions for setting up your new router on the relevant device page. Please select your Internet-Box from the list provided. https://www.swisscom.ch/en/residential/help/device/internet.html",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "How do I set up swisscom with a new phone?",
+    "language": "EN",
+    "id": "",
+    "prediction": "To set up Swisscom with a new phone, you will need a SIM card or an eSIM, depending on your device's compatibility. If your device supports eSIM, you will receive a QR code with your new eSIM profile upon ordering, which you can activate and use immediately. If your device requires a SIM card, you can order it online and it will be delivered to your home address. After receiving your SIM or eSIM, insert the new SIM card into your device's SIM slot or scan the eSIM QR code with your smartphone camera app and follow the instructions. The new SIM will be activated automatically within a few seconds. You can also activate your new card in My Swisscom. After activation, restart your mobile phone. https://www.swisscom.ch/en/residential/help/mobile/block-replace-sim.html",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "Forgot my PIN. Help",
+    "language": "EN",
+    "id": "",
+    "prediction": "If you have forgotten the PIN for your SIM, proceed as follows: - Enter an incorrect PIN 3 times to block the SIM. - View the PUK in My Swisscom (to do this, you will need your user name and password). - Enter the PUK into your phone to unblock your SIM. - Set a new SIM PIN. https://www.swisscom.ch/myswisscom/d?useCase=viewPuk",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "wifi nearly isn't working at all. Why is internet so slow?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Solve your Internet issue with our intelligent service in My Swisscom. It will check your Internet connection and suggest appropriate solutions that you can carry out quickly and easily.",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "I paid my swisscom bill but the balance still shows the deficit.",
+    "language": "EN",
+    "id": "",
+    "prediction": "It may take up to 60 minutes for the payment status to update in My Swisscom, especially for TWINT or credit card payments. You can always check the current status of your bills in My Swisscom.  https://www.swisscom.ch/myswisscom/d?useCase=billingOverview&campId=FAQ_RETRIEVAL.511771b28db6abcbd886944bdd55a786EN",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "How can you help me?",
+    "language": "EN",
+    "id": "",
+    "prediction": "As a customer service assistant, I can provide you with information and guidance on various topics related to Swisscom. For instance, I can assist you with updating your contact details, explain how My Service can support you with technical issues, and provide information about Swisscom's privacy policy. Please specify your question so I can provide a more detailed answer. https://www.swisscom.ch/myswisscom/d?useCase=changeContactDetails&campId=FAQ_RETRIEVAL.20f02c14ae9f9df3ce55d407a267e591EN",
+    "source_file": "regular.json"
+  },
+  {
+    "input": "I’m looking for information on roaming packages but can’t locate it. Can you help?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Of course, I can assist you with that. You can find information about roaming data packages on the Swisscom website. When you purchase a data package, it will be automatically activated. You can also check the remaining usage volume of your data package in your Cockpit at any time. Please remember that a purchased pack cannot be replaced or removed. https://www.swisscom.ch/en/residential/plans-rates/mobile/roaming/roaming-data-packages.html?campId=FAQ_RETRIEVAL.cfa84bab4614d01c18f7ceb03bfc0107EN"
+  },
+  {
+    "input": "Can you tell me more about your roaming packages for traveling in Europe?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom offers various data packages for roaming, which you can use while traveling in Europe. You can check the overview of these packages on the Swisscom website. Additionally, you can select the specific country in the cockpit to see the services included in your subscription and the costs of using your mobile phone in that country. https://www.swisscom.ch/en/residential/plans-rates/mobile/roaming/roaming-data-packages.html?campId=FAQ_RETRIEVAL.cfa84bab4614d01c18f7ceb03bfc0107EN"
+  },
+  {
+    "input": "How do I check how much data roaming I have left when I am outside swiss?",
+    "language": "EN",
+    "id": "",
+    "prediction": "You can check your remaining data roaming by visiting the Swisscom Cockpit. You can also send a text message to 444 with the password STATUS to get an update on your current data usage. https://cockpit.swisscom.ch/?campId=FAQ_RETRIEVAL.d1c6bb389d4bb8fb1854e25572d204e5EN"
+  },
+  {
+    "input": "how much do I have to pay if I cancel the plan early?",
+    "language": "EN",
+    "id": "",
+    "prediction": "The early termination fee for cancelling your plan early should be shown on your invoice. https://www.swisscom.ch/en/residential/mobile-subscription/switch-to-swisscom/rechnung-mobile.html"
+  },
+  {
+    "input": "where can I find swisscom locations?",
+    "language": "EN",
+    "id": "",
+    "prediction": "You can locate a Swisscom Shop near you and even schedule an appointment for a consultation online. https://www.swisscom.ch/en/residential/help/shops.html"
+  },
+  {
+    "input": "what are the internet speed plans for home plans?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom offers various internet subscriptions with different surfing speeds. You can view the specific speeds for each subscription in the product overview on the Swisscom website. https://www.swisscom.ch/en/residential/combi-subscription/internet-tv-subscription.html?campId=FAQ_RETRIEVAL.e2f2e743953017fbbbd3f1f3a1fa02ecEN"
+  },
+  {
+    "input": "how can I add eSim to my iphone?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Would you like assistance with the process of adding an eSIM to your iPhone?"
+  },
+  {
+    "input": "How can I change my home address?",
+    "language": "",
+    "id": "",
+    "prediction": "You can report a change of your home address online in My Swisscom. This allows you to manage your move and save on move fees. https://www.swisscom.ch/myswisscom/d?useCase=manageAddress&campId=FAQ_RETRIEVAL.1372dd3e9a0e9d4620e4ee6171b5577dEN"
+  },
+  {
+    "input": "Where do I go to change my account password on the site?",
+    "language": "EN",
+    "id": "",
+    "prediction": "You can manage your account password by visiting the appropriate section on the My Swisscom portal. https://www.swisscom.ch/myswisscom/d?useCase=routerPassword&campId=FAQ_RETRIEVAL.bb248f1a9f6e7fd99cf84148224d02aaEN"
+  },
+  {
+    "input": "I can’t seem to find where to manage my subscriptions on the website. Can you guide me?",
+    "language": "EN",
+    "id": "",
+    "prediction": "You can manage your subscriptions such as Internet Security and Identity Security in the 'My Swisscom' section of the website. Here, you can download, configure, adjust, and even cancel your subscriptions. https://www.swisscom.ch/myswisscom/d?useCase=manageInternetSecurityWireline&campID=NEOTESTCHAT231&campId=FAQ_RETRIEVAL.291d35c9a6871a4375c803cd4c46fd19EN"
+  },
+  {
+    "input": "Can you provide more details about the fiber optic internet plans?",
+    "language": "EN",
+    "id": "",
+    "prediction": "Swisscom's fiber optic internet plans offer speeds of up to 10 Gbit/s, providing fast surfing, quick downloads, and the best TV experiences. You can also request an additional fiber-optic socket for various uses such as a hobby room or a photovoltaic installation. The location for the additional socket is decided in consultation with the property owner(s). Before confirming the offer, the property owner(s) or management company must agree to the project. After an initial availability check and a detailed feasibility study, a binding offer is sent if the feasibility check is positive. https://www.swisscom.ch/en/about/network/connection/additional-fiber-optic-socket.html"
+  },
+  {
+    "input": "What are the steps for transferring my current Swisscom number to a new account?",
+    "language": "EN",
+    "id": "",
+    "prediction": "You can transfer your Swisscom mobile and Internet subscription to a new contract holder through My Swisscom. However, if the new contract holder is a minor, they are required to visit a Swisscom Shop in the company of their legal guardian with a valid ID and the SIM in question. https://www.swisscom.ch/en/residential/help/data-and-bills/transfer-contract.html"
+  },
+  {
+    "input": "What is the difference between your basic and premium mobile plans?",
+    "language": "EN",
+    "id": "",
+    "prediction": "I'm sorry, I can't help you with that right now. May I forward you to someone from Swisscom Support?"
+  }
+]

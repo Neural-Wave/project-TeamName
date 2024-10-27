@@ -1,40 +1,47 @@
 import json
 import pandas as pd
+from langchain_chroma import Chroma
+from langchain_openai import OpenAIEmbeddings
 from tqdm.cli import tqdm
-from datetime import datetime
 
+from dotenv import load_dotenv
+load_dotenv()
 
-class Evaluator():
-    def __init__(self, model):
-        self.model = model
-        self.path = "./assets/evaldata"
-        self.evaldata = self.load_evaldata(name="all") # dataframe
+from swisscom_rag import SwisscomRAG
 
+INPUT_FILE = "data/input.json"
+OUTPUT_FILE = "data/output.json"
 
-    def load_evaldata(self, name):
-        print(f'Opening {self.path}/{name}.json')
-        f = open(f'{self.path}/{name}.json')
-        evaldata = json.load(f)
-        evaldata_df = pd.DataFrame(evaldata)
-        print(evaldata_df.head())
-        return evaldata_df
+def main():
+    embeddings = OpenAIEmbeddings(model="text-embedding-3-large")
+    
+    vector_store = Chroma(
+      collection_name="parsed_documents",
+      embedding_function=embeddings,
+      persist_directory="chroma/swisscom_openai"
+    )
+    
+    rag = SwisscomRAG(vector_store=vector_store)
+    
+    f = open(INPUT_FILE)
 
+    input_data = json.load(f)
 
-    def run_evaluations(self):
-        results = []
-        for input_ in tqdm(self.evaldata["input"]):
-            result, _ = self.model.invoke({"input": input_})
-            results.append(result)  
+    input_data_df = pd.DataFrame(input_data)
 
-        self.evaldata["prediction"] = results
+    predictions = []
 
+    for input in tqdm(input_data_df["input"]):
+      prediction, _ = rag.invoke({"input": input})
+      predictions.append(prediction)
+      
+    input_data_df["prediction"] = predictions
 
-    def write_evaldata(self):
-        name = f"./assets/botresults/results_{datetime.now().strftime('%H:%M')}.json"
-        print(f"Writing {name}")
-        self.evaldata.to_json(
-            name,
-            orient="records",
-            indent=1
-        )
-        return name
+    input_data_df.to_json(
+        OUTPUT_FILE,
+        orient="records",
+        indent=1
+    )
+  
+if __name__ == "__main__":
+    main()

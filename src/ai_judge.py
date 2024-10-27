@@ -5,43 +5,49 @@ import pandas as pd
 from openai import OpenAI
 import json
 
+from dotenv import load_dotenv
+load_dotenv()
+
 class Decision(BaseModel):
     result: Literal['A','B','Tie']
     short_reason: str
 
 class AIJudge():
+    def __init__(self, input_file, input_base='all', output_file = "", folder = "data"):
 
-    def __init__(self, answers_ours_name, answers_base_name='all', PATH = 'assets'):
+        self.input_file = pd.read_json(input_file)
+        self.input_base = pd.read_json(input_base)
 
-        self.answers_ours = pd.read_json(answers_ours_name)
-        self.answers_base = pd.read_json(answers_base_name)
+        name = input_file.split('/')[-1]
+        
+        self.output_file = f'{folder}/eval-{self.save_filename(name)}.json'
 
-        name = answers_ours_name.split('/')[-1]
-        self.output_file_name = f'{PATH}/botresults/eval-{self.save_filename(name)}.json'
+        if(output_file):
+          self.output_file = f'{folder}/{output_file}'
+          
         self.client = OpenAI()
 
     def evaluate_responses(self, question, response_a, response_b) -> Decision:
         messages = [
             {"role": "system", "content": """
-        You are an LLM judge evaluating two chatbot responses to the same question. Please follow these criteria:
-        1. **Language consistency**: Does the chatbot answer in the language of the user? Does it adapt if the user asks to switch languages?
-        2. **Answer consistency**: Does the response accurately follow from any prior conversation context? Does it handle unrelated questions appropriately?
-        3. **Relevance**: Is the answer inherently related to the question?
-        4. **Factuality**: Is the response based on the correct and relevant information?
-        5. **Correlation**: Does the answer mention relevant references, if applicable?
+              You are an LLM judge evaluating two chatbot responses to the same question. Please follow these criteria:
+              1. **Language consistency**: Does the chatbot answer in the language of the user? Does it adapt if the user asks to switch languages?
+              2. **Answer consistency**: Does the response accurately follow from any prior conversation context? Does it handle unrelated questions appropriately?
+              3. **Relevance**: Is the answer inherently related to the question?
+              4. **Factuality**: Is the response based on the correct and relevant information?
+              5. **Correlation**: Does the answer mention relevant references, if applicable?
 
-        For each question, choose the better response. Announce the result as A, B or Tie.
-        """},
-                {"role": "user", "content": f"""
-        Question: "{question}"
+              For each question, choose the better response. Announce the result as A, B or Tie.
+              """},
+              {"role": "user", "content": f"""
+                Question: "{question}"
 
-        Response A: {response_a}
-        Response B: {response_b}
+                Response A: {response_a}
+                Response B: {response_b}
 
-        Please decide which response better meets the criteria above.
-        """}
+                Please decide which response better meets the criteria above.
+              """}
         ]
-
 
         completion = self.client.beta.chat.completions.parse(
             model="gpt-4o-2024-08-06",
@@ -59,10 +65,10 @@ class AIJudge():
         # Main evaluation loop
         results = []
 
-        their_records = self.answers_base.to_dict(orient='records')
-        our_records = self.answers_ours.to_dict(orient='records')
+        their_records = self.input_base.to_dict(orient='records')
+        our_records = self.input_file.to_dict(orient='records')
 
-        for idx, (entry_a, entry_b) in tqdm(enumerate(zip(their_records, our_records))):
+        for _, (entry_a, entry_b) in tqdm(enumerate(zip(their_records, our_records))):
             question = entry_a['input']
             response_a = entry_a['prediction']
             response_b = entry_b['prediction']
